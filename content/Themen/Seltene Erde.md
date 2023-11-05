@@ -51,14 +51,13 @@ link: "[[index]]"
 <iframe width="100%" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOEdCVjc2OE1UNlFZMEk4VVZRM0pRNjRRNyQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 ---
-### Antworten
-
-<iframe src="https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=5CCPbEz54L62HVukXqgOQ7I6QRbr5jyS&id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOEdCVjc2OE1UNlFZMEk4VVZRM0pRNjRRNyQlQCNjPTEu" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
+>[!quote] Antworten
+><iframe src="https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=5CCPbEz54L62HVukXqgOQ7I6QRbr5jyS&id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOEdCVjc2OE1UNlFZMEk4VVZRM0pRNjRRNyQlQCNjPTEu" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
 
 ## Rolle seltener Erden
-- 1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
-- 2. Erstellt ein [[Fact-Sheet]] mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der zugewiesenen Mineralien.
-- 3. Bereitet euch vor, die Inhalte des Fact-Sheets nächste Woche zu präsentieren. 
+1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
+2. Erstellt ein [[Fact-Sheet]] mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der zugewiesenen Mineralien.
+3. Bereitet euch vor, die Inhalte des Fact-Sheets nächste Woche zu präsentieren. 
 ## Förderung der internationalen Zusammenarbeit
 - 1. Besprecht die Vor- und Nachteile der oben genannten Massnahmen zur Förderung der internationalen Zusammenarbeit.
 - 2. Bereitet euch auf eine Klassendiskussion vor. 
