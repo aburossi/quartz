@@ -1,5 +1,5 @@
 > [!info] **Was ist ein Fact Sheet?**
-Stellt euch ein Fact Sheet wie einen Spickzettel vor, der alle wichtigen Infos zu einem Thema knackig zusammenfasst. Ob für Schule, Beruf oder einfach nur zum Lernen – ein Fact Sheet gibt euch den Überblick, den ihr braucht, schnell und effektiv.
+>Stellt euch ein Fact Sheet wie einen Spickzettel vor, der alle wichtigen Infos zu einem Thema knackig zusammenfasst. Ob für Schule, Beruf oder einfach nur zum Lernen – ein Fact Sheet gibt euch den Überblick, den ihr braucht, schnell und effektiv.
 
 >[!success] **Warum ist es wichtig?**
 Mit einem gut gemachten Fact Sheet könnt ihr komplizierte Sachverhalte einfach verstehen und wiedergeben. Es spart Zeit beim Lernen und hilft euch, die wichtigsten Punkte im Gedächtnis zu behalten.
