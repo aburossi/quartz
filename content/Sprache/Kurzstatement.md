@@ -13,7 +13,7 @@ Hier ist eine schnelle Anleitung, wie du ein Kurzstatement für eine spontane Di
 >#### 4. Kurz und klar ausdrücken
 >Formuliere dein Statement kurz und klar. Beginne mit deiner Meinung und folge mit deinem Hauptargument.
 >#### 5. Überzeugen
-Nutze ein oder zwei prägnante Fakten oder Beispiele, um dein Argument zu untermauern.
+>Nutze ein oder zwei prägnante Fakten oder Beispiele, um dein Argument zu untermauern.
 #### Bewertungskriterien
 | Kriterium             | 1 Punkt                                         | 2 Punkte                                                | 3 Punkte                                    |
 |-----------------------|-------------------------------------------------|---------------------------------------------------------|---------------------------------------------|
