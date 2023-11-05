@@ -1,4 +1,3 @@
 Willkommen im ABU
 
-Aktuelle Unterrichtsthemen:
-[[Seltene Erde]]
+Unter Themen werden Sie das aktuelle Unterrichtsinhalt finden können.
