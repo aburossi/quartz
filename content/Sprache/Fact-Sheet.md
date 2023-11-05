@@ -14,7 +14,7 @@ Mit einem gut gemachten Fact Sheet könnt ihr komplizierte Sachverhalte einfach 
 >7. Feedback Einholen: Lasst jemand anderen einen Blick darauf werfen. Ist das Fact Sheet verständlich und vollständig?
 
 >[!example]- **Beispiel:**
-Stellt euch vor, ihr erstellt ein Fact Sheet zum Thema "Erneuerbare Energien":
+>Stellt euch vor, ihr erstellt ein Fact Sheet zum Thema "Erneuerbare Energien":
 >- **Kernthema:** Erneuerbare Energien
 >- **Wichtige Fakten:** Definition, Arten (Solar, Wind, Wasser, Biomasse, Geothermie), Vorteile, Herausforderungen
 >- **Struktur:** Einleitung, Definition, Arten von erneuerbaren Energien, Vorteile, Herausforderungen, Schlussfolgerung
