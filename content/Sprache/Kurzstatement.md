@@ -3,7 +3,7 @@
 
 Hier ist eine schnelle Anleitung, wie du ein Kurzstatement für eine spontane Diskussion erstellen kannst:
 
->[!Anleitung] 
+>[!Note] 
 >#### 1. Thema verstehen
 >Mache dich kurz mit dem **Thema** vertraut, um zu verstehen, worum es geht.
 >#### 2. Eigene Meinung formulieren
