@@ -16,7 +16,8 @@ Mit einem gut gemachten Fact Sheet könnt ihr komplizierte Sachverhalte einfach 
 >6. Quellen Angeben: Woher habt ihr eure Infos? Gebt Quellen an, um eure Fakten zu untermauern.
 >7. Feedback Einholen: Lasst jemand anderen einen Blick darauf werfen. Ist das Fact Sheet verständlich und vollständig?
 
->[!example]- **Beispiel:**
+>[!example]- 
+>**Beispiel:**
 >Stellt euch vor, ihr erstellt ein Fact Sheet zum Thema "Erneuerbare Energien":
 >- **Kernthema:** Erneuerbare Energien
 >- **Wichtige Fakten:** Definition, Arten (Solar, Wind, Wasser, Biomasse, Geothermie), Vorteile, Herausforderungen
@@ -24,5 +25,6 @@ Mit einem gut gemachten Fact Sheet könnt ihr komplizierte Sachverhalte einfach 
 >- **Design:** Diagramme zur Energieverteilung, Fotos von Energieanlagen
 >- **Quellen:** Studien, Energiestatistiken, Expertenmeinungen
 
->[!tip] **Denkt dran:**
+>[!tip] 
+>**Denkt dran:**
 >Ein Fact Sheet ist kein Roman. Es geht um die Essenz, den Kern, den Saft der Sache. Macht es bunt, macht es spannend, aber vor allem: macht es informativ!
