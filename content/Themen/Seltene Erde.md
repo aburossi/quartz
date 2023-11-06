@@ -74,4 +74,4 @@ Welche langfristigen ökologischen Konsequenzen hat der Abbau von Electrum für 
 - Menschenrechte:
 Auf welche Weise werden die Rechte der Arbeiter und der indigenen Bevölkerung in Zafanien berücksichtigt oder missachtet? Welche Massnahmen sollten von der Regierung, Globex Mining und internationalen Organisationen ergriffen werden, um die Rechte und das Wohlergehen dieser Gruppen zu schützen und zu fördern?
 
-[[Wirtschaft]]
+[[Wirtschaft]] / [[Ökologie]] / [[Ethik]]
