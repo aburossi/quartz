@@ -54,17 +54,11 @@ aliases:
 
 ## Rolle seltener Erden
 1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
-2. Erstellt ein [[Fact-Sheet]] mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der zugewiesenen Mineralien.
+2. Erstellt ein [[Fact-Sheet]] mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der Gewinnung der zugewiesenen Mineralien.
 3. Bereitet euch vor, die Inhalte des Fact-Sheets nächste Woche zu präsentieren. 
-## Förderung der internationalen Zusammenarbeit
-- 1. Besprecht die Vor- und Nachteile der oben genannten Massnahmen zur Förderung der internationalen Zusammenarbeit.
-- 2. Bereitet euch auf eine Klassendiskussion vor. 
-- ==Handelsabkommen==: Vereinbarungen zwischen Ländern, die den Handel mit erneuerbaren Technologien oder Mineralien erleichtern.
-- ==Technologietransfer==: Fortgeschrittene Länder könnten Technologie und Know-how an weniger entwickelte Länder weitergeben.
-- ==Bildung und Aufklärung==: Internationale Programme könnten entwickelt werden, um das Bewusstsein für die Bedeutung der erneuerbaren Energien zu steigern. 
 ## Fallstudie zu ethischen Prinzipien
 1. Lest die Fallstudie sorgfältig durch.
-	==Fallstudie: In einem kleinen Land in Afrika wird ein seltenes Mineral abgebaut, das für Batterien in Elektroautos wichtig ist. Das Bergbauunternehmen ist eine internationale Firma. Obwohl dieses Projekt dem Land wirtschaftlich helfen könnte, gibt es Berichte über schlechte Arbeitsbedingungen und Umweltverschmutzung. Zusätzlich wurden die Landrechte der indigenen Bevölkerung missachtet.==
+	>Fallstudie: In einem kleinen Land in Afrika wird ein seltenes Mineral abgebaut, das für Batterien in Elektroautos wichtig ist. Das Bergbauunternehmen ist eine internationale Firma. Obwohl dieses Projekt dem Land wirtschaftlich helfen könnte, gibt es Berichte über schlechte Arbeitsbedingungen und Umweltverschmutzung. Zusätzlich wurden die Landrechte der indigenen Bevölkerung missachtet.
 ## Beantwortet die folgenden ethischen Fragen in eurer Gruppe:
 - ==Fairness==: - Wer profitiert von dem Bergbau und wer nicht? - Wie werden die Gewinne verteilt?
 - [[Nachhaltigkeit]]: - Welche langfristigen ökologischen Auswirkungen hat der Bergbau? - Sind diese Auswirkungen mit den Zielen der Energiewende vereinbar?
