@@ -5,9 +5,9 @@ tags:
 # Prämienanstieg 2023
 ### Versteh die Prämiensteigerung!
 
-**Warum es zählt:** Die **Krankenkassenprämien** in der Schweiz steigen 2024 um durchschnittlich **8.7%**. Dies betrifft jeden, der versichert ist.
+**Warum es zählt:** Die **[[Krankenkassenprämien]]** in der Schweiz steigen 2024 um durchschnittlich **8.7%**. Dies betrifft jeden, der versichert ist.
 
-**Was es ist:** Prämien sind Beiträge an die Krankenkassen für die **Gesundheitsversorgung**. Alle zahlen ein, um im Krankheitsfall unterstützt zu werden.
+**Was es ist:** [[Prämien]] sind Beiträge an die Krankenkassen für die **Gesundheitsversorgung**. Alle zahlen ein, um im Krankheitsfall unterstützt zu werden.
 
 **Warum es passiert:** Die Kosten steigen wegen medizinischer Fortschritte und einer älter werdenden Bevölkerung.
 
@@ -32,7 +32,6 @@ tags:
 **Anleitung:**
 
 1. **Gruppenbildung:**
-    
     - Bildet Gruppen von 3-4 Schülern.
 2. **Artikel lesen:**
 [Link zum Artikel](https://www.bag.admin.ch/bag/de/home/das-bag/aktuell/news/news-26-09-2023.html).
@@ -51,7 +50,7 @@ tags:
 
  - Diskutiert in eurer Gruppe über den Artikel und die beantworteten Fragen.
  - Überlegt gemeinsam, wie die Gesundheitskosten in der Schweiz reduziert werden könnten.
-- Notiert eure Vorschläge und Ideen im Formular unten
+- Notiert eure Vorschläge und Ideen im Formular unten.
 - ==Jede Gruppe sollte sich auf eine kurze Präsentation ihrer Vorschläge vorbereiten. Die Präsentation sollte nicht länger als 1 Minute dauern.==
 
 **Hinweis:** Denkt bei euren Vorschlägen sowohl an kurzfristige als auch an langfristige Lösungen. Berücksichtigt dabei die verschiedenen Aspekte des Gesundheitssystems.
