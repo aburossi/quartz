@@ -11,7 +11,7 @@ tags:
 
 **Warum es passiert:** Die Kosten steigen wegen medizinischer Fortschritte und einer älter werdenden Bevölkerung.
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Eg8XIVsB1dU?si=nQRJKhHnzUMsLE0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="600" src="https://www.youtube.com/embed/Eg8XIVsB1dU?si=nQRJKhHnzUMsLE0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 ## Diskussion
@@ -19,7 +19,7 @@ tags:
 - Warum ist es wichtig, dass die Krankenkassenprämien die Kosten der obligatorischen Krankenversicherung decken?
 - Welche Faktoren könnten zu steigenden Gesundheitskosten beitragen?
 
-#### Gruppenarbeit zur Analyse der steigenden Gesundheitskosten
+# Gruppenarbeit zur Analyse der steigenden Gesundheitskosten
 
 ---
 
@@ -47,12 +47,12 @@ tags:
 <iframe width="100%" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOFlMWFRKMkhaWDVBMkIyREhXQUwwT0Q3UyQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
-1. **Diskussion und Vorschläge:**
-    
-    - Diskutiert in eurer Gruppe über den Artikel und die beantworteten Fragen.
-    - Überlegt gemeinsam, wie die Gesundheitskosten in der Schweiz reduziert werden könnten.
-    - Notiert eure Vorschläge und Ideen im Formular unten
-    - Jede Gruppe sollte sich auf eine kurze Präsentation ihrer Vorschläge vorbereiten. Die Präsentation sollte nicht länger als 1 Minute dauern.
+### Diskussion und Vorschläge:
+
+ - Diskutiert in eurer Gruppe über den Artikel und die beantworteten Fragen.
+ - Überlegt gemeinsam, wie die Gesundheitskosten in der Schweiz reduziert werden könnten.
+- Notiert eure Vorschläge und Ideen im Formular unten
+- ==Jede Gruppe sollte sich auf eine kurze Präsentation ihrer Vorschläge vorbereiten. Die Präsentation sollte nicht länger als 1 Minute dauern.==
 
 **Hinweis:** Denkt bei euren Vorschlägen sowohl an kurzfristige als auch an langfristige Lösungen. Berücksichtigt dabei die verschiedenen Aspekte des Gesundheitssystems.
 
