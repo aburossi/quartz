@@ -29,7 +29,7 @@ tags:
 
 ---
 ### Diskussion
-- Wie wichtig sind seltene Erden für die **Energiewende** und welche **Alternativen** gibt es zu ihrer Verwendung? 
+- Wie wichtig sind seltene Erden für die **[[Energiewende]]** und welche **Alternativen** gibt es zu ihrer Verwendung? 
 - Welche Risiken und Chancen hat die **Abhängigkeit von China** als Hauptlieferant von seltenen Erden für die Schweiz und andere Länder?
 
 # Ablauf Woche 2
