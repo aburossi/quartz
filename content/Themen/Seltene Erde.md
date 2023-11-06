@@ -23,7 +23,7 @@ tags:
 ---
 - Dringend gesucht: Seltene Erden und Metalle
   SRF News 29/09/2023	
-## Der Westen will den Abbau seltener Metalle forcieren
+## Der Westen will den Abbau [[Seltener Metalle]] forcieren
 <iframe width="100%" height="600" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:5ec0ad50-d66b-4fb1-85af-1139fb3d2c5f&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 
