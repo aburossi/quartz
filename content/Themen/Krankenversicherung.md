@@ -10,7 +10,10 @@ tags:
 **Was es ist:** Prämien sind Beiträge an die Krankenkassen für die **Gesundheitsversorgung**. Alle zahlen ein, um im Krankheitsfall unterstützt zu werden.
 
 **Warum es passiert:** Die Kosten steigen wegen medizinischer Fortschritte und einer älter werdenden Bevölkerung.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Eg8XIVsB1dU?si=nQRJKhHnzUMsLE0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Eg8XIVsB1dU?si=nQRJKhHnzUMsLE0u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 ## Diskussion
 - Was denken Sie über den Anstieg der Krankenkassenprämien?
 - Warum ist es wichtig, dass die Krankenkassenprämien die Kosten der obligatorischen Krankenversicherung decken?
@@ -40,7 +43,8 @@ tags:
 		        - Was sind die Hauptgründe für den Anstieg der Prämien?
 		        - Wie beeinflusst die alternde Bevölkerung die Gesundheitskosten?
 		        - Welche Rolle spielen neue medizinische Entwicklungen bei den steigenden Kosten?
-<iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOFlMWFRKMkhaWDVBMkIyREhXQUwwT0Q3UyQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+
+<iframe width="100%" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOFlMWFRKMkhaWDVBMkIyREhXQUwwT0Q3UyQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 
 1. **Diskussion und Vorschläge:**
@@ -52,6 +56,6 @@ tags:
 
 **Hinweis:** Denkt bei euren Vorschlägen sowohl an kurzfristige als auch an langfristige Lösungen. Berücksichtigt dabei die verschiedenen Aspekte des Gesundheitssystems.
 
-<iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRURTFOTVVaNjZVUFM5VEJZNzlSQkozQVJUUiQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+<iframe width="100%" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRURTFOTVVaNjZVUFM5VEJZNzlSQkozQVJUUiQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
->[!quote]- Antworten<iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=4od6ahlyqZZ6Wj3iztx6MovOygJrC0ck&id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRURTFOTVVaNjZVUFM5VEJZNzlSQkozQVJUUiQlQCNjPTEu" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
+>[!quote]- Antworten<iframe width="100%" height="480px" src="https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=4od6ahlyqZZ6Wj3iztx6MovOygJrC0ck&id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRURTFOTVVaNjZVUFM5VEJZNzlSQkozQVJUUiQlQCNjPTEu" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
