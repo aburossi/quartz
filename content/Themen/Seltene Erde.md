@@ -1,8 +1,8 @@
 ---
 aliases: 
 link: "[[index]]"
+Aspekt: "[[Wirtschaft]]"
 ---
-
 # Ablauf Woche 1
 - Kupfer, Lithium und Co – was es braucht für die Energiewende
   SRF Wissen 08/09/2023
