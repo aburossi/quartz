@@ -54,14 +54,24 @@ aliases:
 
 ## Rolle seltener Erden
 1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
-2. Erstellt ein [[Fact-Sheet]] mit ==Anwendungen==, ==Vorkommen== und ==ökologischen Auswirkungen== der Gewinnung der zugewiesenen Mineralien.
+2. Erstellt ein [[Fact-Sheet]] mit Anwendungen, Vorkommen und ökologischen Auswirkungen der Gewinnung der zugewiesenen Mineralien.
 3. Bereitet euch vor, die Inhalte des Fact-Sheets nächste Woche zu präsentieren. 
-## Fallstudie zu ethischen Prinzipien
+## Fallstudie zu Ethik im Bergbau
 1. Lest die Fallstudie sorgfältig durch.
-	>Fallstudie: In einem kleinen Land in Afrika wird ein seltenes Mineral abgebaut, das für Batterien in Elektroautos wichtig ist. Das Bergbauunternehmen ist eine internationale Firma. Obwohl dieses Projekt dem Land wirtschaftlich helfen könnte, gibt es Berichte über schlechte Arbeitsbedingungen und Umweltverschmutzung. Zusätzlich wurden die Landrechte der indigenen Bevölkerung missachtet.
-## Beantwortet die folgenden ethischen Fragen in eurer Gruppe:
-- ==Fairness==: - Wer profitiert von dem Bergbau und wer nicht? - Wie werden die Gewinne verteilt?
-- [[Nachhaltigkeit]]: - Welche langfristigen ökologischen Auswirkungen hat der Bergbau? - Sind diese Auswirkungen mit den Zielen der Energiewende vereinbar?
-- ==Menschenrechte==: - Wie werden die Rechte der Arbeiter und der indigenen Bevölkerung berücksichtigt oder missachtet? - Welche Massnahmen sollten ergriffen werden, um ihre Rechte zu schützen? 
+
+	>==In der fiktiven Nation Zafanien in Afrika wird ein seltenes Mineral namens "Electrum", das für die Herstellung von Batterien in Elektroautos unerlässlich ist, abgebaut. Das Bergbauvorhaben wird von der internationalen Firma Globex Mining durchgeführt, die eine Monopolstellung in der Elektrumförderung innehat. Die wirtschaftliche Lage Zafaniens ist prekär, und die Regierung hat grosse Hoffnungen in das Projekt gesetzt, um die nationale Wirtschaft zu beleben und Arbeitsplätze zu schaffen.
+	>Jedoch gibt es zunehmend besorgniserregende Berichte über die Arbeitsbedingungen in den Minen. Die Arbeiter beklagen niedrige Löhne, lange Arbeitszeiten und unzureichende Sicherheitsvorkehrungen. Auch die Auswirkungen auf die Umwelt sind gravierend: Gewässerverschmutzung, Luftverschmutzung und eine fortschreitende Erosion sind die sichtbaren Zeichen des intensiven Abbaus.
+	>Darüber hinaus kommt es zu Konflikten mit den lokalen indigenen Gemeinschaften. Ihre Landrechte wurden übergangen, als die Regierung und Globex Mining das Abbauprojekt in Gang setzten. Viele der indigenen Bewohner wurden zwangsweise umgesiedelt, ohne angemessene Entschädigung oder Mitspracherecht.==
+
+Angesichts dieser Situation sind **ethische Fragen** unvermeidbar. Beantworten Sie diese im Formular unten.
+
+- Fairness:
+Wer profitiert von dem Bergbau in Zafanien und in welchem Masse? Wie sieht die Verteilung des generierten Reichtums aus? Inwiefern profitiert die lokale Bevölkerung von den Aktivitäten von Globex Mining, und wie wird der Wohlstand zwischen internationalen Stakeholdern und der Bevölkerung Zafaniens aufgeteilt?
+
+- Nachhaltigkeit:
+Welche langfristigen ökologischen Konsequenzen hat der Abbau von Electrum für die Umwelt Zafaniens? Wie beeinflusst dieser die lokalen Ökosysteme und die Lebensqualität der dortigen Bewohner? Inwiefern sind diese Auswirkungen mit den globalen Bestrebungen einer nachhaltigen Energiewende vereinbar?
+
+- Menschenrechte:
+Auf welche Weise werden die Rechte der Arbeiter und der indigenen Bevölkerung in Zafanien berücksichtigt oder missachtet? Welche Massnahmen sollten von der Regierung, Globex Mining und internationalen Organisationen ergriffen werden, um die Rechte und das Wohlergehen dieser Gruppen zu schützen und zu fördern?
 
 [[Wirtschaft]]
