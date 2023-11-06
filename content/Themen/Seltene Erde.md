@@ -1,7 +1,5 @@
 ---
-aliases: 
-link: "[[index]]"
-Aspekt: "[[Wirtschaft]]"
+aliases:
 ---
 # Ablauf Woche 1
 - Kupfer, Lithium und Co – was es braucht für die Energiewende
@@ -71,3 +69,5 @@ Aspekt: "[[Wirtschaft]]"
 - ==Fairness==: - Wer profitiert von dem Bergbau und wer nicht? - Wie werden die Gewinne verteilt?
 - [[Nachhaltigkeit]]: - Welche langfristigen ökologischen Auswirkungen hat der Bergbau? - Sind diese Auswirkungen mit den Zielen der Energiewende vereinbar?
 - ==Menschenrechte==: - Wie werden die Rechte der Arbeiter und der indigenen Bevölkerung berücksichtigt oder missachtet? - Welche Massnahmen sollten ergriffen werden, um ihre Rechte zu schützen? 
+
+[[Wirtschaft]]
