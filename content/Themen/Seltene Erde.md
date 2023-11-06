@@ -68,14 +68,13 @@ tags:
 	>Darüber hinaus kommt es zu Konflikten mit den lokalen indigenen Gemeinschaften. Ihre Landrechte wurden übergangen, als die Regierung und Globex Mining das Abbauprojekt in Gang setzten. Viele der indigenen Bewohner wurden zwangsweise umgesiedelt, ohne angemessene Entschädigung oder Mitspracherecht.==
 
 Angesichts dieser Situation sind **ethische Fragen** unvermeidbar. Beantworten Sie diese im Formular unten.
-
 - Fairness:
 Wer profitiert von dem Bergbau in Zafanien und in welchem Masse? Wie sieht die Verteilung des generierten Reichtums aus? Inwiefern profitiert die lokale Bevölkerung von den Aktivitäten von Globex Mining, und wie wird der Wohlstand zwischen internationalen Stakeholdern und der Bevölkerung Zafaniens aufgeteilt?
-
 - Nachhaltigkeit:
 Welche langfristigen ökologischen Konsequenzen hat der Abbau von Electrum für die Umwelt Zafaniens? Wie beeinflusst dieser die lokalen Ökosysteme und die Lebensqualität der dortigen Bewohner? Inwiefern sind diese Auswirkungen mit den globalen Bestrebungen einer nachhaltigen Energiewende vereinbar?
-
 - Menschenrechte:
 Auf welche Weise werden die Rechte der Arbeiter und der indigenen Bevölkerung in Zafanien berücksichtigt oder missachtet? Welche Massnahmen sollten von der Regierung, Globex Mining und internationalen Organisationen ergriffen werden, um die Rechte und das Wohlergehen dieser Gruppen zu schützen und zu fördern?
+
+<iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUQ1dSWjEwUlZDOVRVMllHTjhHVERTRTU5SCQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
 [[Wirtschaft]] / [[Ökologie]] / [[Ethik]]
