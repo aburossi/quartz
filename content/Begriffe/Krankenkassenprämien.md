@@ -1,7 +1,3 @@
-### **Krankenkassenprämien: Dein Schlüssel zur Gesundheit!**
-
----
-
 # Was ist das?
 
 Die **Krankenkassenprämien** in der Schweiz sind monatliche Beiträge, die ihr an eure Krankenkasse zahlt. Diese Beiträge decken einen Teil der Kosten für eure medizinische Versorgung ab, wie Arztbesuche, Medikamente oder Krankenhausaufenthalte. In der Schweiz ist es gesetzlich vorgeschrieben, dass jeder eine Grundversicherung haben muss – das heißt, ihr seid ab der Geburt bis ins hohe Alter krankenversichert.
@@ -14,7 +10,7 @@ Stellt euch vor, ihr werdet plötzlich krank. Ohne Versicherung könnten die Kos
 
 **1. Versicherung auswählen:** Ihr sucht euch eine Krankenkasse aus, die zu euren Bedürfnissen passt. Es gibt viele verschiedene Anbieter in der Schweiz.
 
-**2. Prämien berechnen:** Eure monatliche Prämie wird auf Grundlage verschiedener Faktoren berechnet, wie euer Alter, euer Wohnkanton und das gewählte Versicherungsmodell (z.B. Hausarztmodell, HMO, Telmed).
+**2. Prämien berechnen:** Eure monatliche Prämie wird auf Grundlage verschiedener Faktoren berechnet, wie euer Alter, euer Wohnkanton und das gewählte Versicherungsmodell (z.B. Hausarztmodell, HMO, Telmed). Prämien können zum Beispiel mit dem [[Prämienrechner Krankenversicherung]] berechnen werden.
 
 **3. Leistungen nutzen:** Wenn ihr zum Arzt müsst oder Medikamente braucht, übernimmt eure Krankenkasse einen Grossteil der Kosten. Aber Achtung: Ihr zahlt zuerst die [[Franchise]], die ihr zu Beginn des Jahres festlegt.
 
