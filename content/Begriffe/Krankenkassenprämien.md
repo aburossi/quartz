@@ -11,6 +11,8 @@ Stellt euch vor, ihr werdet plötzlich krank. Ohne Versicherung könnten die Kos
 **1. Versicherung auswählen:** Ihr sucht euch eine Krankenkasse aus, die zu euren Bedürfnissen passt. Es gibt viele verschiedene Anbieter in der Schweiz.
 
 **2. Prämien berechnen:** Eure monatliche Prämie wird auf Grundlage verschiedener Faktoren berechnet, wie euer Alter, euer Wohnkanton und das gewählte Versicherungsmodell (z.B. Hausarztmodell, HMO, Telmed). Prämien können zum Beispiel mit dem [[Prämienrechner Krankenversicherung]] berechnen werden.
+>[!tip]- Link
+>▶[Prämienrechner 2024 – Priminfo (admin.ch)](https://www.priminfo.admin.ch/de/praemien)
 
 **3. Leistungen nutzen:** Wenn ihr zum Arzt müsst oder Medikamente braucht, übernimmt eure Krankenkasse einen Grossteil der Kosten. Aber Achtung: Ihr zahlt zuerst die [[Franchise]], die ihr zu Beginn des Jahres festlegt.
 
