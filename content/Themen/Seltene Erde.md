@@ -84,7 +84,10 @@ Auf welche Weise werden die Rechte der Arbeiter und der indigenen Bevölkerung i
 - Präsentationen
 
 ## Kreislaufwirtschaft kann Ökosystem retten
-<iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:3744d88b-2f5c-4411-a436-4f4815a47670&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+<iframe width="100%" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:3744d88b-2f5c-4411-a436-4f4815a47670&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+---
+
 ## Gruppenauftrag Kreislaufwirtschaft:
 - **Gruppe 1**: _Was ist Kreislaufwirtschaft?_  
     Eure Aufgabe ist, die Definition, die Ziele und die Vorteile der Kreislaufwirtschaft aus der Seite des BAFU zusammenzufassen und grafisch darzustellen. Zusätzlich, erklärt den Unterschied zwischen linearer und kreislauforientierter Wirtschaft. 
