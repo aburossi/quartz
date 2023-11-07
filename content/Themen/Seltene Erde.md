@@ -77,4 +77,23 @@ Auf welche Weise werden die Rechte der Arbeiter und der indigenen Bevölkerung i
 
 <iframe width="640px" height="480px" src="https://forms.microsoft.com/Pages/ResponsePage.aspx?id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUQ1dSWjEwUlZDOVRVMllHTjhHVERTRTU5SCQlQCNjPTEu&embed=true" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen> </iframe>
 
+# Ablauf Woche 3
+## Präsentationen Fact-Sheets
+- Kreislaufwirtschaft kann Ökosystem retten
+- Auftrag Kreislaufwirtschaft
+- Präsentationen
+
+## Kreislaufwirtschaft kann Ökosystem retten
+<iframe width="560" height="315" src="https://www.srf.ch/play/embed?urn=urn:srf:audio:3744d88b-2f5c-4411-a436-4f4815a47670&subdivisions=false" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+## Gruppenauftrag Kreislaufwirtschaft:
+- **Gruppe 1**: _Was ist Kreislaufwirtschaft?_  
+    Eure Aufgabe ist, die Definition, die Ziele und die Vorteile der Kreislaufwirtschaft aus der Seite des BAFU zusammenzufassen und grafisch darzustellen. Zusätzlich, erklärt den Unterschied zwischen linearer und kreislauforientierter Wirtschaft. 
+- **Gruppe 2-4**: _Produkte der Kreislaufwirtschaft_  
+    Wählt aus der BAFU-Seite ein Produkt oder eine Dienstleistung aus, das/die kreislauforientiert ist. Erklärt, wie es funktioniert und welche ökologischen und ökonomischen Vorteile es hat. Überlegt euch auch, wie diese Produkte oder Dienstleistungen zur effizienten Nutzung von Seltenen Erden beitragen können, die ihr zuvor kennengelernt habt.  
+- **Gruppe 5**: _Kreislaufwirtschaft Quiz_  
+    Eure Aufgabe ist es, ein Quiz zu erstellen! Formuliert aus der BAFU-Seite mindestens zehn Fragen und Antworten. Fügt kreative Elemente hinzu, um das Quiz spannender zu gestalten. Denkt dabei auch an Fragen, die sich auf den WWF und PwC Bericht beziehen, um das Verständnis der Klasse für den realen Anwendungskontext der Kreislaufwirtschaft zu überprüfen.  
+### Präsentation:  
+- Die Gruppen präsentieren ihre Lernprodukte. Sie erklären, wie sie vorgegangen sind und was sie gelernt haben.
+- Abschliessend führt Gruppe 5 das Quiz durch und wertet die Ergebnisse aus. 
+
 [[Wirtschaft]] / [[Ökologie]] / [[Ethik]]
