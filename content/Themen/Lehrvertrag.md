@@ -12,9 +12,9 @@ tags:
 1. **Vorbereitung**: Lies den bereitgestellten Text aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
 
 >[!quote]- Kapitel Lehrmittel
->Inhalt 
->Probezeit
->Beendigung des Lehrverhältnis
+>- Inhalt
+>- Probezeit
+>- Beendigung des Lehrverhältnis
 
 2. **Begriffe auswählen**: Unten siehst du eine Tabelle mit verschiedenen Begriffen. Wähle **fünf** Begriffe aus, die deinem persönlichen Interesse entsprechen.
 
