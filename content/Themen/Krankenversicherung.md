@@ -38,6 +38,7 @@ tags:
     - Nehmt euch 10 Minuten Zeit, um den Artikel sorgfältig durchzulesen.
 3. **Verständnisfragen:**
 	- Während oder nach dem Lesen des Artikels, beantwortet die folgenden Fragen (s. Formular unten).
+
 		    - Ziel ist es die folgende Fragen für sich beantworten zu können
 		        - Was sind die Hauptgründe für den Anstieg der Prämien?
 		        - Wie beeinflusst die alternde Bevölkerung die Gesundheitskosten?
