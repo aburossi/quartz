@@ -38,18 +38,15 @@ tags:
     
     - **Stichwort**
     - **Kurze Beschreibung aus dem Lehrmittel**
-    - **Link zur Webseite**
     - **Kurze Zusammenfassung der Informationen von der Webseite**
-    
+    - **Link zur Webseite**
+
     Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
     
 5. **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
-    
     - Welche neuen Informationen hast du durch die Online-Recherche gewonnen?
     - Gab es Widersprüche oder Ergänzungen zu dem, was im Lehrmittel steht?
     - Wie hilfreich fandest du die Online-Ressourcen im Vergleich zum Lehrmittel?
-6. **Gruppenarbeit**: Schließe dich mit bis zu 3 anderen Schülern zusammen. Vergleicht eure Ergebnisse und entscheidet gemeinsam, welche vier Begriffe euch besonders wichtig erscheinen. Bereitet euch darauf vor, diese Begriffe der Klasse zu präsentieren.
-    
 
 **Bewertungskriterien:**
 
