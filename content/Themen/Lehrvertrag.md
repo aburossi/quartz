@@ -1,4 +1,4 @@
-**Arbeitsblatt:** "Ich kenne meine Rechte!"
+**Auftrag:** "Ich kenne meine Rechte!"
 
 **Ziel:** Du sollst die im Lehrmittel behandelten Inhalte mit Online-Ressourcen kombinieren, um ein tieferes Verständnis für die Rechte der Lernenden zu entwickeln.
 
