@@ -19,9 +19,12 @@
 |Sexuelle Belästigung|Qualifikationsverfahren|Verlängerung der Lehrzeit|
 |Militärdienst|Krankheit|Unfall|
 
-3. **Online-Recherche**: Suche auf der Website [https://www.rechte-der-lernenden.ch/von-a-z/](https://www.rechte-der-lernenden.ch/von-a-z/) nach den von dir ausgewählten Begriffen, um tiefergehende Informationen zu finden.
-    
-4. **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
+3. **Online-Recherche**: Suche auf der Website **ich kenne meine Rechte** nach den von dir ausgewählten Begriffen, um tiefergehende Informationen zu finden.
+    <iframe width="100%" height="600" src="https://www.rechte-der-lernenden.ch/von-a-z/" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>[!quote]- Link Ich kenne meine Rechte
+>[https://www.rechte-der-lernenden.ch/von-a-z/](https://www.rechte-der-lernenden.ch/von-a-z/
+
+1. **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
     
     - **Stichwort**
     - **Kurze Beschreibung aus dem Lehrmittel**
@@ -46,4 +49,3 @@
 ## Abgabe
 Die Lehrperson wird die Abgabebedingungen bekannt geben
 
-<iframe width="100%" height="600" src="https://www.rechte-der-lernenden.ch/von-a-z/" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
