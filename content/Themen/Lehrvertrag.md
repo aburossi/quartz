@@ -1,3 +1,8 @@
+---
+tags:
+  - Recht
+---
+
 **Auftrag:** "Ich kenne meine Rechte!"
 
 **Ziel:** Du sollst die im Lehrmittel behandelten Inhalte mit Online-Ressourcen kombinieren, um ein tieferes Verständnis für die Rechte der Lernenden zu entwickeln.
@@ -47,5 +52,5 @@
 - **Reflexion und Analyse:** Wie tiefgehend und durchdacht ist die Auseinandersetzung mit den Inhalten? Werden Unterschiede zwischen den Quellen erkannt und analysiert?
 
 ## Abgabe
-Die Lehrperson wird die Abgabebedingungen bekannt geben
+Die Lehrperson wird die Abgabebedingungen bekannt geben.
 
