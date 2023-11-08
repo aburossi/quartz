@@ -2,7 +2,6 @@
 tags:
   - Recht
 ---
-
 # Auftrag:
 
 **Ziel:** Du sollst die im Lehrmittel behandelten Inhalte mit Online-Ressourcen kombinieren, um ein tieferes Verständnis für die Rechte der Lernenden zu entwickeln.
@@ -57,3 +56,4 @@ Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
 ## Abgabe
 Die Lehrperson wird die Abgabebedingungen bekannt geben.
 
+[[Lehrvertrag]]
