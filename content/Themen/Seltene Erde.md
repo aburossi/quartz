@@ -56,6 +56,8 @@ tags:
 >[!quote]- Antworten
 ><iframe src="https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=5CCPbEz54L62HVukXqgOQ7I6QRbr5jyS&id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUOEdCVjc2OE1UNlFZMEk4VVZRM0pRNjRRNyQlQCNjPTEu" style="border:0px #ffffff none;" name="myiFrame" scrolling="no" frameborder="1" marginheight="0px" marginwidth="0px" height="400px" width="100%" allowfullscreen></iframe>
 
+![[Pasted image 20231108094754.png]]
+
 ## Rolle seltener Erden
 1. Euch wird eines der folgenden Mineralien zugewiesen: Lithium, Kobalt, Neodym, Graphit, Silber, Kupfer, Dysprosium.
 2. Erstellt ein [[Fact-Sheet]] mit Anwendungen, Vorkommen und ökologischen Auswirkungen der Gewinnung der zugewiesenen Mineralien.

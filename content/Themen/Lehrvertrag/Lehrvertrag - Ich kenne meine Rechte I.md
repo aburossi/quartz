@@ -3,15 +3,15 @@ tags:
   - Recht
 ---
 
-**Auftrag:** "Ich kenne meine Rechte!"
+# **Auftrag:** "Ich kenne meine Rechte!"
 
 **Ziel:** Du sollst die im Lehrmittel behandelten Inhalte mit Online-Ressourcen kombinieren, um ein tieferes Verständnis für die Rechte der Lernenden zu entwickeln.
 
-**Anweisungen:**
+## **Anweisungen:**
 
-1. **Vorbereitung**: Lies den bereitgestellten Text aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
+1. **Vorbereitung**: Lies die Inhalte aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
 
->[!quote]- Kapitel Lehrmittel
+>[!quote]- Inhalte Lehrmittel
 >- Inhalt
 >- Probezeit
 >- Beendigung des Lehrverhältnis
