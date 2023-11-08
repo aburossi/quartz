@@ -3,7 +3,7 @@ tags:
   - Recht
 ---
 
-# **Auftrag:** "Ich kenne meine Rechte!"
+# Auftrag:
 
 **Ziel:** Du sollst die im Lehrmittel behandelten Inhalte mit Online-Ressourcen kombinieren, um ein tieferes Verständnis für die Rechte der Lernenden zu entwickeln.
 
@@ -36,12 +36,16 @@ tags:
 
 1. **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
     
-    - **Stichwort**
-    - **Kurze Beschreibung aus dem Lehrmittel**
-    - **Kurze Zusammenfassung der Informationen von der Webseite**
-    - **Link zur Webseite**
+    - **Begriff**
+    - **Lehrmittel**
+    - **Webseite**
+    - **Link**
 
-    Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
+|Begriff|Lehrmittel|Website|Link Website|
+|---|---|---|---|
+|_ausgewählte Begriff_|_Kurze Beschreibung aus dem Lehrmittel_|_Kurze Zusammenfassung der Informationen von der Webseite_|_Link zur Webseite_|
+
+Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
     
 5. **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
     - Welche neuen Informationen hast du durch die Online-Recherche gewonnen?
@@ -51,7 +55,7 @@ tags:
 **Bewertungskriterien:**
 
 - **Vollständigkeit der Tabelle:** Sind alle Spalten für jeden der fünf Begriffe korrekt ausgefüllt?
-- **Reflexion und Analyse:** Wie tiefgehend und durchdacht ist die Auseinandersetzung mit den Inhalten? Werden Unterschiede zwischen den Quellen erkannt und analysiert?
+- **Reflexion und Analyse:** Wie tiefgehend und durchdacht ist die Auseinandersetzung mit den Inhalten? 
 
 ## Abgabe
 Die Lehrperson wird die Abgabebedingungen bekannt geben.
