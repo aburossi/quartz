@@ -12,6 +12,7 @@ tags:
 1. **Vorbereitung**: Lies die Inhalte aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
 
 >[!quote]- Inhalte Lehrmittel
+>Kapitel 1.4
 >- Inhalt
 >- Probezeit
 >- Beendigung des Lehrverhältnis
@@ -38,12 +39,14 @@ tags:
     - **Webseite**
     - **Link**
 
-|Begriff|Lehrmittel|Website|Link Website|
-|---|---|---|---|
-|_ausgewählte Begriff_|_Kurze Beschreibung aus dem Lehrmittel_|_Kurze Zusammenfassung der Informationen von der Webseite_|_Link zur Webseite_|
-
 Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
-    
+
+>[!quote]- Auftrag Tabelle
+>
+>|Begriff|Lehrmittel|Website|Link Website|
+>|---|---|---|---|
+>|_ausgewählte Begriff_|_Kurze Beschreibung aus dem Lehrmittel_|_Kurze Zusammenfassung der Informationen von der Webseite_|_Link zur Webseite_|
+
 5. **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
     - Welche neuen Informationen hast du durch die Online-Recherche gewonnen?
     - Gab es Widersprüche oder Ergänzungen zu dem, was im Lehrmittel steht?
