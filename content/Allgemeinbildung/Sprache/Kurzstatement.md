@@ -1,3 +1,9 @@
+---
+tags:
+  - SUK
+  - SUK/Produktion
+---
+
 > [!info] 
 > Ein **Kurzstatement** ist eine kompakte und prägnante Darstellung deiner Meinung zu einem Thema. 
 

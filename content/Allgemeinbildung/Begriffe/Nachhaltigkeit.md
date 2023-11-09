@@ -1,5 +1,3 @@
-### Nachhaltigkeit: Der Schlüssel zu unserer Zukunft!
-
 **Was ist Nachhaltigkeit?**  
 Stellt euch eine Welt vor, in der wir so leben, dass auch unsere Enkelkinder noch genug von allem haben: saubere Luft, frisches Wasser, gesunde Nahrung. Das ist Nachhaltigkeit. Es bedeutet, die Erde so zu nutzen, dass sie sich selbst erholen kann.
 
