@@ -32,7 +32,7 @@ tags:
 >[!quote]- Link Website
 >[Ich kenne meine Rechte](https://www.rechte-der-lernenden.ch/von-a-z/)
 
-1. **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
+3. **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
     
     - **Begriff**
     - **Lehrmittel**
@@ -45,7 +45,7 @@ tags:
 
 Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
     
-5. **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
+4. **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
     - Welche neuen Informationen hast du durch die Online-Recherche gewonnen?
     - Gab es Widersprüche oder Ergänzungen zu dem, was im Lehrmittel steht?
     - Wie hilfreich fandest du die Online-Ressourcen im Vergleich zum Lehrmittel?
@@ -57,5 +57,7 @@ Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
 
 ## Abgabe
 Die Lehrperson wird die Abgabebedingungen bekannt geben.
+
+---
 
 [[Lehrvertrag]]
