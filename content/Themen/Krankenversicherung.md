@@ -2,6 +2,8 @@
 tags:
   - "#Recht"
   - 1-Lehrjahr
+  - "#Ethik"
+  - "#Politik"
 ---
 # Prämienanstieg 2023
 >[!info]
