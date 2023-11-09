@@ -1,6 +1,7 @@
 ---
 tags:
   - "#Recht"
+  - 1-Lehrjahr
 ---
 # Prämienanstieg 2023
 >[!info]

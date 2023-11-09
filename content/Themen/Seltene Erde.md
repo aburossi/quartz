@@ -1,9 +1,14 @@
 ---
-aliases: 
+aliases:
+  - Alias?
 tags:
   - "#Wirtschaft"
   - "#Ökologie"
   - "#Ethik"
+  - "#Technologie"
+  - 1-Lehrjahr
+  - "#2-Lehrjahr"
+  - "#3-Lehrjahr"
 ---
 # Ablauf Woche 1
 - Kupfer, Lithium und Co – was es braucht für die Energiewende
