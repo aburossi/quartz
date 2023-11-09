@@ -1,3 +1,7 @@
+---
+tags:
+  - Wirtschaft
+---
 # Was ist es?
 
 **Wirtschaft** bezeichnet die Gesamtheit aller Einrichtungen und Handlungen, die der Produktion und dem Austausch von Gütern und Dienstleistungen dienen. Sie ist geprägt durch das Zusammenspiel von [[Angebot und Nachfrage]] und beinhaltet Aspekte wie Konsum, Investitionen, Handel und Verteilung von Ressourcen. Die Wirtschaft wird durch verschiedene Akteure, wie Individuen, Unternehmen und Staaten, sowie durch **Märkte** und **Wirtschaftspolitik** gestaltet.

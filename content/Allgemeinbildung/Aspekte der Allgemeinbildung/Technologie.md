@@ -1,3 +1,7 @@
+---
+tags:
+  - Technologie
+---
 # **Was ist es?**
 Technologie ist der Einsatz von wissenschaftlichen Kenntnissen für praktische Zwecke oder Anwendungen, oft in Industrien und im alltäglichen Leben. Sie umfasst eine breite Palette von Themen, von Werkzeugen und Maschinen bis hin zu Systemen und Methoden, die zur Lösung realer Probleme verwendet werden.
 

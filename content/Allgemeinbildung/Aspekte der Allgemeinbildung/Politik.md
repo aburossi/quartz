@@ -1,3 +1,7 @@
+---
+tags:
+  - Politik
+---
 # Was ist es?
 
 **Politik** ist der Prozess der Entscheidungsfindung innerhalb von Gruppen oder Staaten sowie das Studium der Organisation und Durchführung dieser Prozesse. Sie umfasst das Setzen von Regeln, das Treffen von kollektiven Entscheidungen und die Ausübung von Macht und Autorität. Die Politik ist häufig in **politische Parteien**, **Regierungen** und **staatliche Institutionen** unterteilt.

@@ -1,3 +1,7 @@
+---
+tags:
+  - "#Kultur"
+---
 # Was ist es?
 
 **Kultur** bezeichnet die Gesamtheit der geistigen, künstlerischen, gestalterischen und sozialen Ausdrucksformen, Lebensweisen und Errungenschaften einer Gesellschaft oder Gruppe. Sie umfasst Traditionen, Bräuche, Sprachen, Kunst, Musik, Normen, Werte und Institutionen. Kultur ist dynamisch und verändert sich mit der Zeit, ist aber auch tief in der Geschichte und Identität einer Gemeinschaft verwurzelt.

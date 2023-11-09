@@ -1,3 +1,7 @@
+---
+tags:
+  - Recht
+---
 # Was ist es?
 
 Das Wort **Recht** bezieht sich auf die Gesamtheit der Regeln, die das soziale und staatliche Zusammenleben der Menschen ordnen. Es umfasst Gesetze, Verordnungen und rechtliche Bestimmungen, die von autorisierten staatlichen Stellen erlassen werden. Das Recht ist in verschiedenen Bereichen wie Zivilrecht, Strafrecht, Öffentliches Recht und Internationales Recht strukturiert.
