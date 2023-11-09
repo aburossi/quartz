@@ -13,9 +13,8 @@ tags:
 
 >[!quote]- Inhalte Lehrmittel
 >Kapitel 1.4
->- Inhalt
->- Probezeit
->- Beendigung des Lehrverhältnis
+>- Pflichten der Berufsbildende
+>- Konflikte im Lehrbetrieb
 
 2. **Begriffe auswählen**: Unten siehst du eine Tabelle mit verschiedenen Begriffen. Wähle **fünf** Begriffe aus, die deinem persönlichen Interesse entsprechen.
 
