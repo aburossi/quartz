@@ -1,6 +1,5 @@
 ---
 tags:
-  - SUK
   - "#SUK/Produktion"
 ---
 
