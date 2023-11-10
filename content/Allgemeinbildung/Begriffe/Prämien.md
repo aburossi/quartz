@@ -8,7 +8,7 @@ tags:
 
 # Was ist das?
 
-Die **Versicherungsprämie** ist der Betrag, den ihr für eure Versicherungspolice zahlt. Es ist wie ein Abonnement für Schutz – ihr zahlt regelmäßig, und im Gegenzug deckt eure Versicherung bestimmte Risiken ab. Das kann von der Krankenversicherung bis zur Autoversicherung oder Hausratversicherung reichen.
+Die **Versicherungsprämie** ist der Betrag, den ihr für eure Versicherungspolice zahlt. Es ist wie ein Abonnement für Schutz – ihr zahlt regelmässig, und im Gegenzug deckt eure Versicherung bestimmte Risiken ab. Das kann von der Krankenversicherung bis zur Autoversicherung oder Hausratversicherung reichen.
 
 # Warum es wichtig ist
 
@@ -24,7 +24,7 @@ Die Prämie ist der Schlüssel, um im Unglücksfall nicht allein dazustehen. Ob 
 
 **4. Selbstbeteiligung:** Viele Policen haben eine Selbstbeteiligung, den sogenannten Franchise. Das ist der Teil, den ihr im Schadensfall selbst zahlt. Eine höhere Selbstbeteiligung kann die Prämie senken.
 
-**5. Regelmäßige Überprüfung:** Veränderungen in eurem Leben können die Prämien beeinflussen. Ein Umzug, ein neuer Job oder ein neues Auto – all das solltet ihr eurer Versicherung mitteilen.
+**5. Regelmässige Überprüfung:** Veränderungen in eurem Leben können die Prämien beeinflussen. Ein Umzug, ein neuer Job oder ein neues Auto – all das solltet ihr eurer Versicherung mitteilen.
 
 # ➕Weitere Quellen
 [📄 Nachrichten über Versicherungsprämien in der Schweiz](https://www.google.com/search?q=Versicherungsprämien+Schweiz&tbm=nws)

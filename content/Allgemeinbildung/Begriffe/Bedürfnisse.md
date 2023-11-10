@@ -14,7 +14,7 @@ tags:
 # ⛏Wie es funktioniert?
 - **Bedürfnishierarchie nach Maslow**: Theorie, die Bedürfnisse in einer Pyramide anordnet, von grundlegenden (physiologischen) bis hin zu höheren (Selbstverwirklichung).
 - **Marktforschung**: Unternehmen erforschen Kundenbedürfnisse, um zielgerichtete Produkte zu entwickeln.
-- **Sozialpolitik**: Regierungen richten Programme und Maßnahmen an den Bedürfnissen der Bevölkerung aus.
+- **Sozialpolitik**: Regierungen richten Programme und Massnahmen an den Bedürfnissen der Bevölkerung aus.
 - **Psychologische Analyse**: Verständnis von emotionalen und psychologischen Bedürfnissen für bessere zwischenmenschliche Beziehungen.
 ![[Pasted image 20231110161158.png]]
 # ➕Weitere Quellen

@@ -5,7 +5,7 @@ tags:
   - Politik
 ---
 # 🔍Was ist es?
-Die **Energiewende** bezeichnet den Übergang von der Nutzung fossiler Brennstoffe wie Kohle, Öl und Gas zu erneuerbaren Energiequellen wie Sonnen-, Wind- und Wasserkraft. Ziel ist es, die Abhängigkeit von fossilen Brennstoffen zu verringern, die Treibhausgasemissionen zu reduzieren und damit den Klimawandel zu bekämpfen. Die Energiewende beinhaltet auch Maßnahmen zur Steigerung der Energieeffizienz und zur Förderung nachhaltiger Energiegewinnung und -nutzung.
+Die **Energiewende** bezeichnet den Übergang von der Nutzung fossiler Brennstoffe wie Kohle, Öl und Gas zu erneuerbaren Energiequellen wie Sonnen-, Wind- und Wasserkraft. Ziel ist es, die Abhängigkeit von fossilen Brennstoffen zu verringern, die Treibhausgasemissionen zu reduzieren und damit den Klimawandel zu bekämpfen. Die Energiewende beinhaltet auch Massnahmen zur Steigerung der Energieeffizienz und zur Förderung nachhaltiger Energiegewinnung und -nutzung.
 
 # ❗ Warum es wichtig ist?
 - **Klimaschutz**: Reduziert die durch fossile Brennstoffe verursachten Treibhausgasemissionen.

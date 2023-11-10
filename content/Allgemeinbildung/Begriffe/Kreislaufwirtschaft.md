@@ -8,7 +8,7 @@ tags:
 Die **Kreislaufwirtschaft** ist ein Wirtschaftssystem, das darauf abzielt, Ressourcen effizient und nachhaltig zu nutzen. Es basiert auf den Prinzipien der **Reduzierung**, **Wiederverwendung** und **Recycling** von Materialien. Im Gegensatz zur traditionellen linearen Wirtschaft, die ein 'herstellen, verwenden, wegwerfen'-Modell verfolgt, zielt die Kreislaufwirtschaft darauf ab, den Lebenszyklus von Produkten zu verlängern und Abfall zu minimieren. Dieses Konzept ist eng mit **nachhaltiger Entwicklung** und **Umweltschutz** verbunden.
 
 # ❗ Warum ist es wichtig?
-- **Umweltschutz**: Reduziert den ökologischen Fußabdruck durch Minimierung von Abfall und Schadstoffemissionen.
+- **Umweltschutz**: Reduziert den ökologischen Fussabdruck durch Minimierung von Abfall und Schadstoffemissionen.
 - **Ressourceneffizienz**: Fördert die effiziente Nutzung von Ressourcen, was zur Schonung natürlicher Ressourcen beiträgt.
 - **Wirtschaftliche Vorteile**: Kann Kosten senken und neue Geschäftsmöglichkeiten durch Recycling und Wiederverwendung schaffen.
 - **Nachhaltigkeit**: Unterstützt langfristige Nachhaltigkeit und hilft, zukünftige Generationen zu schützen.

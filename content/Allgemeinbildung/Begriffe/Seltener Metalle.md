@@ -10,7 +10,7 @@ Seltene Metalle, auch bekannt als **Seltenerdmetalle** oder **Seltene Erden**
 
 # ❗ Warum ist es wichtig?
 
-- Diese Metalle werden in einer Vielzahl von Anwendungen eingesetzt, einschließlich in grünen Technologien wie Windturbinen und Elektroauto-Batterien.
+- Diese Metalle werden in einer Vielzahl von Anwendungen eingesetzt, einschliesslich in grünen Technologien wie Windturbinen und Elektroauto-Batterien.
 - Sie sind für die Herstellung von High-Tech-Geräten und Militärtechnologie unerlässlich.
 - Es gibt Bedenken hinsichtlich der begrenzten Verfügbarkeit und des umweltfreundlichen Abbaus dieser Metalle.
 

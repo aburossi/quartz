@@ -19,4 +19,4 @@ tags:
 - **Forschung:** Wissenschaftler führen Feld- und Laborexperimente durch, um ökologische Interaktionen zu studieren.
 - **Datenanalyse:** Durch die Sammlung und Analyse ökologischer Daten können Muster und Prozesse in der Natur verstanden werden.
 - **Modellierung:** Ökologische Modelle helfen, die Dynamik von Ökosystemen zu simulieren und Vorhersagen zu treffen.
-- **Naturschutzmaßnahmen:** Auf Basis ökologischer Erkenntnisse werden Schutzmaßnahmen für bedrohte Arten und Lebensräume entwickelt.
+- **Naturschutzmassnahmen:** Auf Basis ökologischer Erkenntnisse werden Schutzmassnahmen für bedrohte Arten und Lebensräume entwickelt.

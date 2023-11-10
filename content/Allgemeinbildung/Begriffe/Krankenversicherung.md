@@ -16,7 +16,7 @@ Die **Krankenversicherung** in der Schweiz ist ein System, das die Kosten für m
 - **Prämienzahlung**: Versicherte zahlen monatliche Prämien, die je nach Kasse und gewähltem Modell variieren.
 - **Franchise und Selbstbehalt**: Neben den Prämien tragen Versicherte eine jährliche Franchise und einen prozentualen Selbstbehalt bei den Behandlungskosten.
 - **Leistungsumfang**: Die Grundversicherung deckt grundlegende medizinische Behandlungen und Notfallversorgungen.
-- **Zusatzversicherungen**: Für erweiterte Leistungen kann man freiwillige Zusatzversicherungen abschließen.
+- **Zusatzversicherungen**: Für erweiterte Leistungen kann man freiwillige Zusatzversicherungen abschliessen.
 
 # ➕Weitere Quellen
 [📄 News über Krankenversicherung in der Schweiz](https://www.google.com/search?q=Krankenversicherung+in+der+Schweiz&tbm=nws)

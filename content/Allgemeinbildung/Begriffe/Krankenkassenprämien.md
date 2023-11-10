@@ -4,7 +4,7 @@ tags:
 ---
 # Was ist das?
 
-Die **Krankenkassenprämien** in der Schweiz sind monatliche Beiträge, die ihr an eure Krankenkasse zahlt. Diese Beiträge decken einen Teil der Kosten für eure medizinische Versorgung ab, wie Arztbesuche, Medikamente oder Krankenhausaufenthalte. In der Schweiz ist es gesetzlich vorgeschrieben, dass jeder eine Grundversicherung haben muss – das heißt, ihr seid ab der Geburt bis ins hohe Alter krankenversichert.
+Die **Krankenkassenprämien** in der Schweiz sind monatliche Beiträge, die ihr an eure Krankenkasse zahlt. Diese Beiträge decken einen Teil der Kosten für eure medizinische Versorgung ab, wie Arztbesuche, Medikamente oder Krankenhausaufenthalte. In der Schweiz ist es gesetzlich vorgeschrieben, dass jeder eine Grundversicherung haben muss – das heisst, ihr seid ab der Geburt bis ins hohe Alter krankenversichert.
 
 # Warum es wichtig ist?
 

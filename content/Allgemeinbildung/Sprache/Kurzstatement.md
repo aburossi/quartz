@@ -25,6 +25,6 @@ Hier ist eine schnelle Anleitung, wie du ein Kurzstatement für eine spontane Di
 | **Position**          | Position unklar oder nicht vorhanden            | Position erkennbar, aber nicht klar formuliert          | Klare und deutliche Position zum Thema      |
 | **Argumentation**     | Kein Argument oder nur schwaches Argument       | Ein ausreichendes Argument vorhanden                    | Starkes, überzeugendes Argument präsentiert |
 | **Beispiele/Fakten**  | Keine oder irrelevante Beispiele/Fakten         | Beispiel oder Fakt vorhanden, aber nur bedingt relevant | Relevante und überzeugende Beispiele/Fakten |
-| **Verständlichkeit**  | Schwer verständlich, unklare Aussagen           | Größtenteils verständlich mit kleinen Unklarheiten      | Klar und gut verständlich formuliert        |
+| **Verständlichkeit**  | Schwer verständlich, unklare Aussagen           | Grösstenteils verständlich mit kleinen Unklarheiten      | Klar und gut verständlich formuliert        |
 | **Prägnanz**          | Weitschweifig und abschweifend                  | Meist prägnant, enthält aber unnötige Informationen     | Kurz und auf den Punkt gebracht             |
 | **Sprachliche Richtigkeit** | Viele sprachliche Fehler                   | Einige sprachliche Fehler, die aber den Fluss nicht stören | Sprachlich korrekt und fehlerfrei          |

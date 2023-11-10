@@ -4,7 +4,7 @@ tags:
 ---
 # Was ist es?
 
-**Identität** ist das Bewusstsein einer Person über sich selbst, einschließlich Aspekten wie Persönlichkeit, Werte und Überzeugungen, die sie einzigartig machen. **Sozialisation** ist der Prozess, durch den Individuen die Normen, Werte, Verhaltensweisen und sozialen Fähigkeiten erlernen, die in ihrer Kultur notwendig sind, um als Mitglieder der Gesellschaft zu funktionieren. Dieser Prozess beginnt in der Kindheit und setzt sich im Erwachsenenleben fort.
+**Identität** ist das Bewusstsein einer Person über sich selbst, einschliesslich Aspekten wie Persönlichkeit, Werte und Überzeugungen, die sie einzigartig machen. **Sozialisation** ist der Prozess, durch den Individuen die Normen, Werte, Verhaltensweisen und sozialen Fähigkeiten erlernen, die in ihrer Kultur notwendig sind, um als Mitglieder der Gesellschaft zu funktionieren. Dieser Prozess beginnt in der Kindheit und setzt sich im Erwachsenenleben fort.
 
 # Warum es wichtig ist?
 
