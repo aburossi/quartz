@@ -1,3 +1,5 @@
+> [!tip] Links in neuen Tabs öffnen.
+
 [[Bundesverfassung.pdf]]
 
 [[Zivilgesetzbuch.pdf]]
