@@ -21,3 +21,5 @@ Stellt euch vor, ihr werdet plötzlich krank. Ohne Versicherung könnten die Kos
 **3. Leistungen nutzen:** Wenn ihr zum Arzt müsst oder Medikamente braucht, übernimmt eure Krankenkasse einen Grossteil der Kosten. Aber Achtung: Ihr zahlt zuerst die [[Franchise]], die ihr zu Beginn des Jahres festlegt.
 
 **4. Jährlich überprüfen:** Es lohnt sich, eure Krankenversicherung jährlich zu überprüfen und zu vergleichen, denn ihr könntet vielleicht Geld sparen, indem ihr zu einer anderen Kasse mit niedrigeren Prämien wechselt.
+
+[📄 Nachrichten über Krankenkassenprämien](https://www.google.com/search?q=Krankenkassenprämien+Schweiz&tbm=nws) [🎞 Videos über Krankenkassenprämien](https://www.google.com/search?q=Krankenkassenprämien+Schweiz&tbm=vid)

@@ -3,9 +3,9 @@ tags:
   - Wirtschaft
 ---
 # 🔍Was ist es?
-**[Angebot]** und **[Nachfrage]** sind grundlegende Konzepte in der [[Wirtschaft]], die beschreiben, wie Märkte funktionieren. Das **Angebot** bezieht sich auf die Menge eines Produkts oder einer Dienstleistung, die Anbieter bereit sind zu verkaufen, während die **Nachfrage** die Menge darstellt, die Verbraucher bereit sind zu kaufen. Der Preis eines Produktes oder einer Dienstleistung wird durch das Zusammenspiel von Angebot und Nachfrage bestimmt. 
-![[Pasted image 20231110160944.png]]
-
+**Angebot** und **Nachfrage** sind grundlegende Konzepte in der [[Wirtschaft]], die beschreiben, wie Märkte funktionieren. Das **Angebot** bezieht sich auf die Menge eines Produkts oder einer Dienstleistung, die Anbieter bereit sind zu verkaufen, während die **Nachfrage** die Menge darstellt, die Verbraucher bereit sind zu kaufen. Der Preis eines Produktes oder einer Dienstleistung wird durch das Zusammenspiel von Angebot und Nachfrage bestimmt. 
+>[!info]- 
+><a title="by my self, Public domain, via Wikimedia Commons" href="https://commons.wikimedia.org/wiki/File:Gm_gleichgewicht_mikro2.jpg"><img width="640" alt="Gm gleichgewicht mikro2" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Gm_gleichgewicht_mikro2.jpg/640px-Gm_gleichgewicht_mikro2.jpg"></a>
 # ❗ Warum es wichtig ist?
 - Bestimmt **Marktpreise**: Versteht man Angebot und Nachfrage, kann man besser nachvollziehen, wie sich Preise auf Märkten bilden.
 - Beeinflusst **wirtschaftliche Entscheidungen**: Unternehmen nutzen dieses Konzept, um ihre Produktions- und Verkaufsstrategien zu planen.
