@@ -1,1 +1,7 @@
+---
+tags:
+  - Wirtschaft
+  - Ökologie
+  - Technologie
+---
 **Kreislaufwirtschaft** ist ein Wirtschaftssystem, das auf der **Reduzierung**, **Wiederverwendung** und **Recycling** von Ressourcen beruht. Es zielt darauf ab, den **Ressourcenverbrauch** zu minimieren, **Abfall** und **Emissionen** zu reduzieren und Produkte und Materialien in einem **kontinuierlichen Kreislauf** zu halten, um so die **Nachhaltigkeit** zu fördern und die Umweltbelastung zu verringern.

@@ -1,3 +1,9 @@
+---
+tags:
+  - Ökologie
+  - Wirtschaft
+  - Ethik
+---
 # Was ist es?
 
 **Nachhaltigkeit** bezieht sich auf Methoden und Prozesse, die die [[Bedürfnisse]] der gegenwärtigen Generation erfüllen, ohne die Fähigkeit zukünftiger Generationen zu beeinträchtigen, ihre eigenen Bedürfnisse zu erfüllen. Es geht darum, ein Gleichgewicht zwischen Umweltschutz, wirtschaftlicher Wohlstand und sozialer Gerechtigkeit zu finden. Zu den Schlüsselelementen gehören die Erhaltung der natürlichen Ressourcen, die Förderung der erneuerbaren Energien und die Unterstützung von fairen sozialen Praktiken.

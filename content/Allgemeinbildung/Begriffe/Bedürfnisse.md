@@ -1,3 +1,7 @@
+---
+tags:
+  - Wirtschaft
+---
 # Was ist es?
 
 **Bedürfnisse** sind grundlegende Anforderungen oder Wünsche, die Menschen haben, um ein gesundes und zufriedenes Leben zu führen. Sie können physischer Natur sein, wie Nahrung und Unterkunft, oder psychologischer Natur, wie Liebe und Anerkennung. Die Psychologie unterscheidet zwischen primären Bedürfnissen (biologische und physiologische Anforderungen) und sekundären Bedürfnissen (soziale und emotionale Wünsche). Abraham Maslow stellte diese Hierarchie in seiner berühmten **Maslowschen Bedürfnispyramide** dar.

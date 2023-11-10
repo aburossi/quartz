@@ -1,3 +1,7 @@
+---
+tags:
+  - Recht
+---
 # **Was ist eine Franchise?** 
 In der Schweiz ist die Franchise der Betrag, den du jedes Jahr aus eigener Tasche zahlst, bevor die Krankenkasse für deine medizinischen Kosten aufkommt.
 
