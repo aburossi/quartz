@@ -1,26 +1,19 @@
 # 🔍Was ist es?
+Die **Krankenversicherung** in der Schweiz ist ein System, das die Kosten für medizinische Versorgung und Behandlungen für Personen in der Schweiz deckt. In der Schweiz ist es gesetzlich vorgeschrieben, dass jede Person eine Grundkrankenversicherung haben muss. Diese Grundversicherung deckt eine Reihe von Standardbehandlungen und Notfallversorgungen. Es gibt auch Zusatzversicherungen, die für erweiterte Gesundheitsleistungen sorgen, wie z.B. private Krankenzimmer oder alternative Medizin.
 
-Die **Krankenversicherung in der Schweiz** bezieht sich auf das System, das die **medizinische Versorgung** und **Kostendeckung** für gesundheitliche Dienstleistungen für die Bewohner der Schweiz sicherstellt. In der Schweiz ist die Krankenversicherung für alle Einwohner **gesetzlich vorgeschrieben**. Sie ist bekannt für ihre **hohe Qualität** und **Effizienz**, aber auch für ihre **hohen Kosten**. Die Versicherung deckt eine Vielzahl von **medizinischen Leistungen** ab, einschließlich Arztbesuchen, Krankenhausaufenthalten und manchmal auch Zahnbehandlungen.
+# ❗ Warum es wichtig ist?
+- **Gesetzliche Pflicht**: In der Schweiz muss jeder Einwohner eine Grundkrankenversicherung haben.
+- **Finanzielle Sicherheit**: Schützt vor hohen medizinischen Kosten im Krankheitsfall.
+- **Zugang zur Gesundheitsversorgung**: Stellt sicher, dass jeder unabhängig vom Einkommen medizinische Hilfe erhält.
+- **Individuelle Gesundheitsvorsorge**: Ermöglicht Zugang zu einer Vielzahl von Gesundheitsdienstleistungen.
 
-# ❗Warum ist es wichtig?
-
-- **Gesundheitsschutz**: Sichert die medizinische Versorgung für alle Einwohner.
-- **Finanzielle Sicherheit**: Schützt vor hohen medizinischen Ausgaben.
-- **Gesetzliche Pflicht**: Erfüllung der gesetzlichen Anforderungen in der Schweiz.
-- **Prävention und Gesundheitsförderung**: Unterstützt präventive Maßnahmen zur Gesundheitserhaltung.
-- **Individuelle Anpassung**: Verschiedene Versicherungsoptionen für individuelle Bedürfnisse.
-
-# ⛏Wie funktioniert es?
-
-- **Versicherungspflicht**: Jeder Einwohner muss eine Grundversicherung abschließen.
-- **Grundversicherung**: Deckt standardmäßige medizinische Leistungen ab.
-- **Zusatzversicherungen**: Optional für erweiterte Leistungen wie private Krankenhauszimmer.
-- **Prämien**: Monatliche Beiträge, abhängig von der gewählten Versicherung und dem Wohnkanton.
-- **Franchise**: Jährlicher Selbstbehalt, bevor die Versicherung die Kosten übernimmt.
-- **Kostenbeteiligung**: Zusätzlich zur Franchise wird ein Selbstbehalt von 10% der Kosten getragen, bis zu einem jährlichen Maximum.
+# ⛏Wie es funktioniert?
+- **Pflichtversicherung**: Jeder Einwohner muss sich bei einer Krankenkasse für die Grundversicherung anmelden.
+- **Prämienzahlung**: Versicherte zahlen monatliche Prämien, die je nach Kasse und gewähltem Modell variieren.
+- **Franchise und Selbstbehalt**: Neben den Prämien tragen Versicherte eine jährliche Franchise und einen prozentualen Selbstbehalt bei den Behandlungskosten.
+- **Leistungsumfang**: Die Grundversicherung deckt grundlegende medizinische Behandlungen und Notfallversorgungen.
+- **Zusatzversicherungen**: Für erweiterte Leistungen kann man freiwillige Zusatzversicherungen abschließen.
 
 # ➕Weitere Quellen
-
-📄 News
-
-<iframe width="100%" height="350" src="https://www.google.com/search?q=Krankenversicherung+Schweiz&tbm=nws" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe> 🎞 Videos <iframe width="100%" height="350" src="https://www.google.com/search?q=Krankenversicherung+Schweiz&tbm=vid" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+[📄 News über Krankenversicherung in der Schweiz](https://www.google.com/search?q=Krankenversicherung+in+der+Schweiz&tbm=nws)
+[🎞 Videos über Krankenversicherung in der Schweiz](https://www.google.com/search?q=Krankenversicherung+in+der+Schweiz&tbm=vid)
