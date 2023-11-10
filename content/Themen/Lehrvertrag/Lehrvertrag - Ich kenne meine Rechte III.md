@@ -60,4 +60,4 @@ Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
 ## Abgabe
 Die Lehrperson wird die Abgabebedingungen bekannt geben.
 
-[[Lehrvertrag]]
+[[Allgemeinbildung/Begriffe/Lehrvertrag]]
