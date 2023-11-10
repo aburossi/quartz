@@ -2,6 +2,7 @@
 tags:
   - Wirtschaft
   - Recht
+  - Lohnbestandteile
 ---
 # 🔍Was ist es?
 Der **Nettolohn** ist der Betrag, den ein Arbeitnehmer nach Abzug aller Steuern, Sozialversicherungsbeiträge und anderer gesetzlicher oder vereinbarter Abzüge von seinem Bruttogehalt erhält. Er stellt das effektive Einkommen dar, das dem Arbeitnehmer zur freien Verfügung steht. Der Nettolohn ist entscheidend für die persönliche Finanzplanung, da er das tatsächlich verfügbare Einkommen nach allen Abzügen widerspiegelt.

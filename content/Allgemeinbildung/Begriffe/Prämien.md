@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Versicherungswesen-allgemein
 ---
 ### **Versicherungsprämie: Sicherheit hat ihren Preis!**
 

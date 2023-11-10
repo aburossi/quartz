@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist das Private Recht?
 

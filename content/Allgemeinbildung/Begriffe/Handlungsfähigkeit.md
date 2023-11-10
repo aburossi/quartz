@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist es?
 Die **Handlungsfähigkeit in der Schweiz** bezieht sich auf die Fähigkeit einer Person, rechtlich wirksame Handlungen vorzunehmen, wie Verträge abzuschliessen oder vor Gericht zu agieren. Sie setzt voraus, dass die Person **urteilsfähig** und **volljährig** ist. In der Schweiz wird die Volljährigkeit mit dem Erreichen des 18. Lebensjahres erreicht. [[Urteilsfähigkeit]] bedeutet, dass eine Person die Konsequenzen ihrer Handlungen verstehen und entsprechend handeln kann.

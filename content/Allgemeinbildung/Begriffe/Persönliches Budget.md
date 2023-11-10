@@ -1,6 +1,7 @@
 ---
 tags:
   - Wirtschaft
+  - Budget
 ---
 # 🔍Was ist es?
 Ein **persönliches Budget** ist eine finanzielle Planung, die dazu dient, Einnahmen und Ausgaben eines Individuums oder Haushalts zu verwalten. Es umfasst die Aufzeichnung aller Einkünfte, wie Gehalt, Boni und sonstige Einkünfte, sowie aller Ausgaben, darunter Miete, Lebensmittel, Versicherungen, Freizeitaktivitäten und Sparbeiträge. Ein persönliches Budget hilft dabei, den Überblick über die Finanzen zu behalten und finanzielle Ziele, wie das Sparen für größere Anschaffungen oder den Abbau von Schulden, zu erreichen.

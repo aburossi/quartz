@@ -1,6 +1,7 @@
 ---
 tags:
   - Wirtschaft
+  - Preisbildung
 ---
 # 🔍Was ist es?
 **Bedürfnisse** sind grundlegende Anforderungen oder Wünsche, die Menschen haben, um ein zufriedenstellendes Leben zu führen. Sie können in physische (wie Nahrung, Wasser, Unterkunft) und psychische (wie Liebe, Anerkennung, Sicherheit) Bedürfnisse unterteilt werden. In der Wirtschaft bezieht sich der Begriff auf die Notwendigkeit oder den Wunsch nach Produkten oder Dienstleistungen. Die Erforschung und das Verständnis menschlicher Bedürfnisse sind zentral für Bereiche wie Marketing, Psychologie und Soziologie.

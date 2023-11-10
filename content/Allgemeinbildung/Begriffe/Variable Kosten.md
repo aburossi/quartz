@@ -1,3 +1,8 @@
+---
+tags:
+  - Wirtschaft
+  - Budget
+---
 # 🔍Was ist es?
 **Variable Kosten** in einem persönlichen Budget sind Kosten, die von Monat zu Monat variieren und nicht fest vorgegeben sind. Sie umfassen Posten wie Lebensmittel, Freizeitaktivitäten, Benzin, Kleidung und unerwartete Ausgaben. Im Gegensatz zu [[Fixe Kosten]], wie Miete oder Versicherungen, können variable Kosten je nach Lebensstil und aktuellen Bedürfnissen stärker schwanken. Die Kontrolle und Anpassung dieser Ausgaben ist ein wichtiger Bestandteil der Budgetplanung.
 

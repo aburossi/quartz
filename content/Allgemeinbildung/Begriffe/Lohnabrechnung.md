@@ -2,6 +2,7 @@
 tags:
   - Recht
   - Wirtschaft
+  - Lohnbestandteile
 ---
 # 🔍Was ist es?
 Die **Lohnabrechnung in der Schweiz** ist ein Dokument, das die Details der Bezahlung eines Arbeitnehmers für einen bestimmten Zeitraum, üblicherweise einen Monat, darstellt. Sie beinhaltet Angaben zum **[[Bruttolohn]]**, **Abzügen** wie Sozialversicherungsbeiträgen, Steuern und berufsspezifischen Abgaben, sowie den daraus resultierenden **[[Nettolohn]]**. Die Lohnabrechnung dient als Nachweis für das Einkommen des Arbeitnehmers und ist wichtig für die Transparenz und das Verständnis der Gehaltsberechnung.

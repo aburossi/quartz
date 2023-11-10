@@ -1,6 +1,7 @@
 ---
 tags:
   - Wirtschaft
+  - Budget
 ---
 # 🔍Was ist es?
 **Fixe Kosten** im Rahmen eines persönlichen Budgets sind regelmäßige, gleichbleibende Ausgaben, die in der Regel monatlich anfallen und deren Höhe sich nicht oder nur geringfügig ändert. Typische Beispiele sind Miete oder Hypothekenzahlungen, Versicherungsprämien, Abonnements, Kreditraten und Grundgebühren für Telefon und Internet. Diese Kosten sind vorhersehbar und bilden eine feste Größe in der Finanzplanung.

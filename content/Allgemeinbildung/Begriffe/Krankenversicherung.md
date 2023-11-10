@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Kranken-und-Unfallversicherung
 ---
 # 🔍Was ist es?
 Die **Krankenversicherung** in der Schweiz ist ein System, das die Kosten für medizinische Versorgung und Behandlungen für Personen in der Schweiz deckt. In der Schweiz ist es gesetzlich vorgeschrieben, dass jede Person eine Grundkrankenversicherung haben muss. Diese Grundversicherung deckt eine Reihe von Standardbehandlungen und Notfallversorgungen. Es gibt auch Zusatzversicherungen, die für erweiterte Gesundheitsleistungen sorgen, wie z.B. private Krankenzimmer oder alternative Medizin.

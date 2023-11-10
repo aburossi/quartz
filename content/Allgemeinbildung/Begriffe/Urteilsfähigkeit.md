@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist es?
 Die **Urteilsfähigkeit** in der Schweiz ist die Fähigkeit einer Person, die Tragweite und Bedeutung ihrer Handlungen zu erkennen und entsprechend zu handeln. Sie ist ein zentrales Konzept im Schweizer Recht und bestimmt, inwieweit eine Person rechtlich wirksame Entscheidungen treffen kann. Im Gegensatz zur Volljährigkeit, die mit dem Alter automatisch eintritt, hängt die Urteilsfähigkeit von der individuellen geistigen Reife und Einsichtsfähigkeit ab und ist nicht an ein bestimmtes Alter gebunden.

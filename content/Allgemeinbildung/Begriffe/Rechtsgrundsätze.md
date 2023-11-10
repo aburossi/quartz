@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist es?
 Die **Rechtsgrundsätze in der Schweiz** sind grundlegende Prinzipien, die das Rechtssystem prägen und als Leitlinien für die Anwendung und Auslegung von Gesetzen dienen. Zu den wichtigsten gehören der Grundsatz von **Treu und Glauben**, die Regelung der **Beweislast** und das **Recht auf ein faires Verfahren**. Diese Grundsätze tragen dazu bei, Gerechtigkeit und Rechtssicherheit im gesamten Rechtssystem zu gewährleisten.

@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist es?
 Ein **Lehrvertrag** in der Schweiz ist ein rechtlich bindendes Dokument, das die Ausbildung eines Lehrlings in einem Unternehmen oder einer Organisation regelt. Dieser Vertrag ist ein zentraler Bestandteil der dualen Berufsbildung, einem System, das **theoretische Ausbildung** und **praktische Arbeitserfahrung** kombiniert. Der Lehrvertrag legt die **Rechte und Pflichten** sowohl des Lehrlings als auch des Arbeitgebers fest, einschliesslich Ausbildungsdauer, Arbeitszeiten, Lohn und Urlaubsregelungen.

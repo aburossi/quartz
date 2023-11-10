@@ -1,6 +1,7 @@
 ---
 tags:
   - Wirtschaft
+  - Budget
 ---
 # 🔍Was ist es?
 Der **Saldo** in einem persönlichen Budget ist die Differenz zwischen den Gesamteinnahmen und den Gesamtausgaben in einem bestimmten Zeitraum, meist monatlich. Er zeigt an, ob man am Ende des Zeitraums mehr Geld eingenommen als ausgegeben hat (positiver Saldo) oder ob die Ausgaben die Einnahmen übersteigen (negativer Saldo). Der Saldo gibt wichtige Hinweise zur finanziellen Gesundheit und ermöglicht es, langfristige Spar- oder Investitionspläne zu machen.

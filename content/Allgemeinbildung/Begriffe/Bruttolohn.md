@@ -2,6 +2,7 @@
 tags:
   - Recht
   - Wirtschaft
+  - Lohnbestandteile
 ---
 # 🔍Was ist es?
 Der **Bruttolohn** in der Schweiz ist die Gesamtvergütung, die ein Arbeitnehmer für seine Arbeit vor jeglichen Abzügen erhält. Er umfasst nicht nur das Grundgehalt, sondern auch zusätzliche Leistungen wie Überstunden, Boni, Provisionen und Zulagen. Der Bruttolohn ist die Basis für die Berechnung von Steuern und Sozialversicherungsbeiträgen und dient als Ausgangspunkt zur Ermittlung des Nettolohns.

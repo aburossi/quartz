@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist es?
 Das **öffentliche Recht in der Schweiz** bezieht sich auf den Teil des Rechtssystems, der die Beziehungen zwischen Bürgern und dem Staat sowie die Organisation und Funktion der staatlichen Institutionen regelt. Es umfasst Bereiche wie **Verfassungsrecht**, **Verwaltungsrecht**, **Steuerrecht** und **Strafrecht**. Im Unterschied zum privaten Recht, das die Beziehungen zwischen Privatpersonen regelt, konzentriert sich das öffentliche Recht auf das öffentliche Interesse und die Umsetzung staatlicher Macht.

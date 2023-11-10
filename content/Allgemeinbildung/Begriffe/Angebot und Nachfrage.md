@@ -1,6 +1,7 @@
 ---
 tags:
   - Wirtschaft
+  - "#Preisbildung"
 ---
 # 🔍Was ist es?
 **Angebot** und **Nachfrage** sind grundlegende Konzepte in der [[Wirtschaft]], die beschreiben, wie Märkte funktionieren. Das **Angebot** bezieht sich auf die Menge eines Produkts oder einer Dienstleistung, die Anbieter bereit sind zu verkaufen, während die **Nachfrage** die Menge darstellt, die Verbraucher bereit sind zu kaufen. Der Preis eines Produktes oder einer Dienstleistung wird durch das Zusammenspiel von Angebot und Nachfrage bestimmt. 

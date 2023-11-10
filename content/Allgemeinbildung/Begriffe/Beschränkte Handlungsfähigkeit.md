@@ -1,6 +1,7 @@
 ---
 tags:
   - Recht
+  - Lehrvertrag
 ---
 # 🔍Was ist es?
 Die **beschränkte Handlungsfähigkeit** in der Schweiz betrifft Personen, die zwar urteilsfähig sind, aber noch nicht das Alter der Volljährigkeit (18 Jahre) erreicht haben, oder Personen, die aufgrund einer geistigen Behinderung, psychischen Störung, Verschwendung oder Trunksucht bevormundet sind. Diese Personen können nur beschränkt rechtlich bindende Handlungen vornehmen. Im Falle von Minderjährigen können sie beispielsweise kleinere Geschäfte des täglichen Lebens selbständig tätigen, benötigen aber für grössere Rechtsgeschäfte die Zustimmung ihrer gesetzlichen Vertreter.
