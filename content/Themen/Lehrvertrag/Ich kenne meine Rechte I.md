@@ -3,6 +3,7 @@ tags:
   - Recht
   - 1-Lehrjahr
   - "#identität-und-sozialisation"
+text: "[[Lehrvertrag]]"
 ---
 # Auftrag:
 
@@ -64,4 +65,4 @@ Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
 ## Abgabe
 Die Lehrperson wird die Abgabebedingungen bekannt geben.
 
-[[Lehrvertrag]]
+
