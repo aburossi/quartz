@@ -2,6 +2,7 @@
 tags:
   - Recht
   - Kaufvertragsarten-Teil1
+  - Wirtschaft
 ---
 # 🔍Was ist es?
 

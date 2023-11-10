@@ -5,7 +5,7 @@ tags:
   - Kaufvertragsarten-Teil1
 ---
 # 🔍 Was ist es?
-Ein **Kreditkauf** ist eine Form des Kaufs, bei der Waren oder Dienstleistungen sofort erworben, aber erst später bezahlt werden. Der Kaufpreis wird dabei nicht sofort in voller Höhe entrichtet, sondern in Form von Raten über einen vereinbarten Zeitraum hinweg zurückgezahlt. Diese Zahlungsmethode ist besonders verbreitet beim Erwerb von teureren Gütern wie Autos, Elektronik oder Möbeln.
+Ein **Kreditkauf** ist eine Form des Kaufs, bei der Waren oder Dienstleistungen sofort erworben, aber erst später bezahlt werden. Der Kaufpreis wird dabei nicht sofort in voller Höhe entrichtet, sondern in Form von Raten über einen vereinbarten Zeitraum hinweg zurückgezahlt. Diese Zahlungsmethode ist besonders verbreitet beim Erwerb von teureren [[Güter]]n wie Autos, Elektronik oder Möbeln.
 
 # ❗ Warum es wichtig ist?
 - Ermöglicht den **sofortigen Erwerb** von teuren Produkten, auch wenn die sofortige vollständige Bezahlung nicht möglich ist.

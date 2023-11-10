@@ -2,6 +2,7 @@
 tags:
   - Recht
   - Kaufvertragsarten-Teil1
+  - Wirtschaft
 ---
 # 🔍Was ist es?
 Eine **Ersatzleistung** in einem Vertrag in der Schweiz bezieht sich auf eine Leistung, die erbracht wird, wenn die ursprünglich vereinbarte Leistung aus irgendeinem Grund nicht erfüllt werden kann. Es handelt sich um eine Art der Kompensation oder des Ersatzes, die im Vertragsrecht geregelt ist. Typischerweise kommt eine Ersatzleistung zum Tragen, wenn die ursprünglich geschuldete Leistung unmöglich wird oder aus anderen Gründen nicht erbracht werden kann.

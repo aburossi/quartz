@@ -16,7 +16,7 @@ tags:
 # ⛏Wie es funktioniert?
 - **Preisanpassung**: Wenn die Nachfrage das Angebot übersteigt, steigen die Preise in der Regel an. Umgekehrt führt ein Überangebot bei geringerer Nachfrage zu sinkenden Preisen.
 - **Marktgleichgewicht**: Ein Gleichgewicht wird erreicht, wenn Angebot und Nachfrage ausgeglichen sind. Hier stabilisiert sich der Marktpreis.
-- **Verschiebungen im Markt**: Änderungen in der Nachfrage oder im Angebot können das Marktgleichgewicht verschieben, was zu neuen Gleichgewichtspreisen führt.
+- **Verschiebungen im [[Markt]]**: Änderungen in der Nachfrage oder im Angebot können das Marktgleichgewicht verschieben, was zu neuen Gleichgewichtspreisen führt.
 - **Elastizität**: Die Reaktion von Angebot und Nachfrage auf Preisänderungen variiert je nach Produkt oder Dienstleistung.
 
 # ➕Weitere Quellen

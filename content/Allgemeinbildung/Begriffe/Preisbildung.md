@@ -4,7 +4,7 @@ tags:
   - Preisbildung
 ---
 # 🔍Was ist es?
-**Preisbildung** ist der Prozess, durch den sich der Preis eines Produktes oder einer Dienstleistung auf einem Markt ergibt. Sie basiert auf dem Zusammenspiel von **Angebot** (Menge, die Verkäufer bereitstellen) und **Nachfrage** (Menge, die Käufer erwerben möchten). Diese Dynamik wird stark von Faktoren wie Produktionskosten, Konkurrenz, Kundennachfrage und externen ökonomischen Bedingungen beeinflusst.
+**Preisbildung** ist der Prozess, durch den sich der Preis eines Produktes oder einer Dienstleistung auf einem [[Markt]] ergibt. Sie basiert auf dem Zusammenspiel von **Angebot** (Menge, die Verkäufer bereitstellen) und **Nachfrage** (Menge, die Käufer erwerben möchten). Diese Dynamik wird stark von Faktoren wie Produktionskosten, Konkurrenz, Kundennachfrage und externen ökonomischen Bedingungen beeinflusst.
 
 # ❗ Warum es wichtig ist?
 - **Wettbewerbsfähigkeit**: Verständnis der Preisbildung hilft Unternehmen, wettbewerbsfähige Preise festzulegen.
