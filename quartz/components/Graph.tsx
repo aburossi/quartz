@@ -26,7 +26,7 @@ const defaultOptions: GraphOptions = {
   localGraph: {
     drag: true,
     zoom: true,
-    depth: 2,
+    depth: 1.5,
     scale: 0.8,
     repelForce: 2,
     centerForce: 0.3,
