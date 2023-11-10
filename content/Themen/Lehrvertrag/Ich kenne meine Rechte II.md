@@ -3,6 +3,9 @@ tags:
   - Recht
   - 1-Lehrjahr
   - identität-und-sozialisation
+  - "#Lehrvertrag"
+text: "[[Lohnabrechnung]]"
+text2:
 ---
 # Auftrag
 
