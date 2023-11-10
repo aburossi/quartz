@@ -10,7 +10,7 @@
 
 # ⛏Wie funktioniert es?
 - **Überwachung**: Regelmäßiges Überprüfen und Anpassen der Ausgaben an das Budget.
-- **Priorisierung**: Entscheidung, welche variablen Ausgaben wichtig sind und welche reduziert werden können.
+- **Priorisierung**: Entscheidung, welche variablen Kosten wichtig sind und welche reduziert werden können.
 - **Flexible Planung**: Einplanung eines gewissen Spielraums für unvorhergesehene Ausgaben.
 - **Einsparungen**: Identifizierung von Möglichkeiten, bei variablen Ausgaben zu sparen.
 - **Ausgabenprotokoll**: Führen eines detaillierten Protokolls über alle variablen Ausgaben.
