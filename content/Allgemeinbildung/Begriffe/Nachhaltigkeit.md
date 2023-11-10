@@ -21,3 +21,7 @@ tags:
 - **Ressourceneffizienz:** Minimierung des Verbrauchs natürlicher Ressourcen und Maximierung der Effizienz in ihrer Nutzung.
 - **Recycling und Wiederverwendung:** Reduzierung der Abfallproduktion durch Recycling und Wiederverwendung von Materialien.
 - **Politische Rahmenbedingungen:** Schaffung von Gesetzen und Vorschriften, die nachhaltige Praktiken fördern.
+
+# ➕Weitere Quellen
+[📄 Nachrichten über Nachhaltigkeit](https://www.google.com/search?q=Nachhaltigkeit&tbm=nws)
+[🎞 Videos über Nachhaltigkeit](https://www.google.com/search?q=Nachhaltigkeit&tbm=vid)

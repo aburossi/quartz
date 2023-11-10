@@ -25,3 +25,7 @@ Die Prämie ist der Schlüssel, um im Unglücksfall nicht allein dazustehen. Ob 
 **4. Selbstbeteiligung:** Viele Policen haben eine Selbstbeteiligung, den sogenannten Franchise. Das ist der Teil, den ihr im Schadensfall selbst zahlt. Eine höhere Selbstbeteiligung kann die Prämie senken.
 
 **5. Regelmäßige Überprüfung:** Veränderungen in eurem Leben können die Prämien beeinflussen. Ein Umzug, ein neuer Job oder ein neues Auto – all das solltet ihr eurer Versicherung mitteilen.
+
+# ➕Weitere Quellen
+[📄 Nachrichten über Versicherungsprämien in der Schweiz](https://www.google.com/search?q=Versicherungsprämien+Schweiz&tbm=nws)
+[🎞 Videos über Versicherungsprämien in der Schweiz](https://www.google.com/search?q=Versicherungsprämie+Schweiz&tbm=vid)
