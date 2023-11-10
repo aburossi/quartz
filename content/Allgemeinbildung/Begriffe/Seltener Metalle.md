@@ -4,8 +4,24 @@ tags:
   - Technologie
   - "#Wirtschaft"
 ---
-**Rare Earth Elements (REEs)** sind eine Gruppe von 17 Elementen, die in vielen modernen Technologien unersetzlich sind. Von Smartphones bis zu Elektroautos, REEs sind überall.
+# 🔍Was ist das?
 
-**China** dominiert die Produktion dieser wichtigen Rohstoffe. Das Land fördert etwa 60% der weltweiten REEs und kontrolliert 85% der Verarbeitungskapazität. Diese Dominanz gibt China eine enorme Macht über globale Technologiemärkte und Lieferketten.
+Seltene Metalle, auch bekannt als **Seltenerdmetalle** oder **Seltene Erden**, sind eine Gruppe von 17 chemischen Elementen im Periodensystem: Scandium, Yttrium und die 15 Lanthanoiden. Sie sind wichtig für viele moderne Technologien und haben spezielle chemische und physikalische Eigenschaften, wie hohe Leitfähigkeit und magnetische Eigenschaften, die sie für bestimmte Zwecke unentbehrlich machen.
 
-**Globale Macht**: Durch seine Dominanz in der REE-Industrie hat China einen strategischen Vorteil. Es kann Preise beeinflussen, mit Exportkontrollen drohen und so politischen und wirtschaftlichen Druck auf andere Länder ausüben.
+# ❗ Warum ist es wichtig?
+
+- Diese Metalle werden in einer Vielzahl von Anwendungen eingesetzt, einschließlich in grünen Technologien wie Windturbinen und Elektroauto-Batterien.
+- Sie sind für die Herstellung von High-Tech-Geräten und Militärtechnologie unerlässlich.
+- Es gibt Bedenken hinsichtlich der begrenzten Verfügbarkeit und des umweltfreundlichen Abbaus dieser Metalle.
+
+# ⛏Wie funktioniert das?
+
+- Seltene Metalle werden aus mineralischen Quellen abgebaut, oft durch komplexe chemische Prozesse.
+- Nach dem Abbau müssen diese Metalle gereinigt und raffiniert werden, um reine Elemente zu erzeugen, die in verschiedenen Produkten verwendet werden können.
+- Diese Metalle können oft recycelt werden, um ihren Einsatz in umweltfreundlichen Anwendungen zu maximieren.
+
+# ➕Weiterführende Quellen
+
+[📄 Nachrichten über Seltene Metalle](https://www.google.com/search?q=Seltene%20Metalle&tbm=nws)
+
+[🎞 Videos über Seltene Metalle](https://www.google.com/search?q=Seltene%20Metalle&tbm=vid)
