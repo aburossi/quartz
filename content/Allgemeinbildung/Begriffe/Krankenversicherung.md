@@ -1,25 +1,26 @@
 # 🔍Was ist es?
 
-**Krankenversicherung** in der Schweiz ist ein System, das die Kosten für medizinische Versorgung und Dienstleistungen für die Bewohner abdeckt. Es ist ein wesentlicher Bestandteil des schweizerischen Gesundheitssystems. Die Krankenversicherung ist in der Schweiz für alle Einwohner **obligatorisch**, was bedeutet, dass jeder in der Schweiz lebende Mensch gesetzlich verpflichtet ist, eine Grundversicherung abzuschließen. Diese Grundversicherung deckt eine Reihe von **Standardbehandlungen** und Dienstleistungen ab.
+Die **Krankenversicherung in der Schweiz** bezieht sich auf das System, das die **medizinische Versorgung** und **Kostendeckung** für gesundheitliche Dienstleistungen für die Bewohner der Schweiz sicherstellt. In der Schweiz ist die Krankenversicherung für alle Einwohner **gesetzlich vorgeschrieben**. Sie ist bekannt für ihre **hohe Qualität** und **Effizienz**, aber auch für ihre **hohen Kosten**. Die Versicherung deckt eine Vielzahl von **medizinischen Leistungen** ab, einschließlich Arztbesuchen, Krankenhausaufenthalten und manchmal auch Zahnbehandlungen.
 
 # ❗Warum ist es wichtig?
 
-- **Gesundheitsschutz**: Sie bietet finanziellen Schutz bei Krankheit und Unfall.
-- **Zugang zur medizinischen Versorgung**: Ermöglicht den Zugang zu einer Vielzahl von Gesundheitsdienstleistungen und -behandlungen.
-- **Gesetzliche Anforderung**: Nichtversicherung kann zu Bußgeldern und Schwierigkeiten beim Zugang zu medizinischen Leistungen führen.
-- **Prävention und Früherkennung**: Versicherungen bieten oft Vorsorgeuntersuchungen und Gesundheitsförderungsprogramme.
+- **Gesundheitsschutz**: Sichert die medizinische Versorgung für alle Einwohner.
+- **Finanzielle Sicherheit**: Schützt vor hohen medizinischen Ausgaben.
+- **Gesetzliche Pflicht**: Erfüllung der gesetzlichen Anforderungen in der Schweiz.
+- **Prävention und Gesundheitsförderung**: Unterstützt präventive Maßnahmen zur Gesundheitserhaltung.
+- **Individuelle Anpassung**: Verschiedene Versicherungsoptionen für individuelle Bedürfnisse.
 
 # ⛏Wie funktioniert es?
 
-- **Grundversicherungspflicht**: Jeder in der Schweiz muss eine Grundkrankenversicherung abschließen.
-- **Wahl der Versicherungsgesellschaft**: Versicherte können unter verschiedenen Anbietern wählen.
-- **Leistungsumfang**: Die Grundversicherung deckt eine breite Palette von Standardbehandlungen, einschließlich Krankenhausaufenthalten, Arztbesuchen und bestimmten Medikamenten.
-- **Zusatzversicherungen**: Für zusätzliche Leistungen wie Privatzimmer im Krankenhaus oder alternative Medizin können freiwillige Zusatzversicherungen abgeschlossen werden.
-- **Prämien und Kostenbeteiligung**: Versicherte zahlen monatliche Prämien und beteiligen sich an den Kosten ihrer medizinischen Behandlungen durch Selbstbehalte und Franchisen.
+- **Versicherungspflicht**: Jeder Einwohner muss eine Grundversicherung abschließen.
+- **Grundversicherung**: Deckt standardmäßige medizinische Leistungen ab.
+- **Zusatzversicherungen**: Optional für erweiterte Leistungen wie private Krankenhauszimmer.
+- **Prämien**: Monatliche Beiträge, abhängig von der gewählten Versicherung und dem Wohnkanton.
+- **Franchise**: Jährlicher Selbstbehalt, bevor die Versicherung die Kosten übernimmt.
+- **Kostenbeteiligung**: Zusätzlich zur Franchise wird ein Selbstbehalt von 10% der Kosten getragen, bis zu einem jährlichen Maximum.
 
-# ➕Weitere Lesungen
+# ➕Weitere Quellen
 
-📄[Aktuelle Nachrichten zur Krankenversicherung in der Schweiz](https://www.google.com/search?q=krankenversicherung+in+der+schweiz&tbm=nws) 
+📄 News
 
-## 🎞Videos zur Krankenversicherung in der Schweiz
-<iframe width="100%" height="350" src="https://www.google.com/search?q=krankenversicherung+in+der+schweiz&tbm=vid" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+<iframe width="100%" height="350" src="https://www.google.com/search?q=Krankenversicherung+Schweiz&tbm=nws" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe> 🎞 Videos <iframe width="100%" height="350" src="https://www.google.com/search?q=Krankenversicherung+Schweiz&tbm=vid" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
