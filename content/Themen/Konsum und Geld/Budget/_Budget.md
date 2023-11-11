@@ -1,6 +1,7 @@
 ---
 tags:
   - Budget
+  - Wirtschaft
 ---
 [[1. Einführung]]
 [[2. Budgetvergleich]]
