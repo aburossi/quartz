@@ -2,6 +2,9 @@
 tags:
   - Budget
   - Wirtschaft
+  - 1-Lehrjahr
+  - Konsum-und-Geld
+  - identität-und-sozialisation
 ---
 ## Woche 1
 [[1. Einführung]]
