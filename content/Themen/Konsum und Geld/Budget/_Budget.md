@@ -10,3 +10,4 @@ tags:
 ## Woche 2
 [[4. Persönliches Budget]]
 [[5. Budgetbeispiele]]
+[[6. Übungen mit fiktiven Budgets]]
