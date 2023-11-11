@@ -6,6 +6,7 @@ tags:
 ---
 # 🔍 Was ist es?
 Ein **Kaufvertrag** in der Schweiz ist ein rechtlich bindendes Dokument, das zwischen zwei Parteien – dem Käufer und dem Verkäufer – abgeschlossen wird. Es regelt den Verkauf und die Übertragung von Eigentum an einer Ware oder Dienstleistung. Der Vertrag legt die Rechte und Pflichten beider Parteien fest, einschließlich der Zahlungsbedingungen, Lieferdetails und Gewährleistungen.
+[[Obligationenrecht#[**Art. 1**](https //www.fedlex.admin.ch/eli/cc/27/317_321_377/de art_1)]]
 
 # ❗ Warum es wichtig ist?
 - **Schutz der Interessen** beider Parteien durch klare Regelungen.
