@@ -24,7 +24,7 @@ Ein **Kaufvertrag** (OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 18
 ### Rechte und Pflichten des Käufers:
 - Muss den vereinbarten Preis für die Ware oder Dienstleistung zahlen.
 - Hat das Recht, die Ware in dem Zustand zu erhalten, wie sie im Vertrag beschrieben wurde.
-- Bei Mängeln kann der Käufer je nach Vertrag und Gesetzgebung **Nachbesserung, Minderung des Kaufpreises, Wandlung (Rücktritt vom Vertrag) oder Schadenersatz** fordern. (s. Mangelrüge OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 201]])
+- Bei Mängeln kann der Käufer je nach Vertrag und Gesetzgebung **Nachbesserung, Minderung des Kaufpreises, Wandlung (Rücktritt vom Vertrag) oder Schadenersatz** fordern. (s. [[Mangelrüge]] OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 201]])
 
 # ➕Weitere Quellen
 [📄 Nachrichten über Kaufverträge in der Schweiz](https://www.google.com/search?q=Kaufvertrag+Schweiz&tbm=nws)

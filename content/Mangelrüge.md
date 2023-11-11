@@ -1,1 +1,0 @@
-[Mängelrüge Schweiz - Wenn die gekaufte Ware Mängel hat | Reklamationszentrale Schweiz](https://www.reklamationszentrale.ch/aktuell/maengelruege-schweiz)
