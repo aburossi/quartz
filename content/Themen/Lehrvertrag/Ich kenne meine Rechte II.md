@@ -4,8 +4,8 @@ tags:
   - 1-Lehrjahr
   - identität-und-sozialisation
   - "#Lehrvertrag"
-text: "[[Lohnabrechnung]]"
-text2:
+text: "[[Allgemeinbildung/Begriffe/Lohnabrechnung]]"
+text2: 
 ---
 # Auftrag
 
