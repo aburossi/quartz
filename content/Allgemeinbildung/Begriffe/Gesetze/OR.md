@@ -14,7 +14,7 @@ des Schweizerischen Zivilgesetzbuches
 
 [1. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_1/tit_1/chap_1/lvl_A/lvl_I/lvl_1)
 
-###### **Art. 1**
+###### Art. 1
 1 Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
 2 Sie kann eine ausdrückliche oder stillschweigende sein.
 
