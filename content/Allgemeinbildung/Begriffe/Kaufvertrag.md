@@ -9,7 +9,8 @@ Ein **Kaufvertrag** in der Schweiz ist ein rechtlich bindendes Dokument, das zwi
 [[Obligationenrecht#[**Art. 1**](https //www.fedlex.admin.ch/eli/cc/27/317_321_377/de art_1)]]
 
 GESETZE
-[[OR#[**Art. 1**](https //www.fedlex.admin.ch/eli/cc/27/317_321_377/de art_1)]]
+
+[[OR#**Art. 1**]]
 
 # ❗ Warum es wichtig ist?
 - **Schutz der Interessen** beider Parteien durch klare Regelungen.
