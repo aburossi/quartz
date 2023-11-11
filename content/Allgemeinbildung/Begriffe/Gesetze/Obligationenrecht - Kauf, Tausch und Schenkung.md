@@ -46,7 +46,7 @@ Der kantonalen Gesetzgebung bleibt es vorbehalten, die Klagbarkeit von Forderung
 
 [1. Kosten der Übergabe](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_I/lvl_1)
 
-###### [**Art. 188**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_188)
+###### Art. 188
 
 Sofern nicht etwas anderes vereinbart worden oder üblich ist, trägt der Verkäufer die Kosten der Übergabe, insbesondere des Messens und Wägens, der Käufer dagegen die der Beurkundung und der Abnahme.
 
@@ -196,7 +196,7 @@ Eine Vereinbarung über Aufhebung oder Beschränkung der Gewährspflicht ist ung
 
 [a. Im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_2/lvl_B/lvl_III/lvl_4/lvl_a)
 
-###### [**Art. 201**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_201)
+###### Art. 201
 
 1 Der Käufer soll, sobald es nach dem üblichen Geschäftsgange tunlich ist, die Beschaffenheit der empfangenen Sache prüfen und, falls sich Mängel ergeben, für die der Verkäufer Gewähr zu leisten hat, diesem sofort Anzeige machen.
 
