@@ -2058,7 +2058,7 @@ Die besondern Bestimmungen betreffend die Schuldübernahme bei Erbteilung und be
 
 [A. Rechte und Pflichten im Allgemeinen](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#part_2/tit_6/chap_1/lvl_A)
 
-###### [**Art. 184**](https://www.fedlex.admin.ch/eli/cc/27/317_321_377/de#art_184)
+###### Art. 184
 
 1 Durch den Kaufvertrag verpflichten sich der Verkäufer, dem Käufer den Kaufgegenstand zu übergeben und ihm das Eigentum daran zu verschaffen, und der Käufer, dem Verkäufer den Kaufpreis zu bezahlen.
 

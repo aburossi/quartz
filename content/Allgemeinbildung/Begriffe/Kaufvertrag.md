@@ -5,13 +5,9 @@ tags:
   - Kaufvertragsarten-Teil1
 ---
 # 🔍 Was ist es?
-Ein **Kaufvertrag** in der Schweiz ist ein rechtlich bindendes Dokument, das zwischen zwei Parteien – dem Käufer und dem Verkäufer – abgeschlossen wird. Es regelt den Verkauf und die Übertragung von Eigentum an einer Ware oder Dienstleistung. Der Vertrag legt die Rechte und Pflichten beider Parteien fest, einschließlich der Zahlungsbedingungen, Lieferdetails und Gewährleistungen.
-[[Obligationenrecht#**Art. 1**]]
+Ein **Kaufvertrag** (OR [[Obligationenrecht#Art. 184]]) in der Schweiz ist ein rechtlich bindendes Dokument, das zwischen zwei Parteien – dem Käufer und dem Verkäufer – abgeschlossen wird. Es regelt den Verkauf und die Übertragung von Eigentum an einer Ware oder Dienstleistung. Der Vertrag legt die Rechte und Pflichten beider Parteien fest, einschließlich der Zahlungsbedingungen, Lieferdetails und Gewährleistungen.
 
-GESETZE
 
-OR [[OR#Art. 1]]
-OR[[OR#]]
 
 # ❗ Warum es wichtig ist?
 - **Schutz der Interessen** beider Parteien durch klare Regelungen.
