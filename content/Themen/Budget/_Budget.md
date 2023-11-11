@@ -7,7 +7,7 @@ tags:
   - identität-und-sozialisation
 ---
 ## Woche 1
-[[1. Einführung]]
+[[1. Einführung ins Budgetieren]]
 [[2. Budgetvergleich]]
 [[3. Ausgabenprotokoll]]
 ## Woche 2
