@@ -19,6 +19,8 @@ Die **Kreislaufwirtschaft** ist ein Wirtschaftssystem, das darauf abzielt, Resso
 - **Geschäftsmodelle**: Entwicklung neuer Geschäftsmodelle, die Leasing und Sharing statt Kauf fördern.
 - **Politische Rahmenbedingungen**: Schaffung von Gesetzen und Vorschriften, die Kreislaufpraktiken unterstützen.
 
+![[Pasted image 20231114101443.png]]
+
 # ➕Weitere Quellen
 [📄 Nachrichten über Kreislaufwirtschaft](https://www.google.com/search?q=Kreislaufwirtschaft&tbm=nws)
 [🎞 Videos über Kreislaufwirtschaft](https://www.google.com/search?q=kreislaufwirtschaft&tbm=vid)
