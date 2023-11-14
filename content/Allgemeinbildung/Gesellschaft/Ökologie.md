@@ -5,7 +5,7 @@ tags:
 
 # Was ist es?
 
-**Ökologie** ist die Wissenschaft von den Beziehungen zwischen Lebewesen und ihrer Umwelt sowie den Prozessen, die diese Wechselbeziehungen steuern. Sie untersucht, wie Organismen mit ihrer abiotischen Umgebung (wie Klima und Bodenbeschaffenheit) und ihrer biotischen Umgebung (andere Lebewesen) interagieren. **Ökosysteme**, **Biodiversität** und **Nachhaltigkeit** sind Schlüsselkonzepte in der Ökologie.
+**Ökologie** ist die Wissenschaft von den Beziehungen zwischen Lebewesen und ihrer Umwelt sowie den Prozessen, die diese Wechselbeziehungen steuern. Sie untersucht, wie Organismen mit ihrer abiotischen Umgebung (wie Klima und Bodenbeschaffenheit) und ihrer biotischen Umgebung (andere Lebewesen) interagieren. **Ökosysteme**, **Biodiversität** und **[[Nachhaltigkeit]]** sind Schlüsselkonzepte in der Ökologie.
 
 # Warum es wichtig ist?
 

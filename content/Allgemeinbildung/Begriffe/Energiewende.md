@@ -9,7 +9,7 @@ Die **Energiewende** bezeichnet den Übergang von der Nutzung fossiler Brennstof
 
 # ❗ Warum es wichtig ist?
 - **Klimaschutz**: Reduziert die durch fossile Brennstoffe verursachten Treibhausgasemissionen.
-- **Nachhaltigkeit**: Fördert nachhaltige und umweltschonende Energiequellen.
+- **[[Nachhaltigkeit]]**: Fördert nachhaltige und umweltschonende Energiequellen.
 - **Energieunabhängigkeit**: Verringert die Abhängigkeit von Energieimporten und verbessert die Energieversorgungssicherheit.
 - **Wirtschaftliche Chancen**: Schafft neue Arbeitsplätze und fördert Innovationen in der Energiebranche.
 

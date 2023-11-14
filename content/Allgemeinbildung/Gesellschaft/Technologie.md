@@ -15,4 +15,4 @@ Technologie ist der Einsatz von wissenschaftlichen Kenntnissen für praktische Z
 # **Wie es funktioniert:**
 - **Innovation:** Forscher und Ingenieure entwickeln neue Technologien, um Bedürfnisse zu erfüllen oder Probleme zu lösen.
 - **Anwendung:** Diese Technologien werden in verschiedenen Bereichen eingesetzt, von der Produktion bis hin zur Dienstleistungsbranche.
-- **Verbesserung:** Bestehende Technologien werden kontinuierlich verbessert, um ihre Effizienz, Benutzerfreundlichkeit und Nachhaltigkeit zu erhöhen.
+- **Verbesserung:** Bestehende Technologien werden kontinuierlich verbessert, um ihre Effizienz, Benutzerfreundlichkeit und [[Nachhaltigkeit]] zu erhöhen.
