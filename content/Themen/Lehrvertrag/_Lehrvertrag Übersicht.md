@@ -7,9 +7,9 @@ tags:
 ---
 # Ressourcen
 
-- [[Ich kenne meine Rechte I]]
-- [[Ich kenne meine Rechte II]]
-- [[Ich kenne meine Rechte III]]
+- [[2. Ich kenne meine Rechte I]]
+- [[3. Ich kenne meine Rechte II]]
+- [[4. Ich kenne meine Rechte III]]
 - [[Lernen - Lehrvertrag]]
 - [[1. Lehrvertrag ausfüllen]]
 
