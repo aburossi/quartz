@@ -4,4 +4,4 @@ tags:
   - Konsum-und-Geld
   - Preisbildung
 ---
-__
+__in Planung [[Preisbildung Planung]]
