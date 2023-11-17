@@ -6,11 +6,11 @@ tags:
   - identität-und-sozialisation
 ---
 # Ressourcen
-- [[_Lehrvertrag]]
+
 - [[Ich kenne meine Rechte I]]
 - [[Ich kenne meine Rechte II]]
 - [[Ich kenne meine Rechte III]]
-- [[Lernkarteien]]
+- [[Lernen - Lehrvertrag]]
 - [[1. Lehrvertrag ausfüllen]]
 
 
