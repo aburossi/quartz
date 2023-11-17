@@ -9,10 +9,10 @@ text: "[[Lehrvertrag]]"
 
 **Ziel:** Du sollst die im Lehrmittel behandelten Inhalte mit Online-Ressourcen kombinieren, um ein tieferes Verständnis für die Rechte der Lernenden zu entwickeln.
 
-## **Anweisungen:**
+#### **Anweisungen:**
 
 # 1
-**Vorbereitung**: Lies die Inhalte aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
+#### **Vorbereitung**: Lies die Inhalte aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
 
 >[!quote]- Inhalte Lehrmittel
 >Kapitel 1.4
@@ -21,7 +21,7 @@ text: "[[Lehrvertrag]]"
 >- Beendigung des Lehrverhältnis
 
 # 2
-**Begriffe auswählen**: Unten siehst du eine Tabelle mit verschiedenen Begriffen. Wähle **fünf** Begriffe aus, die deinem persönlichen Interesse entsprechen.
+#### **Begriffe auswählen**: Unten siehst du eine Tabelle mit verschiedenen Begriffen. Wähle **fünf** Begriffe aus, die deinem persönlichen Interesse entsprechen.
 
 
 |Lehrvertrag|Arbeitszeit|Lohn|
@@ -41,12 +41,13 @@ text: "[[Lehrvertrag]]"
 >[!quote]- Link Website
 >[Ich kenne meine Rechte](https://www.rechte-der-lernenden.ch/von-a-z/)
 
-4. **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
-    
-    - **Begriff**
-    - **Lehrmittel**
-    - **Webseite**
-    - **Link**
+# 4
+#### **Tabelle erstellen**: Erstelle eine Übersichtstabelle mit den folgenden Spalten:
+
+   - **Begriff**
+   - **Lehrmittel**
+   - **Webseite**
+   - **Link**
 
 Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
 
@@ -56,7 +57,8 @@ Fülle die Tabelle für alle fünf ausgewählten Begriffe aus.
 >|---|---|---|---|
 >|_ausgewählte Begriff_|_Kurze Beschreibung aus dem Lehrmittel_|_Kurze Zusammenfassung der Informationen von der Webseite_|_Link zur Webseite_|
 
-5. **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
+# 5
+#### **Reflexion**: Beantworte mindestens eine der folgenden Fragen unterhalb der Tabelle:
     - Welche neuen Informationen hast du durch die Online-Recherche gewonnen?
     - Gab es Widersprüche oder Ergänzungen zu dem, was im Lehrmittel steht?
     - Wie hilfreich fandest du die Online-Ressourcen im Vergleich zum Lehrmittel?
