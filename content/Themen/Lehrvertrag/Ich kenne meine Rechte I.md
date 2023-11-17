@@ -11,7 +11,8 @@ text: "[[Lehrvertrag]]"
 
 ## **Anweisungen:**
 
-1. **Vorbereitung**: Lies die Inhalte aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
+# 1
+**Vorbereitung**: Lies die Inhalte aus dem Lehrmittel erneut durch. Markiere alle Stichwörter, die du für wichtig hältst.
 
 >[!quote]- Inhalte Lehrmittel
 >Kapitel 1.4
@@ -19,7 +20,8 @@ text: "[[Lehrvertrag]]"
 >- Probezeit
 >- Beendigung des Lehrverhältnis
 
-2. **Begriffe auswählen**: Unten siehst du eine Tabelle mit verschiedenen Begriffen. Wähle **fünf** Begriffe aus, die deinem persönlichen Interesse entsprechen.
+# 2
+**Begriffe auswählen**: Unten siehst du eine Tabelle mit verschiedenen Begriffen. Wähle **fünf** Begriffe aus, die deinem persönlichen Interesse entsprechen.
 
 
 |Lehrvertrag|Arbeitszeit|Lohn|
@@ -32,8 +34,10 @@ text: "[[Lehrvertrag]]"
 |Sexuelle Belästigung|Qualifikationsverfahren|Verlängerung der Lehrzeit|
 |Militärdienst|Krankheit|Unfall|
 
-3. **Online-Recherche**: Suche auf der Website **ich kenne meine Rechte** nach den von dir ausgewählten Begriffen, um tiefergehende Informationen zu finden.
-    <iframe width="100%" height="600" src="https://www.rechte-der-lernenden.ch/von-a-z/" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+# 3
+#### **Online-Recherche**: Suche auf der Website **ich kenne meine Rechte** nach den von dir ausgewählten Begriffen, um tiefergehende Informationen zu finden.
+
+<iframe width="100%" height="600" src="https://www.rechte-der-lernenden.ch/von-a-z/" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 >[!quote]- Link Website
 >[Ich kenne meine Rechte](https://www.rechte-der-lernenden.ch/von-a-z/)
 
