@@ -3,6 +3,7 @@ tags:
   - 1-Lehrjahr
   - Wirtschaft
   - Konsum-und-Geld
+  - Lohnbestandteile
 ---
 # Ressourcen
 
@@ -12,12 +13,12 @@ tags:
 
 ## Lernziele
 ### Bildungsziele «Gesellschaft»
-–  Die eigene [[Lohnabrechnung]] erklären 
-–  Obligatorische und zusätzliche Abzüge erklären 
-–  Kontoauszug der Bank verstehen 
+- Die eigene [[Lohnabrechnung]] erklären 
+- Obligatorische und zusätzliche Abzüge erklären 
+- Kontoauszug der Bank verstehen 
 ### Bildungsziele «Sprache und Kommunikation»
-–  Kann Lohnabrechnungen und Kontoauszüge lesen und Einzahlungsscheine ausfüllen 
-–  Kann die häufigsten Fehlerquellen in seiner Textproduktion vermeiden 
+- Kann Lohnabrechnungen und Kontoauszüge lesen und Einzahlungsscheine ausfüllen 
+- Kann die häufigsten Fehlerquellen in seiner Textproduktion vermeiden 
 ## Begriffe
 [[Lohnabrechnung]]
 [[Bruttolohn]]
