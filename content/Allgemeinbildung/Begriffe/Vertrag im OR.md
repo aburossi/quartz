@@ -14,7 +14,7 @@ Ein **Vertrag** im Rahmen des **Obligationenrechts** ist eine rechtliche Vereinb
 # ⛏Wie es funktioniert?
 - **Vertragsfreiheit**: Die Parteien können ihre Verträge grundsätzlich frei gestalten, solange sie nicht gegen zwingende Gesetze verstossen. [[Obligationenrecht - Die Entstehung der Obligationen#**Art. 1**]]
 - **Formvorschriften**: Manche Verträge erfordern eine spezielle Form, z. B. schriftlich oder öffentlich beurkundet.
-- **Vertragsinhalt**: Die Parteien legen ihre gegenseitigen Rechte und Pflichten fest.
+- **Vertragsinhalt**: Die Parteien legen ihre gegenseitigen Rechte und Pflichten fest. [[Obligationenrecht - Die Entstehung der Obligationen#**Art. 2**]]
 - **Vertragserfüllung**: Die Parteien müssen ihre vertraglichen Verpflichtungen erfüllen.
 - **Haftung bei Vertragsverletzung**: Bei Nichteinhaltung können Schadenersatz oder andere rechtliche Konsequenzen folgen.
 
