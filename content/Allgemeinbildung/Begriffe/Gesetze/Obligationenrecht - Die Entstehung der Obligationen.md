@@ -30,7 +30,7 @@ I. Übereinstimmende Willensäusserung
 
 1. Im Allgemeinen
 
-###### **Art. 1**
+###### Art. 1
 
 1 Zum Abschlusse eines Vertrages ist die übereinstimmende gegenseitige Willensäusserung der Parteien erforderlich.
 
@@ -38,7 +38,7 @@ I. Übereinstimmende Willensäusserung
 
 2. Betreffend Nebenpunkte
 
-###### **Art. 2**
+###### Art. 2
 
 1 Haben sich die Parteien über alle wesentlichen Punkte geeinigt, so wird vermutet, dass der Vorbehalt von Nebenpunkten die Verbindlichkeit des Vertrages nicht hindern solle.
 
