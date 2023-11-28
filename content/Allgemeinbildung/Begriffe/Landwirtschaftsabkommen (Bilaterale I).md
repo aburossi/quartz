@@ -1,5 +1,5 @@
 # 🔍Was ist es?
-Das **Landwirtschaftsabkommen** ist ein wichtiger Bestandteil der **Bilateralen Abkommen I** zwischen der **Schweiz** und der **Europäischen Union (EU)**. Es wurde 1999 unterzeichnet und trat 2002 in Kraft. Dieses Abkommen hat das Ziel, den Handel mit landwirtschaftlichen Produkten zwischen der Schweiz und der EU zu erleichtern. Es umfasst Regelungen zur Senkung von Zöllen und zur Vereinfachung von Handelsvorschriften, um so den beidseitigen Handel mit landwirtschaftlichen Erzeugnissen zu fördern.
+Das **Landwirtschaftsabkommen** ist ein wichtiger Bestandteil der **[[Bilaterale Abkommen I]]** zwischen der **Schweiz** und der **[[Europäischen Union (EU)]]**. Es wurde 1999 unterzeichnet und trat 2002 in Kraft. Dieses Abkommen hat das Ziel, den Handel mit landwirtschaftlichen Produkten zwischen der Schweiz und der EU zu erleichtern. Es umfasst Regelungen zur Senkung von Zöllen und zur Vereinfachung von Handelsvorschriften, um so den beidseitigen Handel mit landwirtschaftlichen Erzeugnissen zu fördern.
 
 # ❗ Warum es wichtig ist?
 - **Wirtschaftliche Integration**: Fördert den Handel zwischen der Schweiz und der EU, was zur wirtschaftlichen Integration beiträgt.
