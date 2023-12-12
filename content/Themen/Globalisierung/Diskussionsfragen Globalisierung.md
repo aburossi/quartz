@@ -10,22 +10,8 @@
 >- Welche Faktoren haben dazu beigetragen, dass China eine so wichtige Rolle in der [[Globalisierung]] spielt?
 >- Stellen Sie eine Verbindung zwischen Chinas wirtschaftlicher Entwicklung und seiner aktuellen Rolle in der Globalisierung her. Wie könnte sich diese Rolle in der Zukunft weiterentwickeln?
 
->[info!]-
-><iframe width="100%" height="600" src="https://www.ifitweremyhome.com/compare/CH/CN" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
->https://www.ifitweremyhome.com/compare/CH/CN
->"Wenn China statt der Schweiz Ihr Zuhause wäre, würden Sie...":
->- 7,24 Jahre früher sterben
->- 4 Mal wahrscheinlicher im Kindesalter sterben
->- 28,12% mehr Arbeitslosigkeit erleben
->- 82,12% weniger Geld verdienen
->- 96,42% weniger Geld für Gesundheitspflegeusgeben
->- 77,5% weniger Öl verbrauchen
->- 64,81% mehr Klassenunterschiede erfahren
->- 46,34% weniger Strom verbrauchen
->- 41,67% wahrscheinlicher im Gefängnis sein
->- 75% weniger wahrscheinlich HIV/AIDS haben
->- 14,29% mehr Wahrscheinlichkeit ermordet zu werden
->- 16,13% mehr Babys bekommen
+https://www.ifitweremyhome.com/compare/CH/CN
+
 ## [[3. Die antike Seidenstrasse]]
 
 >[!Question]-
