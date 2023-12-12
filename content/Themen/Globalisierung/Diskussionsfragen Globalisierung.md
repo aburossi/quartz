@@ -1,6 +1,6 @@
-## 1. Einführung
+## [[1. Einführung]]
 
->[!Fragen]
+>[!Question]
 >- Wie haben technologische Fortschritte wie das Internet und Transportmittel zur Globalisierung beigetragen?
 >- Wie könnten Unternehmen auf die Herausforderungen der Globalisierung reagieren, ohne dabei die Umwelt oder soziale Gerechtigkeit zu vernachlässigen.
 
