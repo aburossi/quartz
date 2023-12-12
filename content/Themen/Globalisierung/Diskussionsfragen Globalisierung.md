@@ -10,7 +10,9 @@
 >- Welche Faktoren haben dazu beigetragen, dass China eine so wichtige Rolle in der [[Globalisierung]] spielt?
 >- Stellen Sie eine Verbindung zwischen Chinas wirtschaftlicher Entwicklung und seiner aktuellen Rolle in der Globalisierung her. Wie könnte sich diese Rolle in der Zukunft weiterentwickeln?
 
-https://www.ifitweremyhome.com/compare/CH/CN
+>[info!]-
+>https://www.ifitweremyhome.com/compare/CH/CN
+>![[Pasted image 20231212150735.png]]
 
 ## [[3. Die antike Seidenstrasse]]
 
