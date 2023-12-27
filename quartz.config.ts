@@ -10,7 +10,7 @@ const config: QuartzConfig = {
       provider: "plausible",
     },
     baseUrl: "aburossi.github.io",
-  ignorePatterns: ["private", "templates", ".obsidian"],
+  ignorePatterns: ["private", "templates", ".obsidian", "assets"],
     defaultDateType: "created",
     theme: {
       typography: {
