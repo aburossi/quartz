@@ -27,7 +27,7 @@
 
 >[!Question]-
 >- Wie verändert das Projekt 'Seidenstrasse 2.0' die globalen Logistikstrukturen?
->- Wie trägt die 'Seidenstrasse 2.0' zur globalen Expansion der chinesischen [[Allgemeinbildung/Begriffe/Wirtschaft]] und [[Technologie]] bei?"
+>- Wie trägt die 'Seidenstrasse 2.0' zur globalen Expansion der chinesischen [[Allgemeinbildung/Gesellschaft/Begriffe/Wirtschaft]] und [[Technologie]] bei?"
 >- Welche Risiken birgt die 'Seidenstrasse 2.0' für beteiligte Länder und welche strategischen Ziele verfolgt China damit?
 >- Welche Risiken birgt die Finanzierungsstruktur der 'Seidenstrasse 2.0' für beteiligte Länder und wie beeinflusst sie die geopolitische Landschaft?"
 >- Wie könnten die Schweizer Wirtschaft und Europa das 'Seidenstrasse 2.0'-Projekt nutzen, um eigene wirtschaftliche und politische Interessen zu fördern, ohne dabei in Abhängigkeiten zu geraten?"
