@@ -1,0 +1,29 @@
+{
+	"nodes":[
+		{"id":"a7d1521b59c4ce68","x":-433,"y":-280,"width":250,"height":345,"type":"text","text":"Kritische Reflexion Anregen**: Fördern Sie die Schüler dazu, über die Bedeutung von Menschenrechten und individueller Freiheit in verschiedenen kulturellen Kontexten nachzudenken. Diskutieren Sie, wie die Situation in den Philippinen sich von der in ihrem eigenen Land unterscheidet und warum.\n"},
+		{"id":"a628fe885f5a48ad","x":233,"y":-432,"width":250,"height":277,"type":"text","text":"**Zusammenfassung und Schlussfolgerung**: Beenden Sie die Diskussion mit einer Zusammenfassung der wichtigsten Erkenntnisse und reflektieren Sie darüber, wie dieses Thema zur allgemeinen Bildung über globale Themen und Menschenrechte beiträgt."},
+		{"id":"66e6c448e4817e29","x":960,"y":-592,"width":560,"height":320,"type":"text","text":"Beginnen Sie die Sitzung mit einer kurzen Einführung, um den Kontext des Radiobeitrags zu umreißen. Erklären Sie die grundlegende Thematik – die Situation der Ehescheidung in den Philippinen und deren Auswirkungen auf individuelle Rechte und gesellschaftliche Normen.\n- Stellen Sie die Kernfrage: \"Wie beeinflussen kulturelle, religiöse und rechtliche Rahmenbedingungen das persönliche Leben und die Menschenrechte?\"\n- Teilen Sie einige grundlegende Fakten, wie zum Beispiel die Tatsache, dass die Philippinen eines der wenigen Länder ohne gesetzlich geregelte Scheidung sind."},
+		{"id":"41ca65519795d7ae","x":835,"y":-800,"width":250,"height":60,"type":"text","text":"Thematische Einstimmung"},
+		{"id":"f805d529a862c76f","x":-378,"y":-848,"width":391,"height":360,"type":"text","text":"**Diskussionsfragen Stellen**: Formulieren Sie Fragen, die zur Diskussion anregen. Zum Beispiel: \n   - Wie beeinflussen religiöse und kulturelle Überzeugungen die Gesetzgebung in einem Land?\n   - Welche Auswirkungen hat das Fehlen eines Scheidungsgesetzes auf die betroffenen Individuen?\n   - Wie können gesellschaftliche Tabus und Normen Veränderungen in der Gesetzgebung beeinflussen oder verhindern?"},
+		{"id":"39fee7821af2a8c4","x":-17,"y":100,"width":250,"height":480,"type":"text","text":"Perspektivenwechsel**: Ermutigen Sie die Schüler, sich in die Lage der im Beitrag erwähnten Personen zu versetzen. Wie würden sie sich fühlen, wenn sie in einem Land lebten, in dem Scheidung illegal ist?"},
+		{"id":"bd06ecca87c18dd2","x":233,"y":-740,"width":250,"height":113,"type":"text","text":"Scheidung verboten"},
+		{"id":"fa536a4fe1635e7d","x":640,"y":-106,"width":250,"height":237,"type":"text","text":"**Kernpunkte Herausarbeiten**: Identifizieren Sie gemeinsam mit den Schülern die Hauptthemen des Beitrags."},
+		{"id":"20fc4d9d0dbdaf48","x":960,"y":-161,"width":250,"height":54,"type":"text","text":"gesellschaftlichen Ansichten zur Ehescheidung"},
+		{"id":"562d61bdab7551a7","x":1115,"y":-17,"width":250,"height":60,"type":"text","text":"Rolle der Kirche in den Philippinen"},
+		{"id":"b4c0311ecfcc200b","x":1115,"y":240,"width":250,"height":60,"type":"text","text":"persönlichen Geschichten der im Beitrag erwähnten Personen"},
+		{"id":"504abc7beb9fdbf8","x":1160,"y":340,"width":250,"height":82,"type":"text","text":"politischen Bemühungen um eine Änderung der Gesetzgebung"}
+	],
+	"edges":[
+		{"id":"756f8835ab0ae4ec","fromNode":"41ca65519795d7ae","fromSide":"bottom","toNode":"66e6c448e4817e29","toSide":"top"},
+		{"id":"b77243d259fe57f5","fromNode":"41ca65519795d7ae","fromSide":"bottom","toNode":"fa536a4fe1635e7d","toSide":"left"},
+		{"id":"1e710d978783140e","fromNode":"fa536a4fe1635e7d","fromSide":"right","toNode":"562d61bdab7551a7","toSide":"bottom"},
+		{"id":"127f48f3a539b353","fromNode":"fa536a4fe1635e7d","fromSide":"right","toNode":"20fc4d9d0dbdaf48","toSide":"bottom"},
+		{"id":"eab3f4ce0c1bd03e","fromNode":"fa536a4fe1635e7d","fromSide":"right","toNode":"b4c0311ecfcc200b","toSide":"top"},
+		{"id":"8baefc83495e2bd3","fromNode":"fa536a4fe1635e7d","fromSide":"right","toNode":"504abc7beb9fdbf8","toSide":"left"},
+		{"id":"480265488a9df9f6","fromNode":"fa536a4fe1635e7d","fromSide":"left","toNode":"f805d529a862c76f","toSide":"bottom"},
+		{"id":"31e4fed0cbe69b33","fromNode":"f805d529a862c76f","fromSide":"bottom","toNode":"a7d1521b59c4ce68","toSide":"right"},
+		{"id":"1a982bc450774325","fromNode":"a7d1521b59c4ce68","fromSide":"right","toNode":"39fee7821af2a8c4","toSide":"top"},
+		{"id":"2598f48ee3f8cb5c","fromNode":"39fee7821af2a8c4","fromSide":"right","toNode":"a628fe885f5a48ad","toSide":"bottom"},
+		{"id":"484f917f803e3f6b","fromNode":"bd06ecca87c18dd2","fromSide":"bottom","toNode":"41ca65519795d7ae","toSide":"top"}
+	]
+}
