@@ -1,1 +1,1 @@
-![[lohnerhoehung.html]]
+[[lohnerhoehung.html]]
