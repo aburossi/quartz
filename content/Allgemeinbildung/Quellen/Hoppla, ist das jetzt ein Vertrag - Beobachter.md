@@ -1,3 +1,4 @@
+Hoppla, ist das jetzt ein Vertrag - Beobachter
 **Täglich schliessen wir Verträge ab – meist ohne dass wir es überhaupt merken. Denn auch mündliche oder sogar wortlose Abmachungen können verbindlich sein.**
 
 ---
