@@ -1,3 +1,3 @@
-[[1. Vor der News1]]
-[[2. News]]
-[[3. Weiterführende Aufträge]]
+[[Konsum/Rückgaberecht/1. Kontext]]
+[[2. Rückgaberecht und Umtausch]]
+[[Konsum/Rückgaberecht/3. Weiterführende Aufträge]]
