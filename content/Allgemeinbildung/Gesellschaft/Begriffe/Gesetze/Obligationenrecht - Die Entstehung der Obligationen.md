@@ -462,7 +462,7 @@ V. Widerruf
 
 1. Form und Frist
 
-###### **Art. 40**_e_
+###### **Art. 40e**
 
 1 Der Widerruf ist an keine Form gebunden. Der Nachweis des fristgemässen Widerrufs obliegt dem Kunden.21
 
