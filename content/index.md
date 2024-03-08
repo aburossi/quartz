@@ -1,3 +1,4 @@
+# Willkommen auf EDUnews
 
 >[!info] 
 >- Die **Themen** sind nach **Gebiete** geordnet. 👉 **Bildschirmzoom** reduzieren, falls die **Spalte mit den Themen** links nicht sichbar ist
