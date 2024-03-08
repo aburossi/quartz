@@ -6,7 +6,7 @@ tags:
 ---
 # 🔍 Was ist eine Mangelrüge?
 
-Eine **Mangelrüge** (OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 201]]) ist ein rechtlicher Begriff, der in Geschäfts- und Kaufvertragsbeziehungen verwendet wird. Sie bezeichnet die formelle Beschwerde oder Reklamation eines Käufers, wenn die gekaufte Ware oder Dienstleistung Mängel aufweist. Diese Mängel können sich auf Qualität, Funktionalität, Beschaffenheit oder jede andere vereinbarte Eigenschaft des Produkts oder der Dienstleistung beziehen. Das Ziel einer Mangelrüge ist es, den Verkäufer auf die Probleme aufmerksam zu machen und eine Lösung, wie Reparatur, Ersatz, Preisnachlass oder Rücktritt vom Vertrag, zu fordern.
+Eine **Mangelrüge** ([[OR#Art. 201]]) ist ein rechtlicher Begriff, der in Geschäfts- und Kaufvertragsbeziehungen verwendet wird. Sie bezeichnet die formelle Beschwerde oder Reklamation eines Käufers, wenn die gekaufte Ware oder Dienstleistung Mängel aufweist. Diese Mängel können sich auf Qualität, Funktionalität, Beschaffenheit oder jede andere vereinbarte Eigenschaft des Produkts oder der Dienstleistung beziehen. Das Ziel einer Mangelrüge ist es, den Verkäufer auf die Probleme aufmerksam zu machen und eine Lösung, wie Reparatur, Ersatz, Preisnachlass oder Rücktritt vom Vertrag, zu fordern.
 
 # ❗ Warum es wichtig ist?
 
