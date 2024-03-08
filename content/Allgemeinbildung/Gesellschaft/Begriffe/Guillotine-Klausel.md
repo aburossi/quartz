@@ -13,7 +13,7 @@ Die **Guillotine-Klausel** ist ein wichtiger Bestandteil der **Bilateralen Abkom
 - **Kündigungsmechanismus**: Bei Kündigung eines Abkommens können alle anderen automatisch aufgehoben werden.
 - **Druckmittel**: Dient als Druckmittel, um die Einhaltung aller Abkommen sicherzustellen.
 - **Rechtliche Durchsetzung**: Ermöglicht rechtliche Schritte bei Nichteinhaltung eines der Abkommen.
-- **Regelmäßige Überprüfung**: Die Abkommen und ihre Umsetzung werden regelmäßig überprüft, um ihre Fortdauer zu gewährleisten.
+- **Regelmässige Überprüfung**: Die Abkommen und ihre Umsetzung werden regelmässig überprüft, um ihre Fortdauer zu gewährleisten.
 
 # ➕Weitere Quellen
 [📄 Nachrichten über die Guillotine-Klausel](https://www.google.com/search?q=Guillotine-Klausel&tbm=nws)

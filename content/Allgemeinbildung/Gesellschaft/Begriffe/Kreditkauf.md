@@ -11,7 +11,7 @@ Ein **Kreditkauf** ist eine Form des Kaufs, bei der Waren oder Dienstleistungen 
 - Ermöglicht den **sofortigen Erwerb** von teuren Produkten, auch wenn die sofortige vollständige Bezahlung nicht möglich ist.
 - Bietet **finanzielle Flexibilität**, da die Zahlungen über einen längeren Zeitraum verteilt werden.
 - Kann **Zinsen** oder zusätzliche Gebühren beinhalten, was die Gesamtkosten des Kaufs erhöhen kann.
-- Wichtig für die **Haushaltsplanung**, da regelmäßige monatliche Raten eingeplant werden müssen.
+- Wichtig für die **Haushaltsplanung**, da regelmässige monatliche Raten eingeplant werden müssen.
 
 # ⛏ Wie es funktioniert?
 - Der Käufer wählt ein Produkt oder eine Dienstleistung aus und vereinbart mit dem Verkäufer oder einer Finanzierungsgesellschaft einen Ratenplan.

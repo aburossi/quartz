@@ -11,13 +11,13 @@ Der **Saldo** in einem persönlichen Budget ist die Differenz zwischen den Gesam
 - **Sparpotenzial**: Ein positiver Saldo zeigt das Potenzial für Ersparnisse oder Investitionen.
 - **Schuldenmanagement**: Ein negativer Saldo kann auf die Notwendigkeit hinweisen, Schulden zu reduzieren.
 - **Budgetanpassung**: Hilft bei der Anpassung des Budgets, um finanzielle Ziele zu erreichen.
-- **Langfristige Planung**: Wichtig für die Planung von größeren Anschaffungen oder Investitionen.
+- **Langfristige Planung**: Wichtig für die Planung von grösseren Anschaffungen oder Investitionen.
 
 # ⛏Wie funktioniert es?
 - **Einnahmen und Ausgaben**: Erfassung aller monatlichen Einnahmen und Ausgaben.
 - **Berechnung des Saldos**: Einnahmen minus Ausgaben ergibt den Saldo.
-- **Regelmäßige Überprüfung**: Monatliche Überprüfung und Anpassung des Budgets basierend auf dem Saldo.
-- **Zielsetzung**: Setzen von Zielen basierend auf dem regelmäßig erzielten Saldo.
+- **Regelmässige Überprüfung**: Monatliche Überprüfung und Anpassung des Budgets basierend auf dem Saldo.
+- **Zielsetzung**: Setzen von Zielen basierend auf dem regelmässig erzielten Saldo.
 - **Langfristige Trends**: Beobachtung des Saldos über längere Zeiträume zur Erkennung von Trends.
 
 # ➕Weitere Quellen

@@ -13,7 +13,7 @@ Die **direkte Demokratie** ist ein politisches System, in dem Bürgerinnen und B
 - **Referenden**: Bürger können über vom Parlament beschlossene Gesetze abstimmen.
 - **Volksabstimmungen**: Abstimmungen über wichtige politische Fragen auf nationaler, kantonaler oder kommunaler Ebene.
 - **Quoren**: Bestimmte Mindestanzahlen von Unterschriften sind erforderlich, um Volksinitiativen oder Referenden zu starten.
-- **Regelmäßige Abstimmungstermine**: In der Schweiz finden mehrmals jährlich Abstimmungen statt.
+- **Regelmässige Abstimmungstermine**: In der Schweiz finden mehrmals jährlich Abstimmungen statt.
 
 # ➕Weitere Quellen
 [📄 Nachrichten über direkte Demokratie](https://www.google.com/search?q=direkte+Demokratie&tbm=nws)

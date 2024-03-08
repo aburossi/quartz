@@ -4,7 +4,7 @@ tags:
   - Ökologie
 ---
 # 🔍Was ist es?
-**Neodym** ist ein chemisches Element mit dem Symbol **Nd** und der Ordnungsnummer 60. Es gehört zu den **Seltenen Erden** und ist ein silbrig-weißes, weiches Metall, das sich an der Luft schnell oxidiert. Neodym ist bekannt für seine Verwendung in starken **Permanentmagneten**, die in vielen modernen Technologien wie Elektromotoren, Lautsprechern und Kopfhörern verwendet werden.
+**Neodym** ist ein chemisches Element mit dem Symbol **Nd** und der Ordnungsnummer 60. Es gehört zu den **Seltenen Erden** und ist ein silbrig-weisses, weiches Metall, das sich an der Luft schnell oxidiert. Neodym ist bekannt für seine Verwendung in starken **Permanentmagneten**, die in vielen modernen Technologien wie Elektromotoren, Lautsprechern und Kopfhörern verwendet werden.
 
 # ❗ Warum es wichtig ist?
 - **Technologie**: Neodym-Magnete sind in vielen Hightech-Anwendungen unverzichtbar, da sie sehr starke Magnetfelder erzeugen.

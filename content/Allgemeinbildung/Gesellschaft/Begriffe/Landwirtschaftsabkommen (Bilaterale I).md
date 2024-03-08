@@ -13,7 +13,7 @@ Das **Landwirtschaftsabkommen** ist ein wichtiger Bestandteil der **[[Bilaterale
 - **Vereinfachung von Handelsvorschriften**: Abbau von Handelshemmnissen und bürokratischen Hürden.
 - **Gegenseitige Anerkennung**: Anerkennung von Standards und Zertifizierungen zwischen der EU und der Schweiz.
 - **Schutz von geografischen Angaben**: Schutz regionaler und traditioneller Produkte beider Seiten.
-- **Regelmäßige Überprüfungen**: Überwachung und Anpassung des Abkommens an aktuelle Entwicklungen im Agrarsektor.
+- **Regelmässige Überprüfungen**: Überwachung und Anpassung des Abkommens an aktuelle Entwicklungen im Agrarsektor.
 
 # ➕Weitere Quellen
 [📄 Nachrichten über das Landwirtschaftsabkommen](https://www.google.com/search?q=Landwirtschaftsabkommen+Bilaterale+I&tbm=nws)

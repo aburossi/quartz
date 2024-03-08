@@ -9,7 +9,7 @@ tags:
 # ❗ Warum es wichtig ist?
 - **Bedürfnisbefriedigung**: Güter sind essenziell, um die physischen und psychischen Bedürfnisse von Menschen zu erfüllen.
 - **Wirtschaftswachstum**: Die Produktion und der Handel von Gütern sind wesentliche Treiber für das Wirtschaftswachstum.
-- **Lebensstandard**: Die Verfügbarkeit und Qualität von Gütern bestimmt maßgeblich den Lebensstandard einer Gesellschaft.
+- **Lebensstandard**: Die Verfügbarkeit und Qualität von Gütern bestimmt massgeblich den Lebensstandard einer Gesellschaft.
 - **Marktdynamik**: Die Vielfalt und Innovation von Gütern beeinflussen die Dynamik von Märkten.
 
 # ⛏Wie es funktioniert?

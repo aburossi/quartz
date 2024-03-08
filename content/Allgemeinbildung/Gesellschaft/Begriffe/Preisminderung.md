@@ -16,7 +16,7 @@ Eine **Preisminderung** in einem Vertrag in der Schweiz bezeichnet die Reduzieru
 # ⛏Wie es funktioniert?
 - **Feststellung eines Mangels**: Die Preisminderung setzt voraus, dass ein Mangel an der Ware oder Dienstleistung nachgewiesen wird.
 - **Vertragsklauseln**: Oft sind Bedingungen und Verfahren für die Preisminderung im Vertrag festgelegt.
-- **Berechnung der Minderung**: Die Höhe der Preisminderung hängt vom Ausmaß des Mangels ab.
+- **Berechnung der Minderung**: Die Höhe der Preisminderung hängt vom Ausmass des Mangels ab.
 - **Einigung oder gerichtliche Entscheidung**: Wird keine Einigung erzielt, kann ein Gericht über die angemessene Preisminderung entscheiden.
 
 # ➕Weitere Quellen

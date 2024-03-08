@@ -14,8 +14,8 @@ Individuelle Sparziele sind **finanzielle Ziele**, die eine Person für sich sel
 # ⛏Wie funktioniert es?
 - **Ziele festlegen:** Bestimmen, was man erreichen möchte und bis wann.
 - **Budget erstellen:** Einnahmen und Ausgaben überblicken, um zu sehen, wie viel gespart werden kann.
-- **Regelmäßiges Sparen:** Einrichten von Daueraufträgen auf ein Sparkonto.
-- **Überprüfung und Anpassung:** Regelmäßige Kontrolle der Sparziele und Anpassung bei Bedarf.
+- **Regelmässiges Sparen:** Einrichten von Daueraufträgen auf ein Sparkonto.
+- **Überprüfung und Anpassung:** Regelmässige Kontrolle der Sparziele und Anpassung bei Bedarf.
 - **Selbstdisziplin:** Konsequentes Einhalten des Sparplans und Vermeiden von unnötigen Ausgaben.
 
 # ➕Weitere Quellen

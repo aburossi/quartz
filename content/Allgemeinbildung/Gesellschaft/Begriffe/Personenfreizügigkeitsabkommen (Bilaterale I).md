@@ -10,7 +10,7 @@ Das **Personenfreizügigkeitsabkommen** ist Teil der **Bilateralen Abkommen I** 
 
 # ⛏Wie es funktioniert?
 - **Arbeits- und Aufenthaltserlaubnis**: EU-Bürger können ohne spezielle Arbeitserlaubnis in der Schweiz arbeiten.
-- **Gleiche Rechte und Pflichten**: EU-Bürger genießen in der Schweiz die gleichen Arbeitsbedingungen wie Schweizer Bürger.
+- **Gleiche Rechte und Pflichten**: EU-Bürger geniessen in der Schweiz die gleichen Arbeitsbedingungen wie Schweizer Bürger.
 - **Gegenseitige Anerkennung von Qualifikationen**: Erleichtert die Anerkennung von Berufsabschlüssen.
 - **Sozialversicherungsansprüche**: Regelungen für Sozialversicherungsansprüche für Personen, die in verschiedenen Ländern leben und arbeiten.
 - **Langfristige Niederlassung**: Möglichkeiten für EU-Bürger, sich langfristig in der Schweiz niederzulassen.

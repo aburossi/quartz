@@ -21,7 +21,7 @@ Eine **Mangelrüge** (OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 2
 - **Feststellung des Mangels**: Der Käufer identifiziert und dokumentiert den Mangel.
 - **Fristgerechte Mitteilung**: Die Mangelrüge muss innerhalb einer gesetzlich oder vertraglich festgelegten Frist erfolgen.
 - **Formale Kommunikation**: Die Rüge wird schriftlich und oft unter Einhaltung bestimmter Formvorschriften eingereicht.
-- **Korrekturmaßnahmen**: Der Verkäufer hat die Möglichkeit, den Mangel zu beheben, z. B. durch Reparatur oder Ersatz.
+- **Korrekturmassnahmen**: Der Verkäufer hat die Möglichkeit, den Mangel zu beheben, z. B. durch Reparatur oder Ersatz.
 - **Weitere Schritte**: Wenn keine zufriedenstellende Lösung erreicht wird, kann der Käufer rechtliche Schritte einleiten.
 
 # ➕ Weiterführende Quellen

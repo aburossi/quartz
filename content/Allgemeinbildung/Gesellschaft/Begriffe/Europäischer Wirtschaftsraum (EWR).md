@@ -10,7 +10,7 @@ Der **Europäische Wirtschaftsraum (EWR)** ist eine wirtschaftliche Partnerschaf
 
 # ⛏Wie es funktioniert?
 - **Teilnahme am EU-Binnenmarkt**: EWR-Länder folgen den gleichen Regeln wie EU-Mitglieder bezüglich des Binnenmarktes.
-- **Übernahme von EU-Recht**: Die EWR-Länder übernehmen einen großen Teil des EU-Rechts, insbesondere das, was den Binnenmarkt betrifft.
+- **Übernahme von EU-Recht**: Die EWR-Länder übernehmen einen grossen Teil des EU-Rechts, insbesondere das, was den Binnenmarkt betrifft.
 - **Entscheidungsfindung**: Die EWR-EFTA-Staaten beteiligen sich an der Entscheidungsfindung und Entwicklung von EU-Recht, das den EWR betrifft.
 - **Beitrag zu EU-Programmen**: Diese Länder leisten Beiträge zu verschiedenen EU-Programmen und -Agenturen.
 - **Schutz der vier Freiheiten**: Gewährleistung des freien Verkehrs von Waren, Personen, Dienstleistungen und Kapital.

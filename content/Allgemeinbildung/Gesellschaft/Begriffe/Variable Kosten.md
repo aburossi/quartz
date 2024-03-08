@@ -14,7 +14,7 @@ tags:
 - **Zielorientiertes Sparen**: Fördert das Erreichen finanzieller Ziele durch bewusstes Ausgabenmanagement.
 
 # ⛏Wie funktioniert es?
-- **Überwachung**: Regelmäßiges Überprüfen und Anpassen der Ausgaben an das Budget.
+- **Überwachung**: Regelmässiges Überprüfen und Anpassen der Ausgaben an das Budget.
 - **Priorisierung**: Entscheidung, welche variablen Kosten wichtig sind und welche reduziert werden können.
 - **Flexible Planung**: Einplanung eines gewissen Spielraums für unvorhergesehene Ausgaben.
 - **Einsparungen**: Identifizierung von Möglichkeiten, bei variablen Ausgaben zu sparen.

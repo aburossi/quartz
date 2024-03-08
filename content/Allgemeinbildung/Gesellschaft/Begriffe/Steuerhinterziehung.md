@@ -9,7 +9,7 @@
 # ❗Warum ist es wichtig?
 
 - **Einnahmenverluste für den Staat**: Steuerhinterziehung führt zu erheblichen Einnahmenverlusten für den öffentlichen Haushalt, was die Bereitstellung öffentlicher Dienstleistungen und Investitionen beeinträchtigen kann.
-- **Ungerechte Steuerlastverteilung**: Durch Steuerhinterziehung tragen ehrliche Steuerzahler eine größere Last, da sie die fehlenden Einnahmen kompensieren müssen.
+- **Ungerechte Steuerlastverteilung**: Durch Steuerhinterziehung tragen ehrliche Steuerzahler eine grössere Last, da sie die fehlenden Einnahmen kompensieren müssen.
 - **Wirtschaftliche Verzerrungen**: Steuerhinterziehung kann zu Wettbewerbsnachteilen für Unternehmen führen, die sich an die Regeln halten, und die allgemeine wirtschaftliche Effizienz beeinträchtigen.
 - **Reputationsrisiko für die Schweiz**: Trotz strengerer Regulierungen bleibt das Image der Schweiz als Zufluchtsort für unversteuertes Vermögen eine Herausforderung für das Land.
 - **Internationale Beziehungen**: Die Bemühungen um die Bekämpfung der Steuerhinterziehung sind eng mit internationalen Kooperationen verknüpft. Eine unzureichende Zusammenarbeit kann zu Spannungen zwischen der Schweiz und anderen Staaten führen.
@@ -19,7 +19,7 @@
 - **Bankgeheimnis**: Historisch gesehen schützte das Schweizer Bankgeheimnis die Identität der Kontoinhaber, was die Aufdeckung von Steuerhinterziehung erschwerte.
 - **Automatischer Informationsaustausch (AIA)**: Die Schweiz nimmt nun am AIA teil, wodurch Finanzdaten automatisch mit anderen Ländern geteilt werden, um grenzüberschreitende Steuerhinterziehung zu bekämpfen.
 - **Steueramnestien**: Die Schweiz hat Programme eingeführt, die es Steuerpflichtigen ermöglichen, unversteuerte Vermögen zu deklarieren, oft unter milderen Strafbedingungen, um die Compliance zu erhöhen.
-- **Gesetzgebung und Strafen**: Die Schweiz hat ihre Gesetze verschärft, um Steuerhinterziehung wirksamer zu bestrafen, einschließlich Geldstrafen und möglicher Gefängnisstrafen.
+- **Gesetzgebung und Strafen**: Die Schweiz hat ihre Gesetze verschärft, um Steuerhinterziehung wirksamer zu bestrafen, einschliesslich Geldstrafen und möglicher Gefängnisstrafen.
 - **Internationale Zusammenarbeit**: Die Schweiz arbeitet mit anderen Ländern und internationalen Organisationen zusammen, um Steuerhinterziehung durch verbesserte Transparenz und Informationsaustausch zu bekämpfen.
 
 # ➕Weitere Quellen

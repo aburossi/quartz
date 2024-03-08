@@ -21,13 +21,13 @@
 
 #### Zusammenfassung und Schlüsselkonzepte
 
-- **Napoleon-Komplex**: Ein psychologisches Phänomen, bei dem Menschen versuchen, eine geringere Körpergröße durch herausragende Leistungen oder Statussymbole zu kompensieren. Im übertragenen Sinne kann dies auf Länder oder Organisationen angewandt werden, die versuchen, ihre geringere Größe oder Macht durch andere Mittel auszugleichen.
+- **Napoleon-Komplex**: Ein psychologisches Phänomen, bei dem Menschen versuchen, eine geringere Körpergrösse durch herausragende Leistungen oder Statussymbole zu kompensieren. Im übertragenen Sinne kann dies auf Länder oder Organisationen angewandt werden, die versuchen, ihre geringere Grösse oder Macht durch andere Mittel auszugleichen.
 - **[[Personenfreizügigkeitsabkommen (Bilaterale I)]]**: Ermöglicht Schweizer Bürgern, in der EU zu leben und zu arbeiten, und umgekehrt für EU-Bürger in der Schweiz, unter bestimmten Bedingungen wie Kranken- und Unfallversicherung sowie einem gültigen Arbeitsvertrag.
 - **Anerkennung von Berufsqualifikationen**: Ein wichtiger Bestandteil des Personenfreizügigkeitsabkommens, der die gegenseitige Anerkennung von Berufsqualifikationen zwischen der Schweiz und der EU festlegt.
 
 1. Wie beeinflusst das [[Personenfreizügigkeitsabkommen (Bilaterale I)]] die Berufschancen von Schweizer Bürgern in der EU und umgekehrt?
 2. Inwieweit trägt die Anerkennung von Berufsqualifikationen zur beruflichen Mobilität innerhalb Europas bei?
-3. Wie könnte der "Napoleon-Komplex" in den Beziehungen zwischen kleineren und größeren Ländern oder zwischen der Schweiz und der EU auftreten.
+3. Wie könnte der "Napoleon-Komplex" in den Beziehungen zwischen kleineren und grösseren Ländern oder zwischen der Schweiz und der EU auftreten.
 
 #### Einfluss auf das Leben in der Schweiz
 
@@ -67,16 +67,16 @@
 #### Einfluss auf das Leben in der Schweiz
 
 - Diese Abkommen beeinflussen die Lebensmittel- und Produktpreise, die Vielfalt der erhältlichen Produkte und die Wettbewerbsfähigkeit der schweizerischen Landwirtschaft und Industrie.
-- Durch den Abbau von Handelshemmnissen können Schweizer Konsumenten von einer größeren Produktvielfalt und potenziell niedrigeren Preisen profitieren.
+- Durch den Abbau von Handelshemmnissen können Schweizer Konsumenten von einer grösseren Produktvielfalt und potenziell niedrigeren Preisen profitieren.
 - Das Cassis-de-Dijon-Prinzip kann jedoch auch Herausforderungen für lokale Produzenten darstellen, die mit günstigeren EU-Produkten konkurrieren müssen.
 
 # Reisefieber
 
 #### Zusammenfassung und Schlüsselkonzepte
 
-- **[[Schengen-Abkommen (Bilaterale II)]]**: Dieses Abkommen ermöglicht den Abbau von Personenkontrollen an den Schweizer Grenzen, erleichtert den Reiseverkehr und stärkt gleichzeitig die Sicherheit durch strengere Kontrollen an den Außengrenzen des Schengen-Raums.
+- **[[Schengen-Abkommen (Bilaterale II)]]**: Dieses Abkommen ermöglicht den Abbau von Personenkontrollen an den Schweizer Grenzen, erleichtert den Reiseverkehr und stärkt gleichzeitig die Sicherheit durch strengere Kontrollen an den Aussengrenzen des Schengen-Raums.
 - **[[Dublin-Abkommen (Bilaterale II)]]**: Koordiniert die Zuständigkeit im Asylverfahren innerhalb der Schengen-Staaten. Ein Asylsuchender kann nur in einem Dublin-Staat einen Antrag stellen, wodurch Mehrfachanträge vermieden werden.
-- **[[Luftverkehrs-Abkommen (Bilaterale I)]]**: Ermöglicht schweizerischen Fluggesellschaften den Zugang zu EU-Destinationen, was zu niedrigeren Preisen und einer größeren Auswahl an Flugverbindungen führt.
+- **[[Luftverkehrs-Abkommen (Bilaterale I)]]**: Ermöglicht schweizerischen Fluggesellschaften den Zugang zu EU-Destinationen, was zu niedrigeren Preisen und einer grösseren Auswahl an Flugverbindungen führt.
 
 1. Wie hat das [[Schengen-Abkommen (Bilaterale II)]] die Reiseerfahrung für Schweizer Bürger und Besucher aus dem Schengen-Raum verändert?
 2. Welche Auswirkungen hat das [[Dublin-Abkommen (Bilaterale II)]] auf die Asylpolitik der Schweiz?
@@ -103,5 +103,5 @@
 #### Einfluss auf das Leben in der Schweiz
 
 - Das Abkommen über die Personenfreizügigkeit hat direkte Auswirkungen auf die Arbeitsmobilität, die kulturelle Vielfalt und das soziale Gefüge in der Schweiz.
-- Der Nicht-Beitritt zum EWR hat die Schweiz dazu veranlasst, separate bilaterale Abkommen mit der EU auszuhandeln, was ihre Beziehungen zur EU maßgeblich geprägt hat.
+- Der Nicht-Beitritt zum EWR hat die Schweiz dazu veranlasst, separate bilaterale Abkommen mit der EU auszuhandeln, was ihre Beziehungen zur EU massgeblich geprägt hat.
 - Die direkte Demokratie in der Schweiz fördert die politische Beteiligung der Bürger und kann zu einer höheren Akzeptanz von politischen Entscheidungen führen, unterscheidet sich aber in ihrer Funktionsweise von den politischen Systemen vieler EU-Länder.

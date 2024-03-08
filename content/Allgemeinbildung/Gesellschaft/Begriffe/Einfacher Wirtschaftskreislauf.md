@@ -16,7 +16,7 @@ Der **einfache Wirtschaftskreislauf** ist ein grundlegendes Modell in der Volksw
 - **Haushalte**: Stellen Arbeitskraft zur Verfügung und konsumieren Güter und Dienstleistungen.
 - **Unternehmen**: Stellen Güter und Dienstleistungen her und bezahlen Löhne.
 - **Einkommen**: Haushalte erhalten Einkommen durch Arbeit, welches sie für Konsum ausgeben.
-- **Konsum**: Die Ausgaben der Haushalte fließen zurück zu den Unternehmen, wodurch der Kreislauf geschlossen wird.
+- **Konsum**: Die Ausgaben der Haushalte fliessen zurück zu den Unternehmen, wodurch der Kreislauf geschlossen wird.
 
 # ➕Weitere Quellen
 [📄 News über den einfachen Wirtschaftskreislauf](https://www.google.com/search?q=einfacher+Wirtschaftskreislauf&tbm=nws)

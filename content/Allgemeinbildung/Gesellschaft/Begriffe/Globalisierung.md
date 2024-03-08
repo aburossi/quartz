@@ -10,7 +10,7 @@ Globalisierung bezeichnet den **Prozess der zunehmenden internationalen Verflech
 
 # ❗ Warum ist sie wichtig?
 - **Wirtschaftswachstum**: Die Globalisierung kann zu erhöhtem Wirtschaftswachstum und Wohlstand in beteiligten Ländern führen.
-- **Kultureller Austausch**: Sie fördert den Austausch von Kulturen und Ideen, was zu einer größeren kulturellen Vielfalt führt.
+- **Kultureller Austausch**: Sie fördert den Austausch von Kulturen und Ideen, was zu einer grösseren kulturellen Vielfalt führt.
 - **Technologische Innovationen**: Sie beschleunigt die Verbreitung von Technologien und Innovationen weltweit.
 - **Politische Kooperation**: Die Globalisierung erfordert und fördert die internationale Zusammenarbeit in politischen Fragen.
 - **Umweltprobleme**: Sie wirft auch globale Umweltfragen auf, die nur durch internationale Zusammenarbeit gelöst werden können.

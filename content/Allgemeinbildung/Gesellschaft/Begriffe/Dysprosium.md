@@ -4,7 +4,7 @@ tags:
   - Ökologie
 ---
 # 🔍Was ist es?
-**Dysprosium** ist ein chemisches Element mit dem Symbol **Dy** und der Ordnungsnummer 66. Es gehört zur Gruppe der **Seltenerdmetalle** und ist bekannt für seine hohe Magnetstärke bei hohen Temperaturen. Dysprosium hat eine silbrig-weiße Farbe und wird hauptsächlich in Legierungen und für die Herstellung von Permanentmagneten verwendet, die in Elektromotoren und in der Datenverarbeitungstechnik zum Einsatz kommen.
+**Dysprosium** ist ein chemisches Element mit dem Symbol **Dy** und der Ordnungsnummer 66. Es gehört zur Gruppe der **Seltenerdmetalle** und ist bekannt für seine hohe Magnetstärke bei hohen Temperaturen. Dysprosium hat eine silbrig-weisse Farbe und wird hauptsächlich in Legierungen und für die Herstellung von Permanentmagneten verwendet, die in Elektromotoren und in der Datenverarbeitungstechnik zum Einsatz kommen.
 
 # ❗ Warum es wichtig ist?
 - **Hightech-Anwendungen**: Dysprosium wird in modernen Technologien wie Elektrofahrzeugen und Windturbinen eingesetzt.

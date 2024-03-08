@@ -5,7 +5,7 @@ tags:
   - Kaufvertragsarten-Teil1
 ---
 # 🔍Was ist es?
-Ein **Haustürkauf** in der Schweiz bezieht sich auf Geschäfte, die außerhalb der üblichen Geschäftsräume, häufig direkt an der Haustür des Kunden, abgeschlossen werden. Diese Verkaufsform umfasst oft Verträge, die durch Haustürverkäufer initiiert werden, und kann auch andere Situationen wie Verkaufspartys zu Hause einschließen. Im Schweizer Recht sind besondere Regelungen für Haustürkäufe vorgesehen, um Verbraucher vor übereilten Entscheidungen und unfairen Verkaufspraktiken zu schützen.
+Ein **Haustürkauf** in der Schweiz bezieht sich auf Geschäfte, die ausserhalb der üblichen Geschäftsräume, häufig direkt an der Haustür des Kunden, abgeschlossen werden. Diese Verkaufsform umfasst oft Verträge, die durch Haustürverkäufer initiiert werden, und kann auch andere Situationen wie Verkaufspartys zu Hause einschliessen. Im Schweizer Recht sind besondere Regelungen für Haustürkäufe vorgesehen, um Verbraucher vor übereilten Entscheidungen und unfairen Verkaufspraktiken zu schützen.
 
 # ❗ Warum es wichtig ist?
 - **Verbraucherschutz**: Bietet Schutz vor impulsiven Käufen und aggressiven Verkaufsmethoden.

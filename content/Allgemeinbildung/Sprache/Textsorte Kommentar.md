@@ -10,7 +10,7 @@ Die **Textsorte Kommentar** ist eine journalistische oder literarische Form, in 
 - **Meinungsbildung**: Fördert das kritische Denken und die Meinungsbildung der Leser.
 - **Perspektivenerweiterung**: Bietet verschiedene Sichtweisen auf ein Thema oder Ereignis.
 - **Gesellschaftliche Diskussion**: Regt zu Diskussionen und Debatten in der Gesellschaft an.
-- **Ausdruck von Haltungen**: Ermöglicht Autoren, ihre Haltung zu aktuellen Themen zu äußern.
+- **Ausdruck von Haltungen**: Ermöglicht Autoren, ihre Haltung zu aktuellen Themen zu äussern.
 - **Analytische Tiefe**: Bietet tiefere Einblicke und Analysen als ein reiner Bericht.
 
 # ⛏Wie funktioniert es?

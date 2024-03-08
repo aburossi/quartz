@@ -16,7 +16,7 @@ tags:
 - **Aktives Zuhören**: Aufmerksames und empathisches Zuhören, um den Gesprächspartner zu verstehen.
 - **Offene Fragen**: Stellen von offenen Fragen zur Förderung der Gesprächsentwicklung.
 - **Feedback geben**: Konstruktives Feedback geben, um Verständnis und Wertschätzung zu zeigen.
-- **Ich-Botschaften**: Verwendung von Ich-Botschaften, um eigene Standpunkte klar, aber nicht konfrontativ zu äußern.
+- **Ich-Botschaften**: Verwendung von Ich-Botschaften, um eigene Standpunkte klar, aber nicht konfrontativ zu äussern.
 - **Anpassung der Kommunikation**: Anpassung des Kommunikationsstils an den Kontext und den Gesprächspartner.
 
 # ➕Weitere Quellen

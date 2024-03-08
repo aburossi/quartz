@@ -20,7 +20,7 @@ tags:
 - **Nichtzahlung** des Kaufpreises durch den Käufer.
 - Nichterfüllung anderer **vertraglicher Verpflichtungen** wie Garantieleistungen.
 
-### Mögliche Folgen und Maßnahmen:
+### Mögliche Folgen und Massnahmen:
 - **Schadensersatzansprüche**: Die benachteiligte Partei kann Schadensersatz fordern.
 - **Rücktritt vom Vertrag**: In bestimmten Fällen kann der Vertrag aufgelöst werden.
 - **Nachbesserung oder Ersatzlieferung**: Bei mangelhaften Produkten kann der Käufer eine Korrektur des Mangels verlangen.

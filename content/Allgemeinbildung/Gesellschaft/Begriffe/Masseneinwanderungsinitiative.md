@@ -1,5 +1,5 @@
 # 🔍Was ist es?
-Die **Masseneinwanderungsinitiative** ist eine politische Initiative in der Schweiz, die darauf abzielt, die Einwanderung in das Land zu begrenzen. Sie wurde von der **Schweizerischen Volkspartei (SVP)** ins Leben gerufen und durch ein Volksreferendum am 9. Februar 2014 angenommen. Die Initiative verlangt, dass die Schweiz die Zuwanderung durch jährliche Höchstzahlen und Kontingente für Ausländer, einschließlich Asylsuchenden, selbstständig steuert. Dies steht in direktem Konflikt mit den Freizügigkeitsabkommen, die die Schweiz mit der **Europäischen Union (EU)** hat.
+Die **Masseneinwanderungsinitiative** ist eine politische Initiative in der Schweiz, die darauf abzielt, die Einwanderung in das Land zu begrenzen. Sie wurde von der **Schweizerischen Volkspartei (SVP)** ins Leben gerufen und durch ein Volksreferendum am 9. Februar 2014 angenommen. Die Initiative verlangt, dass die Schweiz die Zuwanderung durch jährliche Höchstzahlen und Kontingente für Ausländer, einschliesslich Asylsuchenden, selbstständig steuert. Dies steht in direktem Konflikt mit den Freizügigkeitsabkommen, die die Schweiz mit der **Europäischen Union (EU)** hat.
 
 # ❗ Warum es wichtig ist?
 - Die Initiative wirft Fragen zur **Beziehung der Schweiz zur EU** und zu den Prinzipien des freien Personenverkehrs auf.

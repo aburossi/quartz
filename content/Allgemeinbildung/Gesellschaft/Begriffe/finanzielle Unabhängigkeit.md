@@ -1,1 +1,1 @@
-Die Fähigkeit, den eigenen Lebensunterhalt ohne finanzielle Hilfe von außen zu bestreiten.
+Die Fähigkeit, den eigenen Lebensunterhalt ohne finanzielle Hilfe von aussen zu bestreiten.

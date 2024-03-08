@@ -13,7 +13,7 @@ Das **Freihandelsabkommen zwischen der Schweiz und der Europäischen Union (EU)*
 - **Handelserleichterungen**: Vereinfachung von Verfahren und Regeln für den bilateralen Handel.
 - **Gegenseitige Anerkennung**: Unter Umständen Anerkennung von Produktstandards und Zertifizierungen.
 - **Schutz geistigen Eigentums**: Bestimmungen zum Schutz von Urheberrechten, Patenten und Marken.
-- **Regelmäßige Überprüfungen**: Mechanismen zur Überprüfung und Anpassung des Abkommens an neue wirtschaftliche Gegebenheiten.
+- **Regelmässige Überprüfungen**: Mechanismen zur Überprüfung und Anpassung des Abkommens an neue wirtschaftliche Gegebenheiten.
 
 # ➕Weitere Quellen
 [📄 Nachrichten über das Freihandelsabkommen Schweiz–EU](https://www.google.com/search?q=Freihandelsabkommen+Schweiz%E2%80%93EU&tbm=nws)

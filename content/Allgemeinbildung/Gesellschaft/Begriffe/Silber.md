@@ -4,7 +4,7 @@ tags:
   - Ökologie
 ---
 # 🔍Was ist es?
-**Silber** ist ein chemisches Element mit dem Symbol **Ag** (vom lateinischen Argentum) und der Ordnungsnummer 47. Es ist ein weiches, weißglänzendes **Übergangsmetall** und besitzt die höchste elektrische Leitfähigkeit aller Metalle. Silber wird häufig in Schmuck, Besteck, elektronischen Bauteilen und Fotografie verwendet und ist auch für seine antimikrobiellen Eigenschaften bekannt.
+**Silber** ist ein chemisches Element mit dem Symbol **Ag** (vom lateinischen Argentum) und der Ordnungsnummer 47. Es ist ein weiches, weissglänzendes **Übergangsmetall** und besitzt die höchste elektrische Leitfähigkeit aller Metalle. Silber wird häufig in Schmuck, Besteck, elektronischen Bauteilen und Fotografie verwendet und ist auch für seine antimikrobiellen Eigenschaften bekannt.
 
 # ❗ Warum es wichtig ist?
 - **Leitfähigkeit**: Silber hat die höchste elektrische und thermische Leitfähigkeit unter den Metallen.

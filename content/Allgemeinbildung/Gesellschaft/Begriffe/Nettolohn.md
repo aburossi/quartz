@@ -16,7 +16,7 @@ Der **Nettolohn** ist der Betrag, den ein Arbeitnehmer nach Abzug aller Steuern,
 
 # ⛏Wie funktioniert es?
 - **Brutto-Netto-Berechnung**: Vom Bruttogehalt werden Steuern und Sozialversicherungsbeiträge abgezogen.
-- **Sozialversicherungsbeiträge**: Einschließlich AHV/IV/EO, ALV und Pensionskassenbeiträge.
+- **Sozialversicherungsbeiträge**: Einschliesslich AHV/IV/EO, ALV und Pensionskassenbeiträge.
 - **Steuerabzug**: Abzug der Quellensteuer oder Berücksichtigung der Einkommenssteuer.
 - **Sonderabzüge**: Berücksichtigung von weiteren Abzügen wie berufsspezifischen Beiträgen oder freiwilligen Abzügen.
 - **Variable Faktoren**: Nettolohn kann je nach Kanton, Familienstand und weiteren Faktoren variieren.

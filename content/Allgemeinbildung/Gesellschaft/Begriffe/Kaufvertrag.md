@@ -5,7 +5,7 @@ tags:
   - Kaufvertragsarten-Teil1
 ---
 # 🔍 Was ist es?
-Ein **Kaufvertrag** (OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 184]]) in der Schweiz ist ein rechtlich bindendes Dokument, das zwischen zwei Parteien – dem Käufer und dem Verkäufer – abgeschlossen wird. Es regelt den Verkauf und die Übertragung von Eigentum an einer Ware oder Dienstleistung. Der Vertrag legt die Rechte und Pflichten beider Parteien fest, einschließlich der Zahlungsbedingungen, Lieferdetails und Gewährleistungen.
+Ein **Kaufvertrag** (OR [[Obligationenrecht - Kauf, Tausch und Schenkung#Art. 184]]) in der Schweiz ist ein rechtlich bindendes Dokument, das zwischen zwei Parteien – dem Käufer und dem Verkäufer – abgeschlossen wird. Es regelt den Verkauf und die Übertragung von Eigentum an einer Ware oder Dienstleistung. Der Vertrag legt die Rechte und Pflichten beider Parteien fest, einschliesslich der Zahlungsbedingungen, Lieferdetails und Gewährleistungen.
 
 
 

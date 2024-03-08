@@ -4,7 +4,7 @@ tags:
   - Budget
 ---
 # 🔍Was ist es?
-**Fixe Kosten** im Rahmen eines persönlichen Budgets sind regelmäßige, gleichbleibende Ausgaben, die in der Regel monatlich anfallen und deren Höhe sich nicht oder nur geringfügig ändert. Typische Beispiele sind Miete oder Hypothekenzahlungen, Versicherungsprämien, Abonnements, Kreditraten und Grundgebühren für Telefon und Internet. Diese Kosten sind vorhersehbar und bilden eine feste Größe in der Finanzplanung.
+**Fixe Kosten** im Rahmen eines persönlichen Budgets sind regelmässige, gleichbleibende Ausgaben, die in der Regel monatlich anfallen und deren Höhe sich nicht oder nur geringfügig ändert. Typische Beispiele sind Miete oder Hypothekenzahlungen, Versicherungsprämien, Abonnements, Kreditraten und Grundgebühren für Telefon und Internet. Diese Kosten sind vorhersehbar und bilden eine feste Grösse in der Finanzplanung.
 
 # ❗Warum ist es wichtig?
 - **Finanzielle Stabilität**: Sorgen für eine vorhersehbare und stabile Ausgabenstruktur.
@@ -14,7 +14,7 @@ tags:
 - **Liquiditätsmanagement**: Wichtig für die Sicherstellung der Zahlungsfähigkeit.
 
 # ⛏Wie funktioniert es?
-- **Feste Zahlungstermine**: Regelmäßige Zahlungen, meist monatlich.
+- **Feste Zahlungstermine**: Regelmässige Zahlungen, meist monatlich.
 - **Unveränderliche Beträge**: Die Höhe der Ausgaben bleibt gleich oder ändert sich nur minimal.
 - **Langfristige Verträge**: Viele Fixkosten basieren auf langfristigen Verträgen oder Abonnements.
 - **Automatische Zahlungen**: Oft werden Fixkosten durch Daueraufträge oder Lastschriftverfahren beglichen.

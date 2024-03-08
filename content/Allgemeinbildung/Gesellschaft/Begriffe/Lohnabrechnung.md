@@ -15,7 +15,7 @@ Die **Lohnabrechnung in der Schweiz** ist ein Dokument, das die Details der Beza
 - **Nachweis**: Wichtig für Kreditanträge, Mietverträge und bei Sozialleistungen.
 
 # ⛏Wie funktioniert es?
-- **Bruttolohn**: Gesamtlohn vor Abzügen, einschließlich Lohnzuschläge und Boni.
+- **Bruttolohn**: Gesamtlohn vor Abzügen, einschliesslich Lohnzuschläge und Boni.
 - **Sozialversicherungsbeiträge**: Abzug von AHV/IV/EO, ALV und Pensionskassenbeiträgen.
 - **Quellensteuer**: Für bestimmte ausländische Arbeitnehmer direkt vom Lohn abgezogen.
 - **Nettolohn**: Lohn nach Abzug aller Steuern und Sozialversicherungsbeiträge.
