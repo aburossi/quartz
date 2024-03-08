@@ -1,12 +1,9 @@
 # Willkommen im ABU
 
 >[!info] 
->Unter Themen auf die Linke Spalte können Sie die aktuelle Unterrichtsinhalte finden.
->Sie finden die Themen auch nach Lehrjahr geordnet, wenn Sie eine Tag anklicken:
->	#1-Lehrjahr 
->	#2-Lehrjahr 
->	#3-Lehrjahr 
->	#4-Lehrjahr
+>- Die Themen sind nach Gebiete geordnet. 👉 Bildschirmzoom reduzieren, falls die Themenspalte links nicht sichbar ist
+>- Sie können in der Suchleiste nach Themen suchen
+>- Sie können Themen nach Tag suchen, zum Beispiel #Recht
 
 >[!info] 
 >Bildschirmzoom reduzieren, falls die Spalten links und rechts (s. Bild unten) nicht sichtbar sind.
