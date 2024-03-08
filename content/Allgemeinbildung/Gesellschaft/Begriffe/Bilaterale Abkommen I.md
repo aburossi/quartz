@@ -5,7 +5,7 @@ Die **Bilateralen Abkommen I** sind eine Reihe von Verträgen zwischen der **Sch
 - Die Abkommen fördern die **wirtschaftliche Integration** und Zusammenarbeit zwischen der Schweiz und der EU.
 - Sie erlauben Schweizer Bürgern, in der EU zu **arbeiten und zu leben**, und umgekehrt.
 - Die Abkommen sind entscheidend für den **Zugang der Schweiz zum EU-Binnenmarkt**.
-- Sie beeinflussen **außenpolitische Entscheidungen** und die **internationale Stellung** der Schweiz.
+- Sie beeinflussen **aussenpolitische Entscheidungen** und die **internationale Stellung** der Schweiz.
 - Änderungen oder Kündigungen dieser Abkommen könnten erhebliche **wirtschaftliche und politische Auswirkungen** haben.
 
 # ⛏Wie es funktioniert?

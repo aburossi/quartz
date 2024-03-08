@@ -18,7 +18,7 @@ Die **Bundesverfassung der Schweiz** ist das grundlegende rechtliche Dokument, d
 
 # ⛏ Wie funktioniert es?
 
-- **Struktureller Rahmen**: Definiert die Organisation des Bundesstaates, einschließlich der Exekutive, Legislative und Judikative.
+- **Struktureller Rahmen**: Definiert die Organisation des Bundesstaates, einschliesslich der Exekutive, Legislative und Judikative.
 - **Grundrechte**: Enthält Artikel zu den Grundrechten der Bürger, wie Meinungsfreiheit, Gleichheit und Bildung.
 - **Volksrechte**: Regelt die direktdemokratischen Instrumente wie Volksinitiativen und Referenden.
 - **Kantonale Autonomie**: Stellt sicher, dass die Kantone in bestimmten Bereichen eigenständig handeln können.

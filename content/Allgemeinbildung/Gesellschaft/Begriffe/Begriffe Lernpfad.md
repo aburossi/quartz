@@ -25,7 +25,7 @@ je eine multiple choice frage pro thema. themen sind mit \n\n getrennt Max answe
 
 OLAT Fragengenerator
 
-Output in Word. kontrolle nach ß vs. ss
+Output in Word. kontrolle nach ss vs. ss
 
 # OLAT
 ## liste

@@ -2,7 +2,7 @@
 Das **Abkommen über das öffentliche Beschaffungswesen** ist Teil der **Bilateralen Abkommen I** zwischen der **Schweiz** und der **Europäischen Union (EU)**. Unterzeichnet im Jahr 1999 und in Kraft getreten im Jahr 2002, zielt dieses Abkommen darauf ab, den gegenseitigen Zugang zu den öffentlichen Beschaffungsmärkten der Vertragsparteien zu erleichtern. Es sorgt dafür, dass Schweizer Unternehmen bei öffentlichen Ausschreibungen in der EU und umgekehrt EU-Unternehmen in der Schweiz unter fairen und transparenten Bedingungen teilnehmen können.
 
 # ❗ Warum es wichtig ist?
-- **Wirtschaftswachstum**: Fördert das Wirtschaftswachstum durch Zugang zu größeren Märkten für Unternehmen.
+- **Wirtschaftswachstum**: Fördert das Wirtschaftswachstum durch Zugang zu grösseren Märkten für Unternehmen.
 - **Wettbewerbsfähigkeit**: Erhöht die Wettbewerbsfähigkeit von Firmen durch erweiterte Geschäftsmöglichkeiten.
 - **Transparenz und Effizienz**: Fördert Transparenz und Effizienz in der öffentlichen Auftragsvergabe.
 - **Stärkung der Beziehungen**: Vertieft die wirtschaftlichen Beziehungen zwischen der Schweiz und der EU.

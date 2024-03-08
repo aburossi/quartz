@@ -4,7 +4,7 @@ tags:
   - 1-Lehrjahr
 ---
 # 🔍Was ist es?
-Die **Argumentation** ist eine Form der Kommunikation, bei der durch logisches Schließen und den Einsatz von Beweismitteln versucht wird, eine Behauptung zu stützen oder zu widerlegen. Ziel ist es, den Gesprächspartner oder Leser von einer bestimmten Meinung, Ansicht oder Lösung zu überzeugen. In einer guten Argumentation werden Thesen klar formuliert und durch stichhaltige Argumente und Fakten untermauert.
+Die **Argumentation** ist eine Form der Kommunikation, bei der durch logisches Schliessen und den Einsatz von Beweismitteln versucht wird, eine Behauptung zu stützen oder zu widerlegen. Ziel ist es, den Gesprächspartner oder Leser von einer bestimmten Meinung, Ansicht oder Lösung zu überzeugen. In einer guten Argumentation werden Thesen klar formuliert und durch stichhaltige Argumente und Fakten untermauert.
 
 # ❗Warum ist es wichtig?
 - **Überzeugungskraft**: Fördert die Fähigkeit, andere von der eigenen Position zu überzeugen.

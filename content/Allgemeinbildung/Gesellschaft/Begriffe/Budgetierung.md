@@ -6,7 +6,7 @@ tags:
 Individuelle Budgetierung ist ein **persönlicher Finanzplanungsprozess**, bei dem Einnahmen und Ausgaben überwacht und gesteuert werden, um finanzielle Ziele zu erreichen. Dabei wird das verfügbare Einkommen auf verschiedene Kategorien wie Miete, Lebensmittel, Freizeit und Sparen aufgeteilt. Individuelle Budgetierung hilft, **Überausgaben** zu vermeiden und **finanzielle Stabilität** zu gewährleisten.
 
 # ❗ Warum ist sie wichtig?
-- **Kontrolle über Finanzen:** Erleichtert das Verständnis, wohin das Geld fließt.
+- **Kontrolle über Finanzen:** Erleichtert das Verständnis, wohin das Geld fliesst.
 - **Zielerreichung:** Unterstützt beim Erreichen finanzieller Ziele, wie dem Kauf eines Hauses oder der Altersvorsorge.
 - **Schuldenvermeidung:** Hilft dabei, Schulden zu reduzieren oder zu vermeiden.
 - **Notfallfonds:** Ermöglicht den Aufbau eines Notgroschens für unerwartete Ausgaben.
@@ -15,7 +15,7 @@ Individuelle Budgetierung ist ein **persönlicher Finanzplanungsprozess**, bei d
 - **Einnahmen und Ausgaben erfassen:** Alle monatlichen Einnahmen und Ausgaben notieren.
 - **Kategorien festlegen:** Ausgaben in Kategorien einteilen (z.B. Miete, Lebensmittel, Freizeit).
 - **Budgets zuweisen:** Für jede Kategorie ein festes Budget festlegen.
-- **Überwachung:** Regelmäßige Überprüfung der Ausgaben, um sicherzustellen, dass sie innerhalb der festgelegten Budgets bleiben.
+- **Überwachung:** Regelmässige Überprüfung der Ausgaben, um sicherzustellen, dass sie innerhalb der festgelegten Budgets bleiben.
 - **Anpassungen vornehmen:** Bei Bedarf Budgets anpassen, um realistisch zu bleiben.
 
 # ➕Weitere Quellen
