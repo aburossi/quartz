@@ -30,3 +30,10 @@ Thema: Sollte das Tragen von Uniformen in Schulen verpflichtend sein?
 - **Stil:** Klar und überzeugend, mit einem objektiven Ton, der das Interesse des Lesers aufrechterhält.
 
 # ✔ Bewertung
+|Bewertungskriterium|Punkte|Details|
+|---|---|---|
+|**1. Inhalt**|20|- **Ausgewogenheit der Argumentation:** Pro- und Kontra-Argumente werden gleichmäßig und tiefgründig präsentiert. <br>- **Tiefe der Analyse:** Zeigt tiefgehende Analyse und Einsichten.|
+|**2. Sprachgebrauch und Genauigkeit**|20|- **Präzision der Sprache:** Klare und präzise Sprache zur Formulierung komplexer Argumente und Schlussfolgerungen. Minimale sprachliche Fehler.|
+|**3. Kohäsion und Kohärenz**|20|- **Struktur und Organisation:** Logischer Aufbau mit klarer These, ausgewogenen Argumenten und klarem Fazit. Einsatz kohäsiver Mittel zur Verknüpfung der Ideen.|
+|**4. Aufgabenerfüllung**|30|- **Erfüllung der Aufgabenstellung:** Vollständige Adressierung der Fragestellung oder These durch kritische Reflexion und fundierte Schlussfolgerung.|
+|**5. Engagement und Stil**|10|- **Angemessenheit des Stils:** Klar und überzeugend, hält das Interesse der Leser aufrecht und unterstützt das Verständnis der Analyse.|
