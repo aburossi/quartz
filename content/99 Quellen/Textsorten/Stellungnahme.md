@@ -1,5 +1,5 @@
 # 🔍Was ist die Testsorte Stellungnahme?
-Eine **Stellungnahme** ist eine schriftliche Äußerung, in der eine Person ihre Meinung, Position oder Einstellung zu einem bestimmten Thema oder Sachverhalt ausdrücklich darlegt und begründet. Der Schlüssel zu einer effektiven Stellungnahme liegt in der **präzisen Beschreibung des Themas**, dem **Beziehen einer klaren Position** und der **Unterstützung dieser Position durch starke Argumente**. Eine gut geschriebene Stellungnahme zeichnet sich durch eine klare und logische Struktur aus, beginnend mit einer Einführung in das Thema, gefolgt von der Darlegung und Begründung der eigenen Position.
+Eine **Stellungnahme** ist eine schriftliche Äusserung, in der eine Person ihre Meinung, Position oder Einstellung zu einem bestimmten Thema oder Sachverhalt ausdrücklich darlegt und begründet. Der Schlüssel zu einer effektiven Stellungnahme liegt in der **präzisen Beschreibung des Themas**, dem **Beziehen einer klaren Position** und der **Unterstützung dieser Position durch starke Argumente**. Eine gut geschriebene Stellungnahme zeichnet sich durch eine klare und logische Struktur aus, beginnend mit einer Einführung in das Thema, gefolgt von der Darlegung und Begründung der eigenen Position.
 
 # ❗Warum Stellung nehmen?
 - **Förderung kritischen Denkens**: Durch das Formulieren einer Stellungnahme werden analytische Fähigkeiten geschärft, da man ein Thema aus verschiedenen Blickwinkeln betrachten und beurteilen muss.
@@ -10,7 +10,7 @@ Eine **Stellungnahme** ist eine schriftliche Äußerung, in der eine Person ihre
 # ⛏Wie Stellung nehmen?
 - **Thema präzisieren**: Beginnen Sie mit einer klaren und präzisen Beschreibung des Themas, um den Rahmen Ihrer Stellungnahme abzustecken.
 - **Position beziehen**: Legen Sie deutlich Ihre Meinung zum Thema dar und beziehen Sie klar Stellung.
-- **Argumente sammeln und strukturieren**: Sammeln Sie Beweise und Argumente, die Ihre Position unterstützen. Strukturieren Sie diese logisch, um Ihre Argumentation zu stärken.
+- **Argumente sammeln und strukturieren**: Sammeln Sie Beweise und Argumente, die Ihre Position unterstützen. Strukturieren Sie diese logisch, um Ihre [[Argumentation]] zu stärken.
 - **Sprachgebrauch und Stil beachten**: Verwenden Sie eine angemessene Sprache und achten Sie auf grammatische Korrektheit, um Ihre Argumente klar und überzeugend zu präsentieren.
 - **Kohäsion und Kohärenz sichern**: Verknüpfen Sie Ihre Argumente effektiv, um den Fluss Ihrer Argumentation zu unterstützen und die Verständlichkeit zu erhöhen.
 - **Überzeugungskraft demonstrieren**: Stellen Sie sicher, dass Ihre Argumente stark, gut begründet und überzeugend sind, um die Leser von Ihrer Position zu überzeugen.

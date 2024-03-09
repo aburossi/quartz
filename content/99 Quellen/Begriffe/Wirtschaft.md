@@ -1,21 +1,20 @@
----
-tags:
-  - Wirtschaft
----
-# Was ist es?
+# 🔍Was ist die Wirtschaft?
+Die Wirtschaft bezieht sich auf die **Produktion**, den **Austausch** und den **Konsum** von Gütern und Dienstleistungen. Sie umfasst alles, was mit der **Erstellung** und **Verteilung** von Reichtum zu tun hat, und beinhaltet verschiedene **Sektoren** wie Landwirtschaft, Industrie und Dienstleistungen. Die Wirtschaft eines Landes ist ein Schlüsselelement für seinen **Wohlstand** und seine **Entwicklung**.
 
-**Wirtschaft** bezeichnet die Gesamtheit aller Einrichtungen und Handlungen, die der Produktion und dem Austausch von [[Güter]]n und Dienstleistungen dienen. Sie ist geprägt durch das Zusammenspiel von [[Angebot und Nachfrage]] und beinhaltet Aspekte wie Konsum, Investitionen, Handel und Verteilung von Ressourcen. Die Wirtschaft wird durch verschiedene Akteure, wie Individuen, Unternehmen und Staaten, sowie durch **Märkte** und **Wirtschaftspolitik** gestaltet.
+# ❗Warum ist sie wichtig?
+- Bestimmt das **Lebensniveau**: Eine starke Wirtschaft führt zu einem höheren Lebensstandard.
+- Beeinflusst die **Arbeitsplätze**: Die wirtschaftliche Gesundheit eines Landes beeinflusst die Arbeitslosenrate.
+- Beeinflusst **öffentliche Dienste**: Steuereinnahmen, die von der Wirtschaft generiert werden, finanzieren öffentliche Dienstleistungen wie Bildung und Gesundheitswesen.
+- Bestimmt den **internationalen Handel**: Eine robuste Wirtschaft verbessert die Handelsbeziehungen und -möglichkeiten mit anderen Ländern.
+- Beeinflusst die **politische Stabilität**: Wirtschaftliche Probleme können zu politischer Unruhe und Instabilität führen.
 
-# Warum es wichtig ist?
+# ⛏Wie funktioniert sie?
+- **Marktwirtschaft**: Unternehmen produzieren Güter und Dienstleistungen basierend auf Angebot und Nachfrage.
+- **Planwirtschaft**: Die Regierung legt fest, welche Güter und Dienstleistungen produziert werden.
+- **Gemischte Wirtschaft**: Eine Kombination aus Marktwirtschaft und staatlicher Steuerung.
+- **[[Globalisierung]]**: Weltweite Integration von Märkten, die den Austausch von Gütern, Dienstleistungen und Kapital erleichtert.
+- **Wirtschaftspolitik**: Regierungen setzen Steuern, Zinsen und Ausgabenpolitik ein, um die Wirtschaft zu steuern.
 
-- **Lebensstandard:** Die Wirtschaft beeinflusst den Lebensstandard und die Wohlstandsentwicklung einer Gesellschaft.
-- **Beschäftigung:** Sie schafft Arbeitsplätze und generiert Einkommen für Individuen.
-- **Innovation:** Wirtschaftliche Aktivitäten fördern Innovation und technologischen Fortschritt.
-- **Sozialer Zusammenhalt:** Eine funktionierende Wirtschaft trägt zum sozialen Zusammenhalt und zur sozialen Sicherheit bei.
-
-# Wie es funktioniert?
-
-- **Produktion:** Unternehmen produzieren Güter und Dienstleistungen, die auf Märkten angeboten werden.
-- **Verteilung:** Güter und Dienstleistungen werden über verschiedene Kanäle verteilt und konsumiert.
-- **Investition:** Kapital wird in neue Technologien und Ressourcen investiert, um die Produktion zu verbessern.
-- **Regulierung:** Die Wirtschaft wird durch Gesetze und Vorschriften auf nationaler und internationaler Ebene reguliert.
+# ➕Weitere Quellen
+[📄 Neuigkeiten über Wirtschaft](https://www.google.com/search?q=Wirtschaft+news&tbm=nws)
+[🎞 Videos über Wirtschaft](https://www.google.com/search?q=Wirtschaft&tbm=vid)
