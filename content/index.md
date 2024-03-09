@@ -8,3 +8,6 @@
 
 >[!tip]- Tag-Liste
 >[[Tags]]
+
+>[!todo]- Kontakt
+>Haben Sie einen Fehler gefunden? Möchten Sie etwas mitteilen? Sind Sie Lehrperson und möchten Kontakt aufnehmen? Hier können Sie Kontakt aufnehmen: [Formular 📭](https://forms.microsoft.com/e/zXfR86NN4h) 
