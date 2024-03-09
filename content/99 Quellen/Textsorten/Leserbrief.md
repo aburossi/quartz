@@ -1,4 +1,4 @@
-# 🔍Was ist es?
+# 🔍Was ist die Textsorte Leserbrief?
 
 Ein **Leserbrief** ist ein kurzer bis mittellanger Text, der als Reaktion auf einen zuvor veröffentlichten Beitrag in Zeitungen, Zeitschriften oder Online-Portalen verfasst wird. Der Verfasser des Leserbriefs teilt seine **persönliche Meinung** und **Argumente** zu dem Thema des Originalbeitrags. Ziel ist es, eine öffentliche Diskussion anzuregen oder eine alternative Sichtweise zu präsentieren.
 
@@ -6,14 +6,14 @@ Ein **Leserbrief** ist ein kurzer bis mittellanger Text, der als Reaktion auf ei
 - Äußerung einer persönlichen Meinung
 - Untermauerung der Meinung mit Argumenten
 
-# ❗Warum diesen verwenden?
+# ❗Warum einen Leserbrief schreiben?
 
 - **Feedback geben:** Um Zustimmung oder Kritik zu einem Thema zu äußern.
 - **Öffentliche Debatte fördern:** Beitrag zu einer breiteren Diskussion über ein Thema.
 - **Einfluss nehmen:** Versuch, die öffentliche Meinung oder Entscheidungen von Entscheidungsträgern zu beeinflussen.
 - **Perspektivenvielfalt:** Darstellung unterschiedlicher Ansichten und Meinungen zu einem Thema.
 
-# ⛏Wie benutzt man diesen?
+# ⛏Wie schreibt man einen Leserbrief?
 
 1. **Originalbeitrag lesen und verstehen:** Bevor du einen Leserbrief schreibst, solltest du den Artikel, auf den du dich beziehst, gründlich lesen und verstehen.
 2. **Bezug zum Original herstellen:** Dein Brief sollte klar auf den Originalbeitrag Bezug nehmen. Erwähne den Artikel, den Autor und das Erscheinungsdatum zu Beginn deines Briefes.
