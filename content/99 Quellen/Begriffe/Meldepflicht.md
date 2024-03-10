@@ -6,7 +6,7 @@ tags:
 ---
 # 🔍 Was ist es?
 
-Die **Meldepflicht** im Kontext eines Kaufvertrags in der Schweiz bezieht sich auf die Verpflichtung des Käufers, Mängel an der gekauften Ware dem Verkäufer zu melden. Nach dem Erhalt der Ware und deren Prüfung (gemäss der Prüfungspflicht) ist der Käufer verpflichtet, festgestellte Mängel innerhalb einer bestimmten Frist dem Verkäufer anzuzeigen. Dies ist entscheidend für die Geltendmachung von Gewährleistungsansprüchen.
+Die **Meldepflicht** im Kontext eines [[Kaufvertrag]]s in der Schweiz bezieht sich auf die Verpflichtung des Käufers, Mängel an der gekauften Ware dem Verkäufer zu melden. Nach dem Erhalt der Ware und deren Prüfung (gemäss der Prüfungspflicht) ist der Käufer verpflichtet, festgestellte Mängel innerhalb einer bestimmten Frist dem Verkäufer anzuzeigen. Dies ist entscheidend für die Geltendmachung von Gewährleistungsansprüchen.
 
 # ❗ Warum es wichtig ist?
 
