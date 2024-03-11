@@ -3,12 +3,12 @@
 Ein **Leserbrief** ist ein kurzer bis mittellanger Text, der als Reaktion auf einen zuvor veröffentlichten Beitrag in Zeitungen, Zeitschriften oder Online-Portalen verfasst wird. Der Verfasser des Leserbriefs teilt seine **persönliche Meinung** und **Argumente** zu dem Thema des Originalbeitrags. Ziel ist es, eine öffentliche Diskussion anzuregen oder eine alternative Sichtweise zu präsentieren.
 
 - Direkter Bezug zum Originalbeitrag
-- Äußerung einer persönlichen Meinung
+- Äusserung einer persönlichen Meinung
 - Untermauerung der Meinung mit Argumenten
 
 # ❗Warum einen Leserbrief schreiben?
 
-- **Feedback geben:** Um Zustimmung oder Kritik zu einem Thema zu äußern.
+- **Feedback geben:** Um Zustimmung oder Kritik zu einem Thema zu äussern.
 - **Öffentliche Debatte fördern:** Beitrag zu einer breiteren Diskussion über ein Thema.
 - **Einfluss nehmen:** Versuch, die öffentliche Meinung oder Entscheidungen von Entscheidungsträgern zu beeinflussen.
 - **Perspektivenvielfalt:** Darstellung unterschiedlicher Ansichten und Meinungen zu einem Thema.
@@ -17,7 +17,7 @@ Ein **Leserbrief** ist ein kurzer bis mittellanger Text, der als Reaktion auf ei
 
 1. **Originalbeitrag lesen und verstehen:** Bevor du einen Leserbrief schreibst, solltest du den Artikel, auf den du dich beziehst, gründlich lesen und verstehen.
 2. **Bezug zum Original herstellen:** Dein Brief sollte klar auf den Originalbeitrag Bezug nehmen. Erwähne den Artikel, den Autor und das Erscheinungsdatum zu Beginn deines Briefes.
-3. **Persönliche Meinung äußern:** Formuliere deine Meinung zum Thema klar und deutlich.
+3. **Persönliche Meinung äussern:** Formuliere deine Meinung zum Thema klar und deutlich.
 4. **Argumente anführen:** Stütze deine Meinung mit schlüssigen und gut strukturierten Argumenten. Nutze dabei Fakten, Beispiele und logische Schlussfolgerungen.
 5. **Sprachliche Präzision:** Verwende ein breites Vokabular und komplexe grammatische Strukturen, um deine Punkte klar und präzise zu kommunizieren.
 6. **Struktur und Logik:** Sorge für eine klare und logische Struktur deines Briefes, indem du kohäsive Mittel nutzt.
@@ -25,11 +25,11 @@ Ein **Leserbrief** ist ein kurzer bis mittellanger Text, der als Reaktion auf ei
 
 # ➕Beispiel
 
-Angenommen, du schreibst einen Leserbrief als Antwort auf einen Artikel über die Einführung einer neuen Umweltsteuer. Dein Brief könnte folgendermaßen aussehen:
+Angenommen, du schreibst einen Leserbrief als Antwort auf einen Artikel über die Einführung einer neuen Umweltsteuer. Dein Brief könnte folgendermassen aussehen:
 
 - **Bezug zum Original:** "Bezugnehmend auf den Artikel 'Neue Umweltsteuer ab 2023' von Max Mustermann, erschienen am 15. April in der Tageszeitung, möchte ich meine Gedanken dazu teilen."
 - **Persönliche Meinung:** "Ich unterstütze die Einführung der Umweltsteuer, da sie ein wichtiger Schritt zur Bekämpfung des Klimawandels ist."
-- **Argumentation:** "Durch die Steuer werden Unternehmen motiviert, umweltfreundlichere Technologien einzuführen. Zudem fließen die Einnahmen in Projekte, die den ökologischen Fußabdruck unseres Landes verringern."
+- **Argumentation:** "Durch die Steuer werden Unternehmen motiviert, umweltfreundlichere Technologien einzuführen. Zudem fliessen die Einnahmen in Projekte, die den ökologischen Fussabdruck unseres Landes verringern."
 - **Sprachgebrauch und Genauigkeit:** Dein Brief nutzt ein breites Vokabular und komplexe grammatische Strukturen, um die Argumente präzise auszudrücken.
 - **Struktur und Logik:** Der Brief folgt einer klaren Struktur: Einleitung, Argumentation, Schlussfolgerung.
 - **Aufgabenerfüllung:** Der Brief adressiert alle Aspekte der Aufgabenstellung effektiv.

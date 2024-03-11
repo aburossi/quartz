@@ -5,7 +5,7 @@
 - Der **Landesindex der Konsumentenpreise (LIK)** misst die **Veränderung der Preise** für Konsumgüter, die für **schweizerische Privathaushalte** relevant sind.
 - **Inflation** ist die **Erhöhung des Preisniveaus** von Gütern und Dienstleistungen, was zu einer **Abnahme der Kaufkraft des Geldes** führt.
 - **Deflation** bezeichnet den **Rückgang des Preisniveaus** für Güter und Dienstleistungen, ausgelöst durch eine geringere **Nachfrage als Angebot**.
-- **Konjunkturpolitische Maßnahmen** zielen darauf ab, ein **angemessenes Wirtschaftswachstum**, **Preisniveaustabilität** und einen **hohen Beschäftigungsstand** zu sichern.
+- **Konjunkturpolitische Massnahmen** zielen darauf ab, ein **angemessenes Wirtschaftswachstum**, **Preisniveaustabilität** und einen **hohen Beschäftigungsstand** zu sichern.
 
 # ❗Warum es wichtig ist?
 - **Wirtschaftliches Barometer**: BIP und Konjunktur sind wesentliche **Indikatoren** für die **Gesundheit** einer Volkswirtschaft.
@@ -18,8 +18,8 @@
 - **Berechnung des BIP**: Ermittlung des Gesamtwertes aller produzierten Güter und Dienstleistungen **innerhalb der Landesgrenzen**.
 - **Konjunkturbeobachtung**: Analyse der **wirtschaftlichen Entwicklung** über Zeit, um Trends und Wendepunkte zu identifizieren.
 - **Messung der Inflation**: Vergleich des Preisniveaus eines festgelegten Warenkorbs zu verschiedenen Zeitpunkten.
-- **Deflationsüberwachung**: Beobachtung von Preisniveauänderungen, um **frühzeitig gegensteuernde Maßnahmen** zu ergreifen.
-- **Konjunkturpolitische Instrumente**: Einsatz von **fiskalpolitischen** (z.B. Staatsausgaben) und **monetären Maßnahmen** (z.B. Zinssätze) zur Steuerung der Wirtschaft.
+- **Deflationsüberwachung**: Beobachtung von Preisniveauänderungen, um **frühzeitig gegensteuernde Massnahmen** zu ergreifen.
+- **Konjunkturpolitische Instrumente**: Einsatz von **fiskalpolitischen** (z.B. Staatsausgaben) und **monetären Massnahmen** (z.B. Zinssätze) zur Steuerung der Wirtschaft.
 
 # ➕Weitere Quellen
 - [📄 Nachrichten über Bruttoinlandprodukt](https://www.google.ch/search?q=site:.ch+Bruttoinlandprodukt&tbm=nws)

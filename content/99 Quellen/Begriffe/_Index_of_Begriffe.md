@@ -24,7 +24,7 @@
  [[Franchise|Franchise]]
  [[Freihandelsabkommen|Freihandelsabkommen]]
  [[Allgemeinbildung/Gesellschaft/Begriffe/Gesetze/_Index_of_Gesetze|_Index_of_Gesetze]]
- [[Globalisierung|Globalisierung]]
+ [[99 Quellen/Begriffe/Globalisierung|Globalisierung]]
  [[Graphit|Graphit]]
  [[Guillotine-Klausel|Guillotine-Klausel]]
  [[Güter|Güter]]

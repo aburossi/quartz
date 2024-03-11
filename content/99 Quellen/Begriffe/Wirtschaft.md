@@ -12,7 +12,7 @@ Die Wirtschaft bezieht sich auf die **Produktion**, den **Austausch** und den **
 - **Marktwirtschaft**: Unternehmen produzieren Güter und Dienstleistungen basierend auf Angebot und Nachfrage.
 - **Planwirtschaft**: Die Regierung legt fest, welche Güter und Dienstleistungen produziert werden.
 - **Gemischte Wirtschaft**: Eine Kombination aus Marktwirtschaft und staatlicher Steuerung.
-- **[[Globalisierung]]**: Weltweite Integration von Märkten, die den Austausch von Gütern, Dienstleistungen und Kapital erleichtert.
+- **[[99 Quellen/Begriffe/Globalisierung]]**: Weltweite Integration von Märkten, die den Austausch von Gütern, Dienstleistungen und Kapital erleichtert.
 - **Wirtschaftspolitik**: Regierungen setzen Steuern, Zinsen und Ausgabenpolitik ein, um die Wirtschaft zu steuern.
 
 # ➕Weitere Quellen
