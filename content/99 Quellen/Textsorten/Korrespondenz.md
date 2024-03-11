@@ -33,6 +33,7 @@ Ein formeller Brief an eine Universität könnte folgendermaßen aussehen:
 Dieses Beispiel zeigt, wie eine formelle Korrespondenz strukturiert sein kann, um einen spezifischen Zweck zu erfüllen, indem sie Informationen klar und professionell präsentiert.
 
 # ✔ Bewertung
+
 | Kriterium                          | Punkte | Bewertungskriterien                                                                                                                                                                                            |
 | ---------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Inhalt**                         | 20     | Der Text sollte den Kommunikationszweck klar und verständlich formulieren, ohne Missverständnisse oder unnötige Komplexität. Informationen müssen logisch und nachvollziehbar präsentiert werden.              |

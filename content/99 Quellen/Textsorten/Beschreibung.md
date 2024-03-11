@@ -26,6 +26,7 @@ Stellen wir uns vor, du sollst einen alten, geheimnisvollen Wald beschreiben. De
 **Aufgabenerfüllung und Stil**: Durch den Einsatz bildhafter Sprache und sensorischer Details fühlt der Leser sich, als wäre er selbst im Wald und erlebt dessen Geheimnisse. Der stilistische Einsatz der Sprache hält das Interesse aufrecht und fördert eine tiefe emotionale Reaktion.
 
 # ✔ Bewertung
+
 | Kriterium                             | Punkte | Beschreibung                                                                                                                                                   |
 | ------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1. Inhalt**                         | 20     | - **Anschaulichkeit**: Lebendiges Bild durch detaillierte, sensorische Beschreibungen.<br>- **Detailreichtum**: Fülle von Details für eine genaue Vorstellung. |

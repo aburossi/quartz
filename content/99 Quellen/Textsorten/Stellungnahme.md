@@ -27,6 +27,7 @@ Thema: **Die Bedeutung digitaler Bildung in der heutigen Gesellschaft**
 - **Schlussfolgerung**: Aufgrund der dargelegten Argumente ist es offensichtlich, dass die Integration digitaler Bildung eine Notwendigkeit ist, um Lernende adäquat auf die Herausforderungen und Möglichkeiten der digitalen Ära vorzubereiten.
 
 # ✔ Bewertung
+
 | Bewertungskriterium                   | Punkte | Beschreibung                                                                                                                                                                                                                          |
 | ------------------------------------- | ------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1. Inhalt**                         | 20     | - **Präzise Beschreibung des Themas**: Das Thema ist klar und präzise dargestellt.<br>- **Logische Struktur**: Die Argumentation folgt einer klaren und logischen Struktur.                                                           |

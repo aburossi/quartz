@@ -32,6 +32,7 @@ Ein **Kommentar** ist eine schriftliche Form, in der eine Person ihre **Meinung*
 Dieser Kommentar wählt ein relevantes Thema, äußert eine klare Meinung zum Umweltschutz, unterstützt diese mit logischen und relevanten Argumenten, nutzt eine korrekte Sprache und ist in einem engagierten Stil geschrieben, der die Leser zum Nachdenken anregt und möglicherweise zum Handeln motiviert.
 
 # ✔ Bewertung
+
 | Kriterium                             | Punkte | Bewertung                                                                                                                                                                                                                                                                                          |
 | ------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **1. Inhalt**                         | 20     | - **Klarheit der Meinungsäußerung**: Der Kommentar führt das Thema ein und äußert dann eine klare Meinung. Die Meinung ist durchgehend erkennbar.<br>- **Stärke und Relevanz der Argumente**: Die Argumente sind überzeugend, relevant und logisch strukturiert. Sie stützen die Meinung effektiv. |
