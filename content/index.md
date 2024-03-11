@@ -6,6 +6,7 @@
 >- Sie können Themen nach **Tag** suchen, zum Beispiel #Recht
 >- **Schwebefenster-Funktion**: Wenn Sie mit dem Mauszeiger über einen internen Link auf einer Seite schweben, wird ein kleines Vorschaufenster angezeigt. Dieses Vorschaufenster enthält den Anfang des Inhalts der verlinkten Seite. Probieren Sie es aus 👉 [[Schwebefenster]]
 
+![[EDUnews.png]]
 >[!tip]- Tag-Liste
 >![[Tags]]
 
