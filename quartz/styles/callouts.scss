@@ -71,8 +71,8 @@
   }
 
   &[data-callout="quote"] {
-    --color: #006400;
-    --border: var(--lightgray);
+    --color: #000000;
+    --border: #006400;
   }
 
   &.is-collapsed > .callout-title > .fold {
