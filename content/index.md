@@ -1,5 +1,5 @@
 # Willkommen auf EDUnews
-![[EDUnews.png]]
+![[EDUnews.png|400]]
 >[!info] 
 >- Die **Themen** sind nach **Gebiete** geordnet. 👉 **Bildschirmzoom** reduzieren, falls die **Spalte mit den Themen** links nicht sichbar ist
 >- Sie können in der **Suchleiste** nach Themen suchen
