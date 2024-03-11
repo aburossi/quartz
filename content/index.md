@@ -1,5 +1,5 @@
 # Willkommen auf EDUnews
-![[EDUnews.png|400]]
+
 >[!info] 
 >- Die **Themen** sind nach **Gebiete** geordnet. 👉 **Bildschirmzoom** reduzieren, falls die **Spalte mit den Themen** links nicht sichbar ist
 >- Sie können in der **Suchleiste** nach Themen suchen
@@ -12,3 +12,5 @@
 >[!todo]- Kontakt
 >Haben Sie einen Fehler gefunden? Möchten Sie etwas mitteilen? Sind Sie Lehrperson und möchten Kontakt aufnehmen? 
 >Hier können Sie eine Nachricht hinterlassen: [Formular 📭](https://forms.microsoft.com/e/zXfR86NN4h) 
+
+![[EDUnews.png]]
