@@ -29,3 +29,9 @@
 - [⏬ Steuerrecht](https://www.google.com/search?q=Steuerrecht)
 - [⏬ Steueroptimierung](https://www.google.com/search?q=Steueroptimierung)
 - [⏬ Föderalismus in der Schweiz](https://www.google.com/search?q=Föderalismus+in+der+Schweiz)
+
+## ➕ EDUshorts
+[[Steuerbetrug]]
+
+[[Steuerhinterziehung]]
+
