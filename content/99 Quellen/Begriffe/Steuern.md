@@ -1,8 +1,8 @@
 # 🔍Was ist das?
 
-- **Steuern in der Schweiz** umfassen verschiedene Arten von Abgaben, die von natürlichen Personen und Unternehmen an staatliche Behörden geleistet werden.
+- **Steuern in der Schweiz** umfassen verschiedene Arten von Abgaben, die von **natürlichen Personen** und **Unternehmen** an **staatliche Behörden** geleistet werden.
+- Zu den **Hauptsteuerarten** gehören die **Einkommenssteuer**, **Vermögenssteuer**, **Mehrwertsteuer (MWST)**, **Erbschafts- und Schenkungssteuern** sowie **Unternehmenssteuern**.
 - Das **Steuerwesen** in der Schweiz ist durch einen **Föderalismus** geprägt, was bedeutet, dass Steuern auf drei Ebenen erhoben werden: Bund, Kantone und Gemeinden.
-- Zu den Hauptsteuerarten gehören die **Einkommenssteuer**, **Vermögenssteuer**, **Mehrwertsteuer (MWST)**, **Erbschafts- und Schenkungssteuern** sowie **Unternehmenssteuern**.
 - Die **Einkommens- und Vermögenssteuern** für natürliche Personen variieren stark zwischen den Kantonen und Gemeinden, da diese ihre eigenen Steuersätze festlegen.
 - Die **Mehrwertsteuer** ist auf nationaler Ebene einheitlich geregelt und beträgt in der Schweiz derzeit 7,7% auf den meisten Waren und Dienstleistungen.
 
