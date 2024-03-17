@@ -7,7 +7,7 @@
 >- **Schwebefenster-Funktion**: Wenn Sie mit dem Mauszeiger über einen internen Link auf einer Seite schweben, wird ein kleines Vorschaufenster angezeigt. Dieses Vorschaufenster enthält den Anfang des Inhalts der verlinkten Seite. Probieren Sie es aus 👉 [[Schwebefenster]]
 
 >[!tip]- Tag-Liste
->![[Tags]]
+>[[Tags]]
 
 >[!todo]- Kontakt
 >Haben Sie einen Fehler gefunden? Möchten Sie etwas mitteilen? Sind Sie Lehrperson und möchten Kontakt aufnehmen? 
