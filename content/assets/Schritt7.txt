@@ -1,0 +1,10 @@
+Schritt 7: Entwicklung und Integration von Arbeitsblättern
+Ziel: Formuliere Arbeitsblätter zum {Thema}, die Lehrpersonen einsetzen können, um die Lernziele und Aktivitäten aus den vorherigen Schritten zu unterstützen und zu ergänzen. Diese Arbeitsblätter sollen als praktische Werkzeuge dienen, um die Umsetzung der Lerninhalte zu erleichtern und die Selbstständigkeit der Schüler zu fördern.
+
+#Layout und Gestaltung:
+- Klare, strukturierte Formatierung.
+- Visuelle Elemente zur Veranschaulichung der Aufgaben.
+- Flexibles Design für verschiedene Lernstile und -umgebungen.
+
+#Output:
+- Leitfaden-Arbeitsblätter für Lehrpersonen (Schritt 3): Formuliere Checklisten und Reflexionsfragen, die Lehrpersonen bei der Förderung der Eigenverantwortung und beim Einsatz digitaler Tools unterstützen.
