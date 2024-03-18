@@ -1,6 +1,6 @@
 # 🔍Was ist es?
 Ein **Protokoll** ist ein dokumentierter Bericht, der die **Ereignisse, Diskussionen** und **Entscheidungen** einer Besprechung oder eines Ereignisses **objektiv** und **präzise** zusammenfasst. Die Hauptziele eines Protokolls sind, eine **klare** und **nachvollziehbare** Aufzeichnung zu schaffen, die für alle Teilnehmer oder interessierten Parteien zugänglich ist. Dabei werden folgende Elemente betont:
-- **Objektivität**: Die Darstellung basiert ausschließlich auf Fakten, ohne persönliche Meinungen oder Interpretationen.
+- **Objektivität**: Die Darstellung basiert ausschliesslich auf Fakten, ohne persönliche Meinungen oder Interpretationen.
 - **Vollständigkeit**: Es beinhaltet alle relevanten Informationen, die während des Ereignisses diskutiert oder entschieden wurden.
 - **Präzision**: Die Sprache ist klar und eindeutig, Fachterminologie wird korrekt verwendet.
 - **Struktur**: Die Informationen sind logisch und chronologisch geordnet, was die Lesbarkeit und das Verständnis erleichtert.
@@ -9,7 +9,7 @@ Ein **Protokoll** ist ein dokumentierter Bericht, der die **Ereignisse, Diskussi
 - **Dokumentation**: Protokolle dienen als offizielle Aufzeichnung von Entscheidungen und Diskussionen.
 - **Nachvollziehbarkeit**: Sie ermöglichen es, die Entwicklungen und Überlegungen einer Besprechung später nachzuvollziehen.
 - **Informationsquelle**: Für Personen, die nicht teilnehmen konnten, bieten Protokolle eine Möglichkeit, sich über die besprochenen Inhalte zu informieren.
-- **Verbindlichkeit**: Protokollierte Entscheidungen haben oft einen verbindlichen Charakter für die Umsetzung von Projekten oder Maßnahmen.
+- **Verbindlichkeit**: Protokollierte Entscheidungen haben oft einen verbindlichen Charakter für die Umsetzung von Projekten oder Massnahmen.
 
 # ⛏Wie verwenden?
 1. **Vorbereitung**: Kenne den Zweck der Besprechung und die Tagesordnung.

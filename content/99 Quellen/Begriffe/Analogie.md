@@ -1,6 +1,6 @@
 # 🔍Was ist das?
 
-Eine **Analogie** ist eine Methode, bei der **Ähnlichkeiten** zwischen zwei unterschiedlichen Dingen, Konzepten oder Situationen erkannt und hervorgehoben werden. Sie dient dazu, ein komplexes oder unbekanntes Thema durch den Vergleich mit einem bekannteren zu erklären. Dabei werden **parallele Merkmale** oder Beziehungen identifiziert, die es den Lernenden ermöglichen, neues Wissen auf der Basis von bereits Verstandenem zu erschließen.
+Eine **Analogie** ist eine Methode, bei der **Ähnlichkeiten** zwischen zwei unterschiedlichen Dingen, Konzepten oder Situationen erkannt und hervorgehoben werden. Sie dient dazu, ein komplexes oder unbekanntes Thema durch den Vergleich mit einem bekannteren zu erklären. Dabei werden **parallele Merkmale** oder Beziehungen identifiziert, die es den Lernenden ermöglichen, neues Wissen auf der Basis von bereits Verstandenem zu erschliessen.
 
 - Analogien helfen, **Verbindungen** zwischen neuem und bekanntem Wissen herzustellen.
 - Sie können genutzt werden, um **komplexe Ideen** verständlich zu machen.
