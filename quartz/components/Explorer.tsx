@@ -8,7 +8,7 @@ import { QuartzPluginData } from "../plugins/vfile"
 
 // Options interface defined in `ExplorerNode` to avoid circular dependency
 const defaultOptions = {
-  title: "Inhalt",
+  title: "Themen",
   folderClickBehavior: "collapse",
   folderDefaultState: "collapsed",
   useSavedState: true,
