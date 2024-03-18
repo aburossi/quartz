@@ -1,1 +1,1 @@
-[mindmap](https://aburossi.github.io/mindmaps/keinlohn)
+[mindmap](https://aburossi.github.io/mindmaps/lohnerhoehung)
