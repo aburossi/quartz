@@ -27,4 +27,3 @@
 - [⏬ Wirtschaftswachstum](https://www.google.ch/search?q=Wirtschaftswachstum)
 - [⏬ Preisniveaustabilität](https://www.google.ch/search?q=site:.ch+Preisniveaustabilität)
 - [⏬ Beschäftigungspolitik](https://www.google.ch/search?q=Beschäftigungspolitik)
-q=site:.ch+beschäftigung&tbm=nws
