@@ -1,7 +1,6 @@
 ---
 tags:
-  - SUK/Produktion
-  - 1-Lehrjahr
+  - Sprache
 ---
 # 🔍Was ist es?
 Die **Textsorte Bericht** ist eine sachliche und objektive Darstellungsform, die dazu dient, über Ereignisse, Ergebnisse, Beobachtungen oder Untersuchungen zu informieren. Ein Bericht fokussiert sich auf die präzise und klare Vermittlung von Fakten und Informationen. Er verzichtet auf subjektive Meinungen oder Bewertungen und legt Wert auf eine strukturierte und nachvollziehbare Darstellung der Inhalte.

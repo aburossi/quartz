@@ -1,7 +1,6 @@
 ---
 tags:
-  - SUK/Produktion
-  - 1-Lehrjahr
+  - Sprache
 ---
 # 🔍Was ist es?
 Die **Textsorte Kommentar** ist eine journalistische oder literarische Form, in der der Autor seine persönliche Meinung, Bewertung oder Interpretation zu einem bestimmten Thema oder Ereignis ausdrückt. Im Gegensatz zu einem Bericht, der sich auf objektive Fakten konzentriert, erlaubt der Kommentar subjektive Einschätzungen und Analysen. Der Autor bringt seine Perspektive ein, um Themen zu beleuchten, Hintergründe zu erklären oder Kritik zu üben.

@@ -1,7 +1,6 @@
 ---
 tags:
-  - SUK/Produktion
-  - 1-Lehrjahr
+  - Sprache
 ---
 # 🔍Was ist es?
 Die **Argumentation** ist eine Form der Kommunikation, bei der durch logisches Schliessen und den Einsatz von Beweismitteln versucht wird, eine Behauptung zu stützen oder zu widerlegen. Ziel ist es, den Gesprächspartner oder Leser von einer bestimmten Meinung, Ansicht oder Lösung zu überzeugen. In einer guten Argumentation werden Thesen klar formuliert und durch stichhaltige Argumente und Fakten untermauert.

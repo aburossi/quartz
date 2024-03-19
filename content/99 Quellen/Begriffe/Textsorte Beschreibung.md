@@ -1,7 +1,6 @@
 ---
 tags:
-  - SUK/Produktion
-  - 1-Lehrjahr
+  - Sprache
 ---
 # 🔍Was ist es?
 Eine **Textsorte Beschreibung** ist eine Form des Schreibens, die darauf abzielt, Personen, Objekte, Orte, Gefühle oder Situationen so detailliert und anschaulich wie möglich darzustellen. Das Hauptziel ist es, dem Leser ein klares und lebendiges Bild des Beschriebenen zu vermitteln. Eine gute Beschreibung verwendet oft bildhafte Sprache und sensorische Details, um die Vorstellungskraft des Lesers zu aktivieren.
