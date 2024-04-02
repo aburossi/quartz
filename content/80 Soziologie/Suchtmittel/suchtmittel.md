@@ -1,3 +1,30 @@
+### 🔍Was ist es?
+- **Suchtmittelkonsum** unter Jugendlichen umfasst den Gebrauch von Substanzen wie **Alkohol**, **Zigaretten**, **E-Zigaretten**, und **Snooze**.
+- Trotz der Verfügbarkeit neuer Produkte bleiben klassische Suchtmittel wie **Zigaretten** und **Alkohol** bei Jugendlichen beliebt.
+- **E-Zigaretten** und **Snooze** sind neuere Formen des Nikotinkonsums, die speziell Jugendliche ansprechen, oft durch **fruchtige Aromen** und attraktive **Verpackungen**.
+- Die **Suchtprävention** und Regulierung des Zugangs zu diesen Produkten sind wesentliche Aspekte im Kampf gegen den Suchtmittelkonsum unter Minderjährigen.
+
+### ❗Warum es wichtig ist?
+- Der Konsum von Suchtmitteln kann langfristige **gesundheitliche Schäden** verursachen, insbesondere bei Jugendlichen, deren Körper und Gehirn sich noch in der Entwicklung befinden.
+- **Alkohol** ist die Todesursache Nummer eins bei jungen Männern zwischen 15 und 24 Jahren, oft durch Unfälle und Alkoholvergiftungen.
+- Die **frühe** Einführung in den Konsum von Suchtmitteln erhöht das Risiko einer späteren **Abhängigkeit**.
+- Die **Werbung** und das Marketing von Suchtmitteln zielen häufig direkt auf Jugendliche ab, was deren Konsum erhöht.
+- Effektive **Präventionsmassnahmen** und strengere **Regulierungen** sind notwendig, um den Zugang und den Anreiz für den Konsum unter Jugendlichen zu verringern.
+
+### ⛏Wie es funktioniert?
+- **Altersbeschränkungen** sollen den Kauf von Alkohol und Tabakprodukten durch Minderjährige verhindern.
+- **Aufklärungskampagnen** in Schulen und Medien zielen darauf ab, Jugendliche über die Risiken des Suchtmittelkonsums aufzuklären.
+- **Gesetze** zur Regulierung von Werbung und Verkauf von Suchtmitteln, einschliesslich E-Zigaretten und Snooze, sollen den Konsum unter Jugendlichen reduzieren.
+- **Forschung** zu den Gründen und Auswirkungen des Suchtmittelkonsums bei Jugendlichen hilft, zielgerichtete Präventionsstrategien zu entwickeln.
+- **Initiativen** wie das neue Tabakproduktengesetz in der Schweiz sollen den Zugang zu neuen Nikotinprodukten regulieren und Werbung einschränken.
+
+### ➕Weitere Quellen
+- [📄 Nachrichten über Suchtmittelkonsum unter Jugendlichen](https://www.google.com/search?q=Suchtmittelkonsum+unter+Jugendlichen&tbm=nws)
+- [🎞 Videos über Suchtmittelkonsum unter Jugendlichen](https://www.google.com/search?q=Suchtmittelkonsum+unter+Jugendlichen&tbm=vid)
+- [⏬ Präventionsmassnahmen](https://www.google.com/search?q=Präventionsmassnahmen)
+- [⏬ Altersbeschränkungen bei Alkohol und Tabak](https://www.google.com/search?q=Altersbeschränkungen+bei+Alkohol+und+Tabak)
+- [⏬ Auswirkungen von Werbung auf den Suchtmittelkonsum](https://www.google.com/search?q=Auswirkungen+von+Werbung+auf+den+Suchtmittelkonsum)
+
 ### Aktivierungsfragen
 
 >[!info] Worum geht es?
