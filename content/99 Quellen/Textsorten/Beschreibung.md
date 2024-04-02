@@ -27,10 +27,10 @@ Stellen wir uns vor, du sollst einen alten, geheimnisvollen Wald beschreiben. De
 
 # ✔ Bewertung
 
-| Kriterium                             | Punkte | Beschreibung                                                                                                                                                   |
-| ------------------------------------- | ------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **1. Inhalt**                         | 20     | - **Anschaulichkeit**: Lebendiges Bild durch detaillierte, sensorische Beschreibungen.<br>- **Detailreichtum**: Fülle von Details für eine genaue Vorstellung. |
-| **2. Sprachgebrauch und Genauigkeit** | 20     | - **Sprachliche Ausdruckskraft**: Reiche, vielfältige Sprache mit Adjektiven, Adverbien und Vergleichen.                                                       |
-| **3. Kohäsion und Kohärenz**          | 20     | - **Organisation**: Logische und fliessende Anordnung mit sinnvollen Übergängen für leichte Lesbarkeit.                                                         |
-| **4. Aufgabenerfüllung**              | 30     | - **Erfüllung des Beschreibungsziels**: Vermittlung eines lebhaften Eindrucks des Themas durch Detailtiefe und ansprechende Sprachgestaltung.                  |
-| **5. Engagement und Stil**            | 10     | - **Engagement durch Stil**: Sprachstil weckt und hält das Interesse des Lesers, spricht die Sinne an und verstärkt die Wirkung der Beschreibung.              |
+| Kriterium                             | %   | Beschreibung                                                                                                                                                   |
+| ------------------------------------- | --- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **1. Inhalt**                         | 20  | - **Anschaulichkeit**: Lebendiges Bild durch detaillierte, sensorische Beschreibungen.<br>- **Detailreichtum**: Fülle von Details für eine genaue Vorstellung. |
+| **2. Sprachgebrauch und Genauigkeit** | 20  | - **Sprachliche Ausdruckskraft**: Reiche, vielfältige Sprache mit Adjektiven, Adverbien und Vergleichen.                                                       |
+| **3. Kohäsion und Kohärenz**          | 20  | - **Organisation**: Logische und fliessende Anordnung mit sinnvollen Übergängen für leichte Lesbarkeit.                                                        |
+| **4. Aufgabenerfüllung**              | 30  | - **Erfüllung des Beschreibungsziels**: Vermittlung eines lebhaften Eindrucks des Themas durch Detailtiefe und ansprechende Sprachgestaltung.                  |
+| **5. Engagement und Stil**            | 10  | - **Engagement durch Stil**: Sprachstil weckt und hält das Interesse des Lesers, spricht die Sinne an und verstärkt die Wirkung der Beschreibung.              |
