@@ -1,3 +1,24 @@
+# 🔍 Was ist die Krankenversicherung in der Schweiz?
+
+Die **Krankenversicherung** in der Schweiz ist ein obligatorisches Versicherungssystem, das die Grundversorgung im Krankheitsfall für alle Einwohner abdeckt. Es basiert auf dem Prinzip der **solidarischen Finanzierung**, bei dem alle Versicherten unabhängig von Alter und Gesundheitszustand die gleichen Prämien für die Grundversicherung bezahlen.
+
+# ❗ Warum ist sie wichtig?
+
+- Sie gewährleistet den Zugang zu einer qualitativ hochwertigen medizinischen Versorgung für die gesamte Bevölkerung.
+- Sie schützt die Menschen vor hohen Kosten im Krankheitsfall.
+- Das Solidaritätsprinzip ermöglicht es, die finanziellen Risiken auf die gesamte Bevölkerung zu verteilen.
+
+# ⛏ Wie funktioniert sie?
+
+- Jeder Einwohner muss bei einer privaten Krankenkasse eine obligatorische Grundversicherung abschließen.
+- Die Leistungen der Grundversicherung sind gesetzlich festgelegt und für alle Kassen identisch.
+- Die Krankenkassen sind verpflichtet, jeden Antragsteller aufzunehmen (Kontrahierungszwang).
+- Die Prämien variieren je nach Kasse und Wohnkanton, nicht aber nach Alter oder Gesundheitszustand.
+
+# ➕ Weitere Quellen
+
+[📄 Nachrichten zur Krankenversicherung in der Schweiz](https://www.google.com/search?q=Krankenversicherung+Schweiz&tbm=nws) [🎞 Videos zur Krankenversicherung in der Schweiz](https://www.google.com/search?q=Krankenversicherung+Schweiz&tbm=vid)
+
 ### 🔍Was ist es?
 - **Suchtmittelkonsum** unter Jugendlichen umfasst den Gebrauch von Substanzen wie **Alkohol**, **Zigaretten**, **E-Zigaretten**, und **Snooze**.
 - Trotz der Verfügbarkeit neuer Produkte bleiben klassische Suchtmittel wie **Zigaretten** und **Alkohol** bei Jugendlichen beliebt.
