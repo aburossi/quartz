@@ -1,1 +1,2 @@
-<iframe src="https://tools.fobizz.com/ai/chats/public_assistants/2caf55b8-f656-4bc8-ada9-02428bf5e5ad?embed=true&token=8a51537f136254571659ab1e771e84df" frameborder="0" marginwidth="0" marginheight="0" style="border: none; max-width:100%; max-height:100vh" allowfullscreen webkitallowfullscreen mozallowfullscreen msallowfullscreen></iframe>
+
+<iframe width="100%" height="800" src="https://tools.fobizz.com/ai/chats/public_assistants/2caf55b8-f656-4bc8-ada9-02428bf5e5ad?embed=true&token=8a51537f136254571659ab1e771e84df" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
