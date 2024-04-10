@@ -1,5 +1,7 @@
 # 🔍Was ist die Testsorte Stellungnahme?
-Eine **Stellungnahme** ist eine schriftliche Äusserung, in der eine Person ihre Meinung, Position oder Einstellung zu einem bestimmten Thema oder Sachverhalt ausdrücklich darlegt und begründet. Der Schlüssel zu einer effektiven Stellungnahme liegt in der **präzisen Beschreibung des Themas**, dem **Beziehen einer klaren Position** und der **Unterstützung dieser Position durch starke Argumente**. Eine gut geschriebene Stellungnahme zeichnet sich durch eine klare und logische Struktur aus, beginnend mit einer Einführung in das Thema, gefolgt von der Darlegung und Begründung der eigenen Position.
+- Eine **Stellungnahme** ist eine schriftliche Äusserung, in der eine Person ihre Meinung, Position oder Einstellung zu einem bestimmten Thema oder Sachverhalt ausdrücklich darlegt und begründet. 
+- Der Schlüssel zu einer effektiven Stellungnahme liegt in der **präzisen Beschreibung des Themas**, dem **Beziehen einer klaren Position** und der **Unterstützung dieser Position durch starke Argumente**. 
+- Eine gut geschriebene Stellungnahme zeichnet sich durch eine klare und logische Struktur aus, beginnend mit einer Einführung in das Thema, gefolgt von der Darlegung und Begründung der eigenen Position.
 
 # ❗Warum Stellung nehmen?
 - **Förderung kritischen Denkens**: Durch das Formulieren einer Stellungnahme werden analytische Fähigkeiten geschärft, da man ein Thema aus verschiedenen Blickwinkeln betrachten und beurteilen muss.
