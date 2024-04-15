@@ -1,5 +1,5 @@
 >[!tip] Forschungs- & Reflexionsaufgaben
->**Analysieren und bewerten Sie die Effektivität von internationaler Rechtshilfe in Fällen von Internetbetrug.** Untersuchen Sie, wie unterschiedliche Rechtsysteme und internationale Kooperationen die Ermittlung und Strafverfolgung von grenzüberschreitenden Cyberkriminalitätsfällen beeinflussen.
+>1. **Analysieren und bewerten Sie die Effektivität von internationaler Rechtshilfe in Fällen von Internetbetrug.** Untersuchen Sie, wie unterschiedliche Rechtsysteme und internationale Kooperationen die Ermittlung und Strafverfolgung von grenzüberschreitenden Cyberkriminalitätsfällen beeinflussen.
 >**Suchtipps**: Nutzen Sie Fachdatenbanken und Regierungsberichte, um genaue Informationen zu erhalten. Versuchen Sie Suchanfragen wie "international legal cooperation cybercrime", "effectiveness of international legal assistance in fraud cases", oder "challenges in cross-border cybercrime investigations".
 >-
 >2. **Erforschen Sie die psychologischen Techniken, die Betrüger nutzen, um ihre Opfer zu manipulieren.** *Reflektieren Sie darüber, wie diese Techniken entwickelt werden und wie sie sich auf unterschiedliche Bevölkerungsgruppen auswirken könnten.*
