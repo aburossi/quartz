@@ -1,6 +1,6 @@
 >[!tip] Aufträge
 >#### Aufgabe 1: KI als Forschungassistent
-> **Ziel**: Vertiefung des Verständnisses über die Auswirkungen der Pandemie auf die Weiterbildung in Unternehmen.
+> **Ziel**: Vertiefung über die Auswirkungen der Pandemie auf die Weiterbildung in Unternehmen.
 >>[!summary]- **Auftrag**
 >>Verwenden Sie eine KI, um zusätzliche Informationen und Daten über die Auswirkungen von COVID-19 auf die Weiterbildung in verschiedenen Ländern und Branchen zu recherchieren.
 >> - **Forschungsfrage**: Wie haben sich die Weiterbildungspraktiken in verschiedenen Branchen während der Pandemie verändert und welche Auswirkungen hatte dies auf die Mitarbeiterentwicklung?
