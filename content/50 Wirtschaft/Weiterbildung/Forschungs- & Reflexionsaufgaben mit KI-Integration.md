@@ -1,7 +1,7 @@
 >[!tip] Aufträge
 >#### Aufgabe 1: KI als Forschungassistent
 > **Ziel**: Vertiefung über die Auswirkungen der Pandemie auf die Weiterbildung in Unternehmen.
->>[!summary]- **Auftrag**
+>>[!summary]- Auftrag
 >>Verwenden Sie eine KI, um zusätzliche Informationen und Daten über die Auswirkungen von COVID-19 auf die Weiterbildung in verschiedenen Ländern und Branchen zu recherchieren.
 >> - **Forschungsfrage**: Wie haben sich die Weiterbildungspraktiken in verschiedenen Branchen während der Pandemie verändert und welche Auswirkungen hatte dies auf die Mitarbeiterentwicklung?
 >> - **KI-Prompt-Beispiele**:
@@ -15,7 +15,7 @@
 >> - **Forschungsfrage**: Welche innovativen Weiterbildungsansätze könnten Unternehmen helfen, ihre Mitarbeiter auch in Zeiten knapper Budgets effektiv zu schulen?
 >> - **KI-Prompt-Beispiele**:
 >>     - "Generiere Ideen für kosteneffektive Weiterbildungsprogramme während wirtschaftlicher Abschwünge."
->>     - "Entwickele Strategien für virtuelle Weiterbildung, die wenig Ressourcen erfordern aber hohe Effektivität versprechen."
+>>     - "Entwickle Strategien für virtuelle Weiterbildung, die wenig Ressourcen erfordern aber hohe Effektivität versprechen."
 
 [KI-Tool](https://tools.fobizz.com/p/login)
 
