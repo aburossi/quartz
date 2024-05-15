@@ -4,6 +4,22 @@ tags:
   - Technologie
 date: "2024"
 ---
+# 1. Ausgangspunkt
+>[!info] Worum geht es? 
+>> In dieser Einheit beschäftigen wir uns mit dem Thema Demokratie und Gewaltenteilung. Dies sind wichtige Aspekte des politischen Systems in der Schweiz, die sicherstellen, dass keine Einzelperson oder Organisation allein über unsere Zukunft bestimmen kann. Wie leben und erleben wir diese politischen Strukturen im Alltag?
+
+>[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
+>1. 1. **Wie würden Sie persönlich die Bedeutung von Demokratie beschreiben?**
+>2. **Haben Sie schon einmal an einer Diskussion über politische Themen teilgenommen? Wie haben Sie sich dabei gefühlt?** 
+>3. **Glauben Sie, dass das Konzept der Gewaltenteilung in der Schweiz effektiv ist? Warum oder warum nicht?**
+>   
+>>[!info]- Dokumentationswerkzeug 
+>Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
+>>👉 Sie können diese entweder exportieren oder löschen.
+>><iframe width="100%" height="600" src="https://app.Lumi.education/run/rdWSOq" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+# 2. GEWALTENTEILUNGnews
+
 >[!info] Warum es wichtig ist?
 >- Fördert die **politische Mitbestimmung** der Bürger und verhindert die Konzentration der Macht.
 >- Gewährleistet eine **faire und ausgewogene Regierungsführung**, die die Rechte aller Bürger schützt.
@@ -32,26 +48,5 @@ date: "2024"
 >>👉 Sie können diese entweder exportieren oder löschen.
 >><iframe width="100%" height="600" src="https://app.Lumi.education/run/dw_E7K" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 >
-
->[!tip]- Umfrage
->[Link](https://www.menti.com/alzrnewx9ciz) 
->![[Pasted image 20240508064255.png|150]]
->
->>[!example]- Ergebnisse
->><div style='position: relative; padding-bottom: 56.25%; padding-top: 35px; height: 0; overflow: hidden;'><iframe sandbox='allow-scripts allow-same-origin allow-presentation' allowfullscreen='true' allowtransparency='true' frameborder='0' height='315' src='https://www.mentimeter.com/app/presentation/alr67b859p3eke2vauqswavytbvsh54t/embed' style='position: absolute; top: 0; left: 0; width: 100%; height: 100%;' width='420'></iframe></div>
-
->[!info] English-Tutor
->Hier können Sie einen KI-Tutor ausprobieren, der mit Ihnen English plaudert und Ihnen einen Feedback zu Ihre Sprachfähigkeiten gibt.
->[Link](https://tools.fobizz.com/ai/chats/public_assistants/b7a27eb0-71b5-4d78-a01b-4af8c046e43b?token=8fc0b985e36147b1f5a569ddf8777d21)
-
-
->[!question]- Weitere Verständnisfragen
-><iframe width="100%" height="600" src="https://app.Lumi.education/run/PlNvc_" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
-
----
-[[1. Ausgangspunkt Gewaltenteilung]]
-[[3.|3.]]
-[[4.]]
-[[5.]]
 
 ## ➕ EDUshorts
