@@ -47,7 +47,7 @@ date: "2024"
 >6. Wie hat sich das Budget für die Weiterbildung verändert?
 >7. Welche Bedeutung hat das Weiterbildungsgesetz in diesem Kontext?
 >
-> > [!tip] Reflexion 
+> > [!tip] Reflexion
 > > *Wie fühlt es sich an, wenn der Staat in Bildung investiert? Denken Sie darüber nach, wie sich dies auf Ihre persönliche und berufliche Zukunft auswirken könnte.*
 >
 >>[!info]- Dokumentationswerkzeug 
