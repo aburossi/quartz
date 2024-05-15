@@ -9,14 +9,14 @@ date: "2024"
 >> In dieser Einheit beschäftigen wir uns mit dem Thema Demokratie und Gewaltenteilung. Dies sind wichtige Aspekte des politischen Systems in der Schweiz, die sicherstellen, dass keine Einzelperson oder Organisation allein über unsere Zukunft bestimmen kann. Wie leben und erleben wir diese politischen Strukturen im Alltag?
 
 >[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
->1. 1. **Wie würden Sie persönlich die Bedeutung von Demokratie beschreiben?**
+>1. **Wie würden Sie persönlich die Bedeutung von Demokratie beschreiben?**
 >2. **Haben Sie schon einmal an einer Diskussion über politische Themen teilgenommen? Wie haben Sie sich dabei gefühlt?** 
 >3. **Glauben Sie, dass das Konzept der Gewaltenteilung in der Schweiz effektiv ist? Warum oder warum nicht?**
 >   
 >>[!info]- Dokumentationswerkzeug 
 >Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
 >>👉 Sie können diese entweder exportieren oder löschen.
->><iframe width="100%" height="600" src="https://app.Lumi.education/run/rdWSOq" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>><iframe width="100%" height="400" src="https://app.Lumi.education/run/rdWSOq" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 # 2. GEWALTENTEILUNGnews
 
