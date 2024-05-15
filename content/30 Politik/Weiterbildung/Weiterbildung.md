@@ -23,7 +23,6 @@ date: "2024"
 >Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
 >>👉 Sie können diese entweder exportieren oder löschen.
 >><iframe width="100%" height="600" src="https://app.Lumi.education/run/rdWSOq" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
-
 # 2. WEITERBILDUNGnews
 
 >[!info] Warum es wichtig ist?
@@ -48,9 +47,8 @@ date: "2024"
 >6. Wie hat sich das Budget für die Weiterbildung verändert?
 >7. Welche Bedeutung hat das Weiterbildungsgesetz in diesem Kontext?
 >
-> > [!tip]- Reflexion 
+> > [!tip] Reflexion 
 > > *Wie fühlt es sich an, wenn der Staat in Bildung investiert? Denken Sie darüber nach, wie sich dies auf Ihre persönliche und berufliche Zukunft auswirken könnte.*
->
 >
 >>[!info]- Dokumentationswerkzeug 
 >Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
@@ -165,15 +163,13 @@ date: "2024"
 >
 >[[Leserbrief#✔ Bewertung]]
 
-Möchten Sie dazu auch Bewertungsrubriken erhalten?
-   >[!quote] Mein Text:
->>[!warning]- Dokumentationswerkzeug 
+
+>[!quote]- Mein Text
+>>[!info]  
 >Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
 >👉 Sie können diese entweder exportieren oder löschen.
->
 ><iframe width="100%" height="600" src="https://app.Lumi.education/run/KWcs8f" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 
-## ➕ EDUshorts
+# ➕ EDUshorts
 
-## ➕ EDUshorts
