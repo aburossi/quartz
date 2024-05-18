@@ -15,11 +15,13 @@ Here is the markdown template filled with the provided content:
 >3. **Was denken Sie sind die größten Herausforderungen für Menschen mit Beeinträchtigungen im täglichen Leben?**
 >*Welche Maßnahmen könnten Ihrer Meinung nach ergriffen werden, um diesen Herausforderungen zu begegnen?*
 
->[!info]- Dokumentationswerkzeug 
->Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
+>[!info]- Dokumentationswerkzeug
+>>[!info]   
+>>Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
 >>👉 Sie können diese entweder exportieren oder löschen.
->><iframe width="100%" height="600" src="https://app.Lumi.education/run/rdWSOq" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
----
+><iframe width="100%" height="600" src="https://app.Lumi.education/run/rdWSOq" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+
 # 2. Wahlergebnisnews
 
 >[!info] **Warum es wichtig ist?**
@@ -48,10 +50,13 @@ Here is the markdown template filled with the provided content:
 >>*Wie fühlen Sie sich bei der Vorstellung, dass Menschen mit schweren geistigen oder psychischen Beeinträchtigungen wählen dürfen?*
 >>*Erinnert Sie diese Diskussion an andere Debatten über die Rechte von Minderheiten?*
 
->>[!info] **Dokumentationswerkzeug** 
->Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
+>[!quote]- Dokumentationswerkzeug 
+>>[!info]  
+>>Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
 >>👉 Sie können diese entweder exportieren oder löschen.
->>[placeholder iframe]
+><iframe width="100%" height="600" src="https://app.Lumi.education/run/dw_E7K" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+
 
 # Correct Answers
 1. Der Kanton Genf
@@ -86,10 +91,13 @@ Here is the markdown template filled with the provided content:
 >>[!info] **Google-Suche**
 >><iframe width="100%" height="600" src="https://www.google.ch" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
->[!info] **Dokumentationswerkzeug** 
+>[!quote]- Dokumentationswerkzeug
+>>[!info]  
 >Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
->>👉 Sie können diese entweder exportieren oder löschen.
->>[placeholder iframe]
+>👉 Sie können diese entweder exportieren oder löschen.
+><iframe width="100%" height="600" src="https://app.Lumi.education/run/nYkJQz" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+
 
 >[!tip] **Wie weiter? 🔚**
 >[Umfrage](URL)
@@ -122,10 +130,13 @@ Here is the markdown template filled with the provided content:
 
 [KI-Tool](URL)
 
->[!info] **Dokumentationswerkzeug** 
+>[!quote]- Dokumentationswerkzeug
+>>[!info]  
 >Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
->>👉 Sie können diese entweder exportieren oder löschen.
->>[placeholder iframe]
+>👉 Sie können diese entweder exportieren oder löschen.
+><iframe width="100%" height="600" src="https://app.Lumi.education/run/HvNdGA" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+
 
 ---
 
@@ -168,3 +179,10 @@ Here is the markdown template filled with the provided content:
 >- Mögliche Gegenargumente ansprechen und entkräften.
 >
 >[[Bewertungskriterien#Textsorte 3]]
+
+>[!quote]- Dokumentationswerkzeug
+>>[!info]  
+>Ihre Einträge unten werden mit Cookies lokal gespeichert. Es kann sein, dass Sie alte Einträge finden. 
+>👉 Sie können diese entweder exportieren oder löschen.
+><iframe width="100%" height="600" src="https://app.Lumi.education/run/HvNdGA" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
