@@ -20,10 +20,10 @@
 
 >[!tip]- Umfrage
 >1. Frage
->	A. Antwort 1
->	B. Antwort 2
->	C. Antwort 3
->	D. Antwort 4
+>>A. Antwort 1
+>>B. Antwort 2
+>>C. Antwort 3
+>>D. Antwort 4
 >1. Frage
 >	A. Antwort 1
 >	B. Antwort 2

@@ -1,16 +1,16 @@
 # 1. Ausgangspunkt
 >[!info] **Worum geht es?**
-> In dieser Einheit geht es um **Arbeitszeugnisse** und wie **gesundheitliche Gründe** darin erwähnt werden können. Die **Rechtsexpertin Gabriela Baumgartner** gibt Ratschläge zu diesem Thema anhand eines konkreten Falls.
+> In dieser Einheit geht es um die Schwierigkeiten, die auftreten, wenn man aufgrund von Krankheit seine Arbeitsstelle kündigen muss. Wir werden die rechtlichen Aspekte eines Arbeitszeugnisses und die Bedeutung von Angaben zur Gesundheit darin diskutieren.
 
 >[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
->1. **Wie wichtig ist Ihnen ein korrektes Arbeitszeugnis und warum?**
->2. **Was denken Sie über die Erwähnung von Krankheiten in Arbeitszeugnissen?**
->3. **Hatten Sie oder jemand, den Sie kennen, jemals Probleme mit einem Arbeitszeugnis?**
+>1. **Wie würden Sie sich fühlen, wenn Sie aufgrund einer Krankheit Ihre Arbeitsstelle aufgeben müssten?**
+>2. **Sollten gesundheitliche Gründe in einem Arbeitszeugnis erwähnt werden? Warum oder warum nicht?**
+>3. **Was denken Sie, sind die möglichen Vor- und Nachteile, wenn Krankheiten im Arbeitszeugnis erwähnt werden?**
 
 >[!tip]- Wortwolke
->1. Welche Wörter kommen Ihnen in den Sinn, wenn Sie an **Arbeitszeugnisse** denken?
->2. Nennen Sie ein Wort, das **gesundheitliche Gründe** beschreibt.
->3. Was fällt Ihnen zu **Recht auf ein Arbeitszeugnis** ein?
+>1. Was denken Sie, wenn Sie das Wort "Arbeitszeugnis" hören?
+>2. Welche Gefühle haben Sie beim Thema "Gesundheit und Arbeit"?
+>3. Welche Worte fallen Ihnen ein, wenn Sie an "Krankheit und Beruf" denken?
 > ### Teilnahme
 >![[nuvola.jpeg|200]]
 >
@@ -19,63 +19,63 @@
 >>
 >><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-### follow up questions
->*Warum ist ein korrektes Arbeitszeugnis Ihrer Meinung nach wichtig?*
->*Welche Vor- und Nachteile sehen Sie in der Erwähnung von gesundheitlichen Gründen in Arbeitszeugnissen?*
->*Wie könnte man Probleme mit einem Arbeitszeugnis lösen?*
+### Weiterführende Fragen
+>*Wie würden Sie sich fühlen, wenn Sie aufgrund einer Krankheit Ihre Arbeitsstelle aufgeben müssten?*
+>*Sollten gesundheitliche Gründe in einem Arbeitszeugnis erwähnt werden? Warum oder warum nicht?*
+>*Was denken Sie, sind die möglichen Vor- und Nachteile, wenn Krankheiten im Arbeitszeugnis erwähnt werden?*
 
-# 2. Espresso-news
+# Arbeitszeugnis und Gesundheit: Eine Rechtsfrage
 >[!info] **Warum es wichtig ist?**
->- **Arbeitszeugnisse** sind entscheidend für zukünftige Berufschancen.
->- **Gesundheitliche Gründe** im Arbeitszeugnis können die **Beschäftigungsfähigkeit** beeinflussen.
->- Die **rechtliche Beratung** kann Klarheit und Unterstützung bieten.
->- **Missverständnisse** im Zeugnis können zu **Fehlinterpretationen** führen.
->- Ein **transparentes Arbeitszeugnis** kann Vertrauen schaffen.
+>- **Arbeitsrecht**: Verstehen der rechtlichen Grundlagen bei Kündigung aus gesundheitlichen Gründen.
+>- **Gesundheit**: Die Rolle von Gesundheit und Krankheit im Berufsleben.
+>- **Arbeitszeugnis**: Wie gesundheitliche Gründe im Arbeitszeugnis behandelt werden sollten.
+>- **Jobchancen**: Auswirkungen von Gesundheitsangaben auf zukünftige Jobmöglichkeiten.
+>- **Rechtsberatung**: Die Bedeutung von rechtlicher Beratung in Arbeitsfragen.
 
 >[!hint] **Radiobeitrag**
->><audio controls><source src="path_to_audio.mp3"></audio>
+>><audio controls><source src="audiolink"></audio>
 >>Quelle: [Quelle](url)
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
->1. **Warum musste die Frau aus Arbon ihre Stelle kündigen?**
->2. **Was möchte der Mann der Frau im Arbeitszeugnis erwähnt haben?**
->3. **Warum will der Chef diese Information nicht ins Arbeitszeugnis aufnehmen?**
+>1. **Warum musste die Frau aus Arbon ihre Arbeitsstelle kündigen?**
+>2. **Was möchte der Mann aus Arbon im Arbeitszeugnis seiner Frau erwähnen lassen?**
+>3. **Warum ist der Chef gegen diese Formulierung im Arbeitszeugnis?**
 >4. **Was rät die Rechtsexpertin Gabriela Baumgartner der Frau?**
->5. **In welchen Fällen darf laut Bundesgericht eine Krankheit im Arbeitszeugnis erwähnt werden?**
->6. **Warum ist es problematisch, einfach nur „gesundheitliche Gründe“ im Zeugnis zu erwähnen?**
->7. **Was sollte man tun, wenn der Chef etwas über die Gesundheit ins Zeugnis schreibt, womit man nicht einverstanden ist?**
->>[!tip] **Reflexion**
->>*Wie würden Sie sich fühlen, wenn Sie aufgrund einer Krankheit Ihren Job aufgeben müssten?*
->>*Erinnern Sie sich an eine Zeit, als Sie eine schwierige Entscheidung im Beruf treffen mussten? Wie haben Sie die Situation gemeistert?*
+>5. **Wann darf eine Krankheit laut Bundesgericht im Arbeitszeugnis erwähnt werden?**
+>6. **Welche Beispiele nennt Gabriela Baumgartner für Krankheiten, die im Arbeitszeugnis erwähnt werden können?**
+>7. **Wie sollte man vorgehen, wenn der Chef unerwünschte Angaben im Arbeitszeugnis macht?**
+>>[!tip]- Reflexion
+>>*Wie würden Sie sich fühlen, wenn Sie in einer ähnlichen Situation wären wie die Frau aus Arbon?*
+>>*Haben Sie jemals eine Situation erlebt, in der gesundheitliche Probleme Ihre Arbeitsleistung beeinflusst haben? Wie sind Sie damit umgegangen?*
 
 # Correct Answers
-1. Sie musste ihre Stelle aus gesundheitlichen Gründen kündigen.
-2. Er möchte, dass erwähnt wird, dass sie aus gesundheitlichen Gründen gekündigt hat.
-3. Der Chef glaubt, dass diese Information nicht in ein Arbeitszeugnis gehört.
-4. Sie sollte verlangen, dass nur steht, dass sie selbst gekündigt hat, ohne pauschale gesundheitliche Gründe.
-5. Wenn die Krankheit die Arbeitsfähigkeit deutlich beeinträchtigt hat, über längere Zeit zu Ausfällen geführt hat oder der Arbeitgeber wegen der Krankheit gekündigt hat.
-6. Es kann zu Spekulationen führen, was die Person noch arbeiten kann.
-7. Man sollte das Gespräch suchen oder sich rechtlich beraten lassen.
+1. Sie musste ihre Arbeitsstelle aus gesundheitlichen Gründen kündigen.
+2. Dass sie aus gesundheitlichen Gründen gekündigt hat.
+3. Weil er der Meinung ist, dass so eine Bemerkung nicht in ein Arbeitszeugnis gehört.
+4. Sie soll eine Formulierung verlangen, die spezifisch auf ihre Krankheit eingeht, wenn diese bei anderen Tätigkeiten kein Problem darstellt.
+5. Wenn der Arbeitnehmer über Jahre hinweg häufig ausfiel, wenn die Arbeitsleistung stark darunter litt oder wenn der Arbeitgeber deswegen kündigen musste.
+6. Zum Beispiel, wenn ein Chauffeur nicht mehr gut genug sieht und deswegen nicht mehr fahren kann.
+7. Das Gespräch mit dem Chef suchen oder sich rechtlich beraten lassen.
 
 >[!tip]- Umfrage
->1. Was denken Sie, sollte eine Krankheit im Arbeitszeugnis erwähnt werden?
+>1. Denken Sie, dass gesundheitliche Gründe in einem Arbeitszeugnis erwähnt werden sollten?
 >	A. Ja, immer
->	B. Nur in bestimmten Fällen
->	C. Nein, nie
->	D. Ich bin mir nicht sicher
->2. Wie wichtig ist Ihnen ein korrektes Arbeitszeugnis?
->	A. Sehr wichtig
->	B. Wichtig
->	C. Weniger wichtig
->	D. Unwichtig
->3. Haben Sie jemals ein Arbeitszeugnis erhalten, mit dem Sie nicht einverstanden waren?
->	A. Ja, einmal
->	B. Ja, mehrmals
->	C. Nein, nie
->	D. Ich habe noch nie ein Arbeitszeugnis erhalten
->
+>	B. Ja, aber nur in bestimmten Fällen
+>	C. Nein, niemals
+>	D. Unsicher
+>2. Welcher Aspekt ist Ihnen bei einem Arbeitszeugnis am wichtigsten?
+>	A. Ehrlichkeit
+>	B. Positivität
+>	C. Detailliertheit
+>	D. Kürze
+>3. Wie würden Sie reagieren, wenn Ihr Chef eine unerwünschte Bemerkung in Ihr Arbeitszeugnis schreibt?
+>	A. Akzeptieren
+>	B. Gespräch suchen
+>	C. Rechtlichen Rat einholen
+>	D. Nichts unternehmen
 >### Teilnahme
 >![[umfrage 1.jpeg|200]]
+>
 >[Link](https://umfrage.streamlit.app)
 >
 >>[!example]- Ergebnisse
@@ -84,22 +84,22 @@
 
 >[!tip]- Rangliste(n)
 >Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
->1. Welche Information sollte Ihrer Meinung nach unbedingt in ein Arbeitszeugnis?
->	A. Berufliche Leistungen
->	B. Kündigungsgrund
->	C. Gesundheitszustand
->	D. Zwischenmenschliche Fähigkeiten
->2. Was ist der wichtigste Aspekt eines Arbeitszeugnisses?
->	A. Genauigkeit
->	B. Vollständigkeit
->	C. Objektivität
->	D. Positiver Ton
->3. Welche Gründe für eine Kündigung sollten erwähnt werden?
->	A. Persönliche Gründe
->	B. Gesundheitliche Gründe
->	C. Berufswechsel
->	D. Unternehmensinterne Gründe
->
+>1. Welche Informationen sollten Ihrer Meinung nach in einem Arbeitszeugnis enthalten sein?
+>>A. Angaben zur Arbeitsleistung
+>>B. Angaben zu sozialen Kompetenzen
+>>C. Angaben zu gesundheitlichen Gründen (falls relevant)
+>>D. Gründe für die Beendigung des Arbeitsverhältnisses
+>2. Was wäre für Sie der wichtigste Grund, eine Bemerkung zu gesundheitlichen Gründen im Arbeitszeugnis zu akzeptieren?
+>>A. Transparenz gegenüber zukünftigen Arbeitgebern
+>>B. Schutz vor ungerechtfertigten Annahmen
+>>C. Erklärung von Arbeitsunterbrechungen
+>>D. Persönlicher Wunsch nach Offenheit
+>3. Wie würden Sie gesundheitliche Gründe im Arbeitszeugnis formulieren, um zukünftige Chancen zu maximieren?
+>>A. Sehr detailliert
+>>B. Nur bei relevanten Tätigkeiten
+>>C. Allgemein und vage
+>>D. Gar nicht
+
 >### Teilnahme
 >![[rangliste.jpeg|200]]
 >
@@ -109,4 +109,4 @@
 >>
 >><iframe width="100%" height="600" src="https://ranglisten.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-<iframe width="100%" height="600" src="[Hoppla, ist das jetzt ein Vertrag? | Beobachter](https://www.beobachter.ch/konsum/kauf-leasing/hoppla-ist-das-jetzt-ein-vertrag-15398)" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+Möchten Sie ein Bild erstellen lassen, das den Inhalt dieser Einheit darstellt?
