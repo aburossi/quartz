@@ -1,78 +1,95 @@
+# 🔍Was ist es?
+
+Der **Bund** plant, in den nächsten vier Jahren fast **28 Milliarden Franken** für **Bildung, Forschung und Innovation** auszugeben. Dies bedeutet eine Steigerung von etwa **2 Milliarden Franken** im Vergleich zur letzten Vierjahresperiode. Ein signifikanter Teil dieser Investitionen wird in die **Hochschulen** fließen, während auch die **Weiterbildung** zunehmend finanziert wird, um lebenslanges Lernen zu fördern und die Grundkompetenzen zu stärken.
+
+# ❗Warum es wichtig ist?
+
+- **Erhöhung der Bildungsausgaben**: Zusätzliche 2 Milliarden Franken für Bildung, Forschung und Innovation.
+- **Lebenslanges Lernen**: Förderung der Weiterbildung, besonders im Bereich der Grundkompetenzen.
+- **Soziale Ungleichheit**: Versuch, die Bildungsschere zwischen gut und weniger gut Qualifizierten zu schließen.
+- **Internationale Forschung**: Bedeutung der Zusammenarbeit mit EU-Programmen für die Zukunft der Schweizer Forschung.
+
+# ⛏Wie es funktioniert?
+
+- **Investition in Hochschulen**: Mehr als die Hälfte der 28 Milliarden Franken fließen direkt in die Hochschulen, insbesondere in die beiden ETHs.
+- **Weiterbildung**: Steigerung der Ausgaben um mehr als 20 Prozent in den Jahren 2021 bis 2024.
+- **Grundkompetenzen**: Finanzierung von Programmen zur Verbesserung von Sprachkompetenz, Alltagsmathematik und digitalen Fähigkeiten.
+- **Berufsbildung**: Der Bund investiert knapp 4 Milliarden Franken in die Berufsbildung.
+- **Forschung**: 7 Milliarden Franken sollen in die Forschung fließen, wobei ein Teil der Gelder noch gesperrt ist, abhängig von der Zusammenarbeit mit der EU.
+
+# ➕Weitere Quellen
+
+[📄 News über Bildungsausgaben Schweiz](https://www.google.com/search?q=Bildungsausgaben+Schweiz&tbm=nws)  
+[🎞 Videos über Bildungsausgaben Schweiz](https://www.google.com/search?q=Bildungsausgaben+Schweiz&tbm=vid)
+
 # 1. Ausgangspunkt
 >[!info] **Worum geht es?**
-> In dieser Einheit geht es um die geplanten Ausgaben des Bundes für Bildung, Forschung und Innovation in den nächsten vier Jahren. Besonders hervorgehoben wird die Erhöhung der Mittel für die Weiterbildung. **Lebenslanges Lernen** und die Förderung von **Grundkompetenzen** stehen im Mittelpunkt, um die Chancengleichheit im Arbeitsmarkt zu verbessern.
+> In dieser Einheit geht es um die Pläne des Bundes, in den nächsten vier Jahren fast 28 Milliarden Franken in **Bildung**, **Forschung** und **Innovation** zu investieren. Dabei fließt ein Großteil des Geldes in die Hochschulen, aber auch die **Weiterbildung** soll verstärkt gefördert werden.
 
 >[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
->1. **Wie wichtig ist Ihrer Meinung nach lebenslanges Lernen?**
->2. **Welche Vorteile sehen Sie in der Erhöhung der Ausgaben für Weiterbildung?**
->3. **Wie könnten Ihrer Meinung nach Weiterbildungsangebote verbessert werden, um alle Bevölkerungsgruppen zu erreichen?**
+>1. **Wie wichtig ist Ihnen lebenslanges Lernen? Begründen Sie Ihre Antwort.**
+>2. **Was sind Ihrer Meinung nach die größten Herausforderungen in der Bildung?**
+>3. **Wie können Weiterbildungsmöglichkeiten verbessert werden, um allen Menschen zugänglich zu sein?**
 
 >[!tip]- Wortwolke
->1. Was fällt Ihnen ein, wenn Sie an "Bildung" denken?
->2. Welche Wörter verbinden Sie mit "lebenslanges Lernen"?
->3. Was sind die ersten Wörter, die Ihnen bei "Weiterbildung" in den Sinn kommen?
-> ### Teilnahme
->![[nuvola.jpeg|200]]
->
->[Link](https://nuvola.streamlit.app)
->>[!example]- Ergebnisse
->>
->><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>1. Welche Worte kommen Ihnen in den Sinn, wenn Sie an Bildung denken?
+>2. Nennen Sie ein Wort, das lebenslanges Lernen beschreibt.
+>3. Was fällt Ihnen zum Thema Forschung und Innovation ein?
 
 ### Weiterführende Fragen
->*Warum glauben Sie, dass lebenslanges Lernen in der heutigen Zeit so wichtig ist?*
->*Welche spezifischen Vorteile sehen Sie in der Erhöhung der Weiterbildungsausgaben für die Gesellschaft insgesamt?*
->*Wie könnten wir sicherstellen, dass Weiterbildungsprogramme für alle zugänglich sind, unabhängig von deren bisherigen Qualifikationen?*
+>*Wie könnte Ihrer Meinung nach lebenslanges Lernen gefördert werden?*
+>*Was sind die Vorteile und Nachteile der Investition des Bundes in die Hochschulen?*
+>*Welche Rolle spielt die Forschung für die Zukunft der Schweiz?*
 
-# 2. Bildungsausgabennews
+# 2. Bildungsnews
 >[!info] **Warum es wichtig ist?**
->- **Erhöhung der Bildungsbudgets** um 2 Milliarden Franken im Vergleich zur letzten Vierjahresperiode.
->- **Fokus auf Weiterbildung** und lebenslanges Lernen.
->- **Förderung von Grundkompetenzen**, um die Chancengleichheit zu verbessern.
->- **Hälfte des Budgets** geht an Hochschulen, insbesondere die ETHs.
->- **Forschungszusammenarbeit mit der EU** ist ein unsicherer Faktor.
- 
+>- **Bildung** ist entscheidend für die persönliche und berufliche Entwicklung.
+>- **Forschung** fördert Innovation und Fortschritt.
+>- **Weiterbildung** hilft, die Beschäftigungsfähigkeit zu erhalten.
+>- Investitionen in **Grundkompetenzen** stärken die Gesellschaft.
+>- **Internationale Zusammenarbeit** in der Forschung ist für den Fortschritt unerlässlich.
+
 >[!hint] **Radiobeitrag**
 >><audio controls><source src="https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3"></audio>
->>Quelle: [Quelle](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
+>>Quelle: [SRF](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
->1. **Wie viel Geld plant der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation auszugeben?**
->2. **Wohin fließt der größte Teil des Bildungsbudgets?**
->3. **Welcher Bereich erhält zukünftig mehr finanzielle Unterstützung vom Bund?**
->4. **Warum sind die Ausgaben für Weiterbildung besonders wichtig?**
->5. **Wie viel investiert der Bund in die Berufsbildung?**
->6. **Welche Unsicherheiten bestehen bezüglich der Forschungszusammenarbeit mit der EU?**
->7. **Welche Kompetenzbereiche sollen durch die Grundbildung gefördert werden?**
+>1. **Wie viel plant der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation auszugeben?**
+>2. **Welcher Bereich erhält den größten Teil des Bildungsgeldes?**
+>3. **Was soll mit den erhöhten Ausgaben für Weiterbildung erreicht werden?**
+>4. **Warum steigt der Weiterbildungsanteil trotz Erhöhung nur auf gut 150 Millionen Franken?**
+>5. **Welche Rolle spielen die ETHs in den Bundesausgaben für Hochschulen?**
+>6. **Wie viel investiert der Bund in die Berufsbildung?**
+>7. **Was könnte die Teilnahme der Schweiz an EU-Forschungsprogrammen beeinflussen?**
 >>[!tip]- Reflexion
->>*Wie fühlen Sie sich, wenn Sie an Ihre eigenen Weiterbildungsbedürfnisse denken?*
->>*Erinnern Sie sich an eine Zeit, als Sie eine neue Fähigkeit erlernt haben. Wie hat sich das auf Ihr Leben ausgewirkt?*
+>>*Wie fühlen Sie sich, wenn Sie an Ihre eigenen Weiterbildungsmöglichkeiten denken?*
+>>*Erinnern Sie sich an eine Zeit, in der Bildung eine große Rolle in Ihrem Leben gespielt hat?*
 
 # Correct Answers
-1. Fast 28 Milliarden Franken.
-2. Der größte Teil fließt an die Hochschulen, insbesondere die ETHs.
-3. Die Ausgaben für die Weiterbildung werden um mehr als 20 Prozent erhöht.
-4. Die Ausgaben für Weiterbildung sind wichtig, um die Chancengleichheit zu fördern und Grundkompetenzen zu stärken.
-5. Der Bund investiert knapp 4 Milliarden Franken in die Berufsbildung.
-6. Es besteht Unsicherheit darüber, ob Schweizer Forscher weiterhin an EU-Programmen teilnehmen können.
-7. Die Grundbildung soll Sprachkompetenz, Alltagsmathematik und die Nutzung von Computern für einfache Aufgaben fördern.
+1. Fast 28 Milliarden Franken
+2. Die Hochschulen
+3. Förderung der Grundkompetenzen und lebenslanges Lernen
+4. Weil die bisherigen Ausgaben im Vergleich niedrig waren
+5. Sie erhalten einen großen Teil des Budgets
+6. Knapp 4 Milliarden Franken
+7. Ob die Schweiz bereit ist, gleich viel in den EU-Forschungstopf einzuzahlen, wie sie daraus bekommt
 
 >[!tip]- Umfrage
->1. Warum ist die Erhöhung der Bildungsbudgets wichtig?
->	A. Um die Wirtschaft zu stärken
->	B. Um die Qualität der Bildung zu verbessern
->	C. Um die Chancengleichheit zu fördern
->	D. Alle oben genannten Gründe
->2. Welcher Bereich erhält den größten Anteil der Bildungsausgaben?
->	A. Weiterbildung
->	B. Hochschulen
->	C. Berufsbildung
->	D. Forschung
->3. Wie viel wird in die Weiterbildung investiert?
->	A. 150 Millionen Franken
->	B. 4 Milliarden Franken
->	C. 7 Milliarden Franken
->	D. 28 Milliarden Franken
+>1. Wie wichtig ist Ihnen die Weiterbildung?
+>- A. Sehr wichtig
+>- B. Wichtig
+>- C. Weniger wichtig
+>- D. Unwichtig
+>2. In welchen Bereich sollte der Bund mehr investieren?
+>- A. Hochschulen
+>- B. Berufsbildung
+>- C. Weiterbildung
+>- D. Forschung
+>3. Glauben Sie, dass die Erhöhung der Weiterbildungsbudgets die Schere zwischen gut und weniger gut Qualifizierten schließen kann?
+>- A. Ja
+>- B. Nein
+>- C. Vielleicht
+>- D. Weiß nicht
 >### Teilnahme
 >![[umfrage 1.jpeg|200]]
 >
@@ -84,21 +101,22 @@
 
 >[!tip]- Rangliste(n)
 >Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
->1. Welche Bereiche sollten Ihrer Meinung nach priorisiert werden?
->>A. Hochschulen
->>B. Berufsbildung
->>C. Weiterbildung
->>D. Forschung
->2. Welche Kompetenzbereiche sind für lebenslanges Lernen am wichtigsten?
->>A. Sprachkompetenz
->>B. Alltagsmathematik
->>C. Computerkenntnisse
->>D. Kritisches Denken
->3. Welche Faktoren beeinflussen Ihrer Meinung nach die Wirksamkeit von Weiterbildungsprogrammen am meisten?
->>A. Zugang zu Ressourcen
->>B. Qualität der Lehre
->>C. Motivation der Lernenden
->>D. Unterstützung durch den Arbeitgeber
+>1. Welche Bildungsbereiche sollten Priorität haben?
+>- A. Hochschulen
+>- B. Berufsbildung
+>- C. Weiterbildung
+>- D. Forschung
+>2. Welche Kompetenzen sind am wichtigsten für den Arbeitsmarkt?
+>- A. Sprachkompetenz
+>- B. Alltagsmathematik
+>- C. Digitale Fähigkeiten
+>- D. Schriftliches Verständnis
+>3. Wie sollten die 28 Milliarden Franken verteilt werden?
+>- A. Mehr in Hochschulen
+>- B. Mehr in Berufsbildung
+>- C. Mehr in Weiterbildung
+>- D. Gleichmäßig aufgeteilt
+>
 >### Teilnahme
 >![[rangliste.jpeg|200]]
 >
@@ -108,7 +126,11 @@
 >>
 >><iframe width="100%" height="600" src="https://ranglisten.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-Möchten Sie ein Bild erstellen, das den Inhalt darstellt?
+
+---
+[[2. Vertiefung Bildungsausgaben]]
+[[3. Sprache Bildungsausgaben]]
+
 
 
 https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3
