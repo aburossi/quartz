@@ -1,9 +1,11 @@
 # Callouts
-> [!note]
+> [!note] Auftrag
+> Hier werden Aufgaben beschrieben
 
 > [!abstract] Abstract, Summary, Tldr
 
-> [!info] Info, Todo
+> [!info] Informationen
+> hier werden Informationen zum Kontext gegeben
 
 > [!tip] Tip, Hint, Important
 
