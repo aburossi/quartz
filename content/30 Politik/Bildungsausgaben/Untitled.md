@@ -60,7 +60,9 @@
 >6. Etwa 7 Milliarden Franken.
 >7. Ob die Schweiz bereit ist, gleich viel in den EU-Forschungstopf einzuzahlen, wie sie daraus bekommt.
 
->[!tip]- Umfrage ![[umfrage 1.jpeg|200]]
+>[!tip]- Umfrage
+>[Link](https://umfrage.streamlit.app)
+> ![[umfrage 1.jpeg|100]]
 >1. Warum ist lebenslanges Lernen wichtig?
 >- A. Um neue Fähigkeiten zu erlernen.
 >- B. Um beruflich wettbewerbsfähig zu bleiben.
@@ -76,9 +78,7 @@
 >- B. Mathematik.
 >- C. Computerkenntnisse.
 >- D. Soziale Fähigkeiten.
->Teilnahme 👇
->
->[Link](https://umfrage.streamlit.app)
+
 
 >[!question]- ![[rangliste.jpeg|100]] Rangliste(n)
 >Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
@@ -113,7 +113,9 @@
 >[!info]- Ergebnisse
 >## Umfrage
 ><iframe width="100%" height="600" src="https://ergebnisse.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>
 >## Ranglisten
 ><iframe width="100%" height="600" src="https://ranglisten.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>
 >## Offene Fragen
 ><iframe width="100%" height="600" src="https://pin2erge.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
