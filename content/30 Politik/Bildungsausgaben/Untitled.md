@@ -80,7 +80,7 @@
 >
 >[Link](https://umfrage.streamlit.app)
 
->[!tip]- Rangliste(n)
+>[!question]- ![[rangliste.jpeg|100]] Rangliste(n)
 >Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
 >1. Welche Bildungsinvestitionen sind Ihrer Meinung nach am wichtigsten?
 >- A. Hochschulen.
@@ -98,7 +98,7 @@
 >- C. Weniger wichtig.
 >- D. Unwichtig.
 >👇
->![[rangliste.jpeg|200]]
+>![[rangliste.jpeg|50]]
 >
 >[Link](https://rangliste.streamlit.app)
 
