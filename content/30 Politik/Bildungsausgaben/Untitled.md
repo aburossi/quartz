@@ -1,78 +1,82 @@
 # 1. Ausgangspunkt
 >[!info] **Worum geht es?**
-> In dieser Unit geht es um die geplanten Ausgaben des Bundes für **Bildung, Forschung und Innovation** in den nächsten vier Jahren. Der Schwerpunkt liegt auf der **Erhöhung der Mittel** für die Weiterbildung und deren Bedeutung für die **gesellschaftliche Entwicklung**.
+> In dieser Lerneinheit geht es um die geplanten Ausgaben des Bundes für **Bildung, Forschung und Innovation** in den nächsten vier Jahren. Zudem wird der Fokus auf die Förderung der **Weiterbildung** und der Grundkompetenzen gelegt.
+> Die Ziele der Lerneinheit sind: 
+> 1. Verstehen, wie die Bildungsausgaben des Bundes verteilt werden.
+> 2. Erkennen, welche Bedeutung lebenslanges Lernen hat und welche Herausforderungen damit verbunden sind.
 
 >[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
->1. **Wie wichtig ist Weiterbildung in Ihrem Leben?**
->2. **Welche Vorteile sehen Sie in lebenslangem Lernen?**
->3. **Wie könnte die Weiterbildung verbessert werden, um die Schere zwischen gut und weniger gut Qualifizierten zu schließen?**
+>1. **Warum ist lebenslanges Lernen wichtig?**
+>2. **Wie könnte die Schere zwischen gut und weniger gut Qualifizierten geschlossen werden?**
+>3. **Welche Vorteile bringt die Förderung der Grundkompetenzen?**
 
 >[!tip]- Wortwolke
->1. Was kommt Ihnen in den Sinn, wenn Sie an "lebenslanges Lernen" denken?
->2. Welche Wörter beschreiben Ihre Erfahrungen mit Weiterbildung?
->3. Nennen Sie ein Wort, das Bildung für Sie am besten beschreibt.
+>1. Welche Begriffe fallen Ihnen ein, wenn Sie an Bildungsausgaben denken?
+>2. Was verbinden Sie mit dem Begriff "lebenslanges Lernen"?
+>3. Welche Kompetenzen sind Ihrer Meinung nach im Arbeitsmarkt besonders wichtig?
 >Teilnahme 👇
 >![[nuvola.jpeg|200]]
 >
 >[Link](https://nuvola.streamlit.app)
->>[!example]- Ergebnisse
->>
->><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+>[!example]- Ergebnisse Wortwolke
+>
+><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 ### Weiterführende Fragen
->*Wie können mehr Menschen motiviert werden, an Weiterbildungsprogrammen teilzunehmen?*
->*Welche neuen Technologien könnten in der Weiterbildung eingesetzt werden?*
->*Wie könnte die Finanzierung von Weiterbildung gerechter gestaltet werden?*
+>*Warum ist lebenslanges Lernen Ihrer Meinung nach wichtig, auch wenn man bereits gut qualifiziert ist?*
+>*Welche Maßnahmen könnten Ihrer Meinung nach ergriffen werden, um die Bildungsschere zu schließen?*
+>*Welche Grundkompetenzen halten Sie für besonders wichtig und warum?*
 
-# 2. Bildungsinvestitionennews
+# Bund investiert in Bildung, Forschung und Innovation
 >[!info] **Warum es wichtig ist?**
->- Der Bund plant fast **28 Milliarden Franken** für Bildung, Forschung und Innovation auszugeben.
->- Ein **Anstieg von 2 Milliarden Franken** im Vergleich zur letzten Periode.
->- **Lebenslanges Lernen** wird stärker finanziert, was gesellschaftliche Auswirkungen hat.
->- Die **Förderung der Grundkompetenzen** zielt darauf ab, die Kluft zwischen gut und weniger gut Qualifizierten zu verringern.
->- Die Zusammenarbeit mit der **EU in der Forschung** ist von großer Bedeutung für die Schweiz.
+>- **Erhöhung der Bildungsausgaben**: Der Bund erhöht die Bildungsausgaben um 2 Milliarden Franken.
+>- **Fokus auf Hochschulen**: Der Großteil der Mittel geht an Hochschulen, insbesondere die ETHs.
+>- **Förderung der Weiterbildung**: Die Ausgaben für Weiterbildung steigen um mehr als 20 Prozent.
+>- **Lebenslanges Lernen**: Die Bedeutung von lebenslangem Lernen wird hervorgehoben.
+>- **Internationale Forschungszusammenarbeit**: Die Zusammenarbeit mit der EU in der Forschung steht auf dem Prüfstand.
 
 >[!hint] **Radiobeitrag**
 >><audio controls><source src="https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3"></audio>
->>Quelle: [Quelle](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
+>>Quelle: [SRF](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
->1. **Wie viel Geld will der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation ausgeben?**
->2. **Welcher Bereich erhält den Löwenanteil der Bildungsgelder?**
->3. **Was soll mit den zusätzlichen Mitteln in der Weiterbildung gefördert werden?**
->4. **Welche Herausforderungen gibt es bei der Förderung der Grundkompetenzen?**
->5. **Wie viel Prozent steigen die Ausgaben für Weiterbildung in den Jahren 2021 bis 2024?**
->6. **Wie steht es um die Zusammenarbeit der Schweiz mit der EU in der Forschung?**
->7. **Warum ist die Finanzierung der Weiterbildung besonders wichtig für die Zukunft?**
+>1. **Wie viel plant der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation auszugeben?**
+>2. **Wohin fließt der Löwenanteil des Bildungsgeldes?**
+>3. **In welchem Bereich steigen die Ausgaben um mehr als 20 Prozent?**
+>4. **Welche Kompetenzen sollen durch die Förderung der Grundbildung verbessert werden?**
+>5. **Welches Gesetz beeinflusst die neuen Maßnahmen in der Weiterbildung?**
+>6. **Was wird mit den gesperrten Forschungsmitteln des Bundes geschehen?**
+>7. **Von welchen Bedingungen hängt die zukünftige Forschungszusammenarbeit mit der EU ab?**
 >>[!tip]- Reflexion
->>*Wie fühlen Sie sich angesichts der geplanten Erhöhungen der Bildungsausgaben?*
->>*Denken Sie an eine Zeit, als Sie von Weiterbildung profitiert haben. Wie hat das Ihr Leben beeinflusst?*
+>>*Wie fühlt es sich an zu wissen, dass ein großer Teil der Bildungsausgaben in Hochschulen fließt?*
+>>*Denken Sie an eine Zeit, in der Sie eine neue Fähigkeit erlernt haben. Wie hat diese Erfahrung Ihr Leben beeinflusst?*
 
 # Correct Answers
-1. Fast 28 Milliarden Franken.
-2. Die Hochschulen.
-3. Grundkompetenzen wie Sprachkompetenz und Alltagsmathematik.
-4. Die Schere zwischen gut und weniger gut Qualifizierten schließt sich nicht, sondern geht eher weiter auf.
-5. Um mehr als 20 Prozent.
-6. Die Zusammenarbeit hängt von den Verhandlungen zwischen der Schweiz und der EU ab.
-7. Weiterbildung ist die Bildung der Zukunft und wichtig für die Anpassungsfähigkeit der Arbeitskräfte.
+1. Fast 28 Milliarden Franken
+2. An die Hochschulen
+3. Weiterbildung
+4. Sprachkompetenz und Alltagsmathematik
+5. Weiterbildungsgesetz
+6. Sie werden gesperrt, bis klar ist, ob Schweizer Forscherinnen und Forscher weiter bei den EU-Programmen mitmachen können.
+7. Ob die Schweiz bereit ist, gleich viel in den EU-Forschungstopf einzuzahlen, wie sie daraus bekommt.
 
 >[!tip]- Umfrage
->1. Wie wichtig ist Ihnen lebenslanges Lernen?
+>1. Was ist Ihrer Meinung nach der wichtigste Bereich für Bildungsausgaben?
+>- A. Hochschulen
+>- B. Berufsbildung
+>- C. Weiterbildung
+>- D. Forschung
+>2. Welche Rolle spielt lebenslanges Lernen in Ihrer Karriereplanung?
 >- A. Sehr wichtig
 >- B. Wichtig
 >- C. Weniger wichtig
 >- D. Unwichtig
->2. Welcher Bereich sollte Ihrer Meinung nach am meisten von den Bildungsgeldern profitieren?
->- A. Hochschulen
->- B. Berufliche Bildung
->- C. Weiterbildung
->- D. Forschung
->3. Was ist der größte Vorteil von Weiterbildung?
->- A. Persönliche Entwicklung
->- B. Berufliche Chancen
->- C. Soziale Integration
->- D. Technologische Kompetenz
+>3. Welche Grundkompetenzen sind für den Arbeitsmarkt am wichtigsten?
+>- A. Sprachkompetenz
+>- B. Alltagsmathematik
+>- C. Digitale Kompetenz
+>- D. Soziale Kompetenz
 >Teilnahme 👇
 >![[umfrage 1.jpeg|200]]
 >
@@ -84,21 +88,21 @@
 
 >[!tip]- Rangliste(n)
 >Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
->1. Welches der folgenden Bildungsbereiche sollte Ihrer Meinung nach priorisiert werden?
+>1. Welche Bereiche sollten Ihrer Meinung nach mehr finanzielle Unterstützung erhalten?
 >- A. Hochschulen
->- B. Berufliche Bildung
+>- B. Berufsbildung
 >- C. Weiterbildung
 >- D. Forschung
->2. Welche Maßnahmen sollten ergriffen werden, um die Weiterbildung zu verbessern?
->- A. Mehr Finanzierung
->- B. Bessere Programme
->- C. Flexiblere Lernzeiten
->- D. Einsatz neuer Technologien
->3. Welche Vorteile hat die Förderung der Grundkompetenzen für die Gesellschaft?
->- A. Erhöhte Beschäftigungsfähigkeit
->- B. Bessere Integration
->- C. Wirtschaftswachstum
->- D. Soziale Gerechtigkeit
+>2. Wie sollten die Bildungsressourcen verteilt werden, um die Bildungsschere zu schließen?
+>- A. Mehr Unterstützung für schwächer qualifizierte Personen
+>- B. Förderung von Spitzenforschung
+>- C. Stärkere Investitionen in die Grundbildung
+>- D. Unterstützung lebenslangen Lernens
+>3. Welche Maßnahmen würden Sie priorisieren, um die Bildung in der Schweiz zu verbessern?
+>- A. Erhöhung der Mittel für Hochschulen
+>- B. Ausbau der Weiterbildungsmöglichkeiten
+>- C. Verbesserung der Grundkompetenzen
+>- D. Stärkung der internationalen Forschungszusammenarbeit
 >Teilnahme 👇
 >![[rangliste.jpeg|200]]
 >
@@ -107,5 +111,3 @@
 >>[!info]- Ergebnisse
 >>
 >><iframe width="100%" height="600" src="https://ranglisten.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
-
-Möchten Sie ein Bild erstellen, das den Inhalt des Beitrags darstellt?
