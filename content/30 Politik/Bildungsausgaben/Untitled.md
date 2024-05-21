@@ -1,39 +1,37 @@
 # 1. Ausgangspunkt
 >[!info] **Worum geht es?**
-> In dieser Lektionseinheit geht es um die geplanten Investitionen des Bundes in Bildung, Forschung und Innovation. **Bildungsausgaben** und **Weiterbildung** sind zentrale Themen.
-> - Die Schüler*innen lernen die Pläne des Bundes für Bildungsausgaben kennen.
-> - Sie verstehen die Bedeutung von lebenslangem Lernen und Weiterbildung.
+> In dieser Lerneinheit geht es um die zukünftigen Ausgaben des Bundes für Bildung, Forschung und Innovation in der Schweiz. **Lebenslanges Lernen** und **Förderung der Grundkompetenzen** stehen dabei im Vordergrund.
+> - Verstehen der geplanten finanziellen Investitionen des Bundes in die Bildung.
+> - Diskussion über die Bedeutung und Herausforderungen von lebenslangem Lernen.
 
 >[!question] Wählen Sie eine Frage und begründen Sie Ihre Antwort
->1. **Wie wichtig ist Ihnen persönlich lebenslanges Lernen?**
->2. **Haben Sie schon einmal an einer Weiterbildung teilgenommen? Wenn ja, welche?**
->3. **Was halten Sie von den Investitionen des Bundes in die Bildung?**
+>1. **Warum ist lebenslanges Lernen in der heutigen Zeit wichtig?**
+>2. **Welche Rolle spielen Grundkompetenzen im Arbeitsmarkt?**
+>3. **Wie könnten Weiterbildungsangebote für weniger qualifizierte Personen verbessert werden?**
 
 >[!tip]- Wortwolke
->1. Was kommt Ihnen in den Sinn, wenn Sie an lebenslanges Lernen denken?
->2. Welche Begriffe verbinden Sie mit dem Thema Bildungsausgaben?
->3. Was sind die Vorteile von Weiterbildung?
->👇
 >![[nuvola.jpeg|200]]
->
->[Link](https://nuvola.streamlit.app)
+>👉[Link](https://nuvola.streamlit.app)
+>1. Welche Wörter kommen Ihnen in den Sinn, wenn Sie an lebenslanges Lernen denken?
+>2. Nennen Sie ein Wort, das Ihre Einstellung zur Weiterbildung beschreibt.
+>3. Was fällt Ihnen ein, wenn Sie an die Bedeutung von Bildung im Arbeitsmarkt denken?
 
 >[!abstract]- Ergebnisse Wortwolke
 >###
 ><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 >[!quote]- Weiterführende Fragen
->*Warum ist lebenslanges Lernen für die heutige Arbeitswelt wichtig?*
->*Welche Rolle spielt die Weiterbildung in Ihrer persönlichen und beruflichen Entwicklung?*
->*Wie könnten die Investitionen des Bundes in die Bildung die Zukunft der Schweiz beeinflussen?*
+>*Warum glauben Sie, dass lebenslanges Lernen im Trend liegt?*
+>*Welche Herausforderungen könnten bei der Umsetzung von Weiterbildungsprogrammen für weniger qualifizierte Personen auftreten?*
+>*Welche Vorteile sehen Sie in der stärkeren Finanzierung von Grundkompetenzen?*
 
-# 2. Bildungsinvestitionennews
+# 2. Bildungsnews
 >[!warning] **Warum es wichtig ist?**
->- **Bildung** ist ein Schlüsselfaktor für die wirtschaftliche und soziale Entwicklung.
->- **Forschung** trägt zur Innovation und Wettbewerbsfähigkeit bei.
->- **Weiterbildung** fördert die Anpassungsfähigkeit der Arbeitskräfte.
->- **Grundkompetenzen** verbessern die Beschäftigungsfähigkeit.
->- **Internationale Zusammenarbeit** in der Forschung ist für den wissenschaftlichen Fortschritt entscheidend.
+>- **Lebenslanges Lernen** ist entscheidend, um mit den sich ständig ändernden Anforderungen des Arbeitsmarktes Schritt zu halten.
+>- **Bildungsausgaben** spiegeln die Prioritäten einer Gesellschaft wider.
+>- **Grundkompetenzen** sind die Basis für eine erfolgreiche berufliche Laufbahn.
+>- **Hochschulen** erhalten den Großteil der Mittel, was die Bedeutung der akademischen Bildung unterstreicht.
+>- **Internationale Forschungszusammenarbeit** ist für die Schweiz wichtig, um global wettbewerbsfähig zu bleiben.
 
 >[!hint] **Radiobeitrag**
 ><audio controls><source src="https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3"></audio>
@@ -41,75 +39,70 @@
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
 >1. **Wie viel Geld plant der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation auszugeben?**
->2. **Wie viel mehr ist das im Vergleich zur letzten Vierjahresperiode?**
->3. **Welcher Anteil des Bundesfrankens wird künftig in diese Bereiche fließen?**
->4. **Wohin geht der Löwenanteil des Bildungsgeldes?**
->5. **Was ist der neue Schwerpunkt der Bildungsinvestitionen des Bundes?**
->6. **Um wie viel Prozent sollen die Ausgaben für die Weiterbildung steigen?**
->7. **Welcher Bereich erhält nach wie vor die größte Finanzierung?**
+>2. **Welcher Anteil des Bildungsgeldes geht an die Hochschulen?**
+>3. **Warum sind die Ausgaben für die Weiterbildung im Vergleich zu anderen Bildungsbudgets immer noch niedrig?**
+>4. **Was beinhaltet die Förderung der Grundkompetenzen?**
+>5. **Welche Herausforderungen gibt es bei der Forschungszusammenarbeit mit der EU?**
+>6. **Welche Rolle spielt das Weiterbildungsgesetz?**
+>7. **Warum ist die Finanzierung der ETHs und kantonalen Unis von großer Bedeutung?**
 >>[!tip]- Reflexion
->>*Wie fühlen Sie sich angesichts der geplanten Erhöhung der Weiterbildungsausgaben?*
->>*Denken Sie an eine Zeit, in der Sie eine neue Fähigkeit erlernt haben. Was hat Ihnen dabei am meisten geholfen?*
+>>*Wie fühlen Sie sich, wenn Sie über die Bedeutung von Grundkompetenzen nachdenken?*
+>>*Erinnern Sie sich an eine Zeit, in der Sie eine neue Fähigkeit erlernt haben. Wie hat das Ihr Leben beeinflusst?*
 
 >[!success]- Antworten
->1. Fast 28 Milliarden Franken
->2. Etwa 2 Milliarden Franken mehr
->3. Jeder zehnte Bundesfranken
->4. An die Hochschulen
->5. Förderung der Grundkompetenzen
->6. Um mehr als 20 Prozent
->7. Die Hochschulen
+>1. Fast 28 Milliarden Franken.
+>2. Mehr als die Hälfte des Bildungsgeldes.
+>3. Sie bleiben trotz einer Erhöhung um 20 Prozent vergleichsweise niedrig.
+>4. Sprachkompetenz, Alltagsmathematik, Computerkenntnisse und das Verstehen schriftlicher Anweisungen.
+>5. Die Zusammenarbeit hängt von den Verhandlungen zwischen der Schweiz und der EU ab.
+>6. Es stellt sicher, dass Weiterbildung mit dem nötigen Geld ausgestattet wird.
+>7. Sie sind wichtige Bildungseinrichtungen, die direkte Bundesmittel erhalten.
 
 >[!question]- Umfrage
->1. Wie wichtig ist Ihnen die Weiterbildung?
+>![[umfrage 1.jpeg|200]]
+>👉[Link](https://umfrage.streamlit.app)
+>1. Was ist Ihrer Meinung nach der wichtigste Bereich der Bildungsausgaben?
+>- A. Hochschulen
+>- B. Grundkompetenzen
+>- C. Berufsbildung
+>- D. Forschung
+>2. Welche der folgenden Kompetenzen halten Sie für die wichtigste im Arbeitsmarkt?
+>- A. Sprachkompetenz
+>- B. Alltagsmathematik
+>- C. Computerkenntnisse
+>- D. Verstehen schriftlicher Anweisungen
+>3. Wie wichtig ist lebenslanges Lernen für Sie persönlich?
 >- A. Sehr wichtig
 >- B. Wichtig
 >- C. Weniger wichtig
 >- D. Unwichtig
->2. Welche Bildungsinvestitionen des Bundes finden Sie am wichtigsten?
->- A. Hochschulen
->- B. Berufsbildung
->- C. Forschung
->- D. Weiterbildung
->3. Glauben Sie, dass die Erhöhung der Ausgaben für die Weiterbildung einen positiven Effekt haben wird?
->- A. Ja, auf jeden Fall
->- B. Ja, vielleicht
->- C. Nein, wahrscheinlich nicht
->- D. Nein, auf keinen Fall
->👇
->![[umfrage 1.jpeg|200]]
->
->[Link](https://umfrage.streamlit.app)
 
 >[!question]- Rangliste(n)
->Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
->1. Welche Bildungsbereiche sollten Ihrer Meinung nach am meisten finanziert werden?
->- A. Hochschulen
->- B. Berufsbildung
->- C. Forschung
->- D. Weiterbildung
->2. Wie sollten die zusätzlichen 2 Milliarden Franken verteilt werden?
->- A. Hochschulen
->- B. Berufsbildung
->- C. Forschung
->- D. Weiterbildung
->3. Was sind die wichtigsten Faktoren für lebenslanges Lernen?
->- A. Zugang zu Bildung
->- B. Motivation der Lernenden
->- C. Qualität der Bildungsangebote
->- D. Unterstützung durch den Arbeitgeber
->👇
 >![[rangliste.jpeg|200]]
->
->[Link](https://rangliste.streamlit.app)
+>👉[Link](https://rangliste.streamlit.app)
+>Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
+>1. Welcher Bereich sollte Ihrer Meinung nach am meisten finanziert werden?
+>- A. Hochschulen
+>- B. Grundkompetenzen
+>- C. Berufsbildung
+>- D. Forschung
+>2. Welche Kompetenzen sollten vorrangig gefördert werden?
+>- A. Sprachkompetenz
+>- B. Alltagsmathematik
+>- C. Computerkenntnisse
+>- D. Verstehen schriftlicher Anweisungen
+>3. Welche Aspekte des lebenslangen Lernens sind am wichtigsten?
+>- A. Zugang zu Weiterbildung
+>- B. Qualität der Kurse
+>- C. Anerkennung der Abschlüsse
+>- D. Flexibilität der Programme
 
 >[!question]- Offene Fragen
->1. Wie können Sie persönlich von den erhöhten Ausgaben für Weiterbildung profitieren?
->2. Welche Herausforderungen sehen Sie bei der Umsetzung der neuen Bildungsinvestitionen?
->3. Welche Maßnahmen könnten Ihrer Meinung nach ergriffen werden, um die Weiterbildung für alle zugänglicher zu machen?
->👇
+>1. Wie hat sich Ihre Einstellung zur Bildung durch diesen Radiobeitrag verändert?
+>2. Welche Maßnahmen würden Sie ergreifen, um die Weiterbildung für weniger qualifizierte Personen attraktiver zu gestalten?
+>3. Welche Vorteile sehen Sie in der internationalen Forschungszusammenarbeit für die Schweiz?
 >![[pin2.jpeg|200]]
->[Link](https://pinboard2.streamlit.app)
+>👉[Link](https://pinboard2.streamlit.app)
 
 >[!abstract]- Ergebnisse
 >## Umfrage
@@ -121,157 +114,141 @@
 >## Offene Fragen
 ><iframe width="100%" height="600" src="https://pin2erge.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-# 3. Forschungsaufgaben
+# 3. Vertiefende Aufgaben
+>[!hint] **Radiobeitrag**
+><audio controls><source src="https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3"></audio>
+>Quelle: [Quelle](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
 
 >[!question] Forschungsaufgaben
->**Die Schüler sollen **kritisch denken** und ihre **Forschungsfähigkeiten** entwickeln, indem sie tiefere Erkundungen des Themas durchführen.**
-
+>Im folgenden Abschnitt geht es darum, die Bedeutung und die Auswirkungen der Bildungsinvestitionen des Bundes sowie des lebenslangen Lernens zu erforschen und kritisch zu hinterfragen.
+>#
 >## Aufgabe 1: 
->**Finden Sie Quellen, die die geplanten Bildungsinvestitionen des Bundes und deren Auswirkungen analysieren**. 
+>**Finden Sie Quellen, die die Bedeutung von lebenslangem Lernen und dessen Herausforderungen behandeln.** 
 >>[!summary]- Auftrag
->>Erstellen Sie eine Mindmap zu den zentralen Themen, die mit den geplanten Bildungsinvestitionen des Bundes zusammenhängen. Beginnen Sie mit den Hauptbereichen (Hochschulen, Berufsbildung, Weiterbildung, Forschung) und fügen Sie relevante Unterthemen hinzu, wie z.B. die Bedeutung der Förderung von Grundkompetenzen und die Rolle der internationalen Forschungszusammenarbeit.
+>>Erstellen Sie eine Mindmap zu den zentralen Themen des lebenslangen Lernens. Beginnen Sie mit dem Hauptthema in der Mitte und fügen Sie dann Zweige für verschiedene Aspekte wie Bedeutung, Herausforderungen, Vorteile und Beispiele hinzu.
 >>>**Suchbeispiele**: 
->>     - `define:Bildungsinvestitionen`
->>     - `site:.ch AND "Bildungsinvestitionen 2021-2024"`
->>     - `site:edu OR site:gov "Bildungsausgaben Schweiz"`
-
+>>     - define:lebenslanges Lernen
+>>     - "Herausforderungen lebenslanges Lernen" AND "Schweiz"
+>>     - site:edu "Vorteile lebenslanges Lernen"
+>#
 >## Aufgabe 2: 
->**Untersuchen Sie die Bedeutung der Weiterbildung und ihre Auswirkungen auf den Arbeitsmarkt**. 
+>**Finden Sie Quellen, die die Auswirkungen der Förderung von Grundkompetenzen auf den Arbeitsmarkt untersuchen.** 
 >>[!summary]- Auftrag
->>Erstellen Sie eine Mindmap, die die Vorteile der Weiterbildung für den Arbeitsmarkt und die individuellen Karrierechancen darstellt. Untersuchen Sie, wie die Weiterbildung dazu beiträgt, die Beschäftigungsfähigkeit zu verbessern und welche Herausforderungen dabei auftreten können.
+>>Erstellen Sie eine Mindmap, die die verschiedenen Auswirkungen der Förderung von Grundkompetenzen auf den Arbeitsmarkt zeigt. Beginnen Sie mit dem Hauptthema in der Mitte und fügen Sie dann Zweige für verschiedene Aspekte wie Auswirkungen, Beispiele, Herausforderungen und Lösungen hinzu.
 >>>**Suchbeispiele**: 
->>     - `define:Weiterbildung`
->>     - `"Weiterbildung Arbeitsmarkt" AND Schweiz`
->>     - `site:edu OR site:.ch "Vorteile der Weiterbildung"`
-
+>>     - define:Grundkompetenzen
+>>     - "Förderung Grundkompetenzen" AND "Arbeitsmarkt"
+>>     - site:ch "Auswirkungen Grundkompetenzen"
+>#
 >## Aufgabe 3: 
->**Vergleichen Sie die Bildungsinvestitionen der Schweiz mit denen anderer Länder**. 
+>**Finden Sie Quellen, die die Bedeutung der internationalen Forschungszusammenarbeit für die Schweiz beleuchten.** 
 >>[!summary]- Auftrag
->>Erstellen Sie eine Mindmap, die die Bildungsinvestitionen der Schweiz mit denen von mindestens zwei anderen Ländern vergleicht. Betrachten Sie dabei sowohl die absoluten Ausgaben als auch den Anteil des Budgets, der in Bildung, Forschung und Innovation fließt.
+>>Erstellen Sie eine Mindmap, die die Bedeutung der internationalen Forschungszusammenarbeit für die Schweiz darstellt. Beginnen Sie mit dem Hauptthema in der Mitte und fügen Sie dann Zweige für verschiedene Aspekte wie Bedeutung, Vorteile, Herausforderungen und Beispiele hinzu.
 >>>**Suchbeispiele**: 
->>     - `define:Bildungsbudget`
->>     - `Bildungsinvestitionen Schweiz vs Deutschland`
->>     - `site:gov AND "Bildungsinvestitionen Vergleich"`
+>>     - define:internationale Forschungszusammenarbeit
+>>     - "Schweiz EU Forschungszusammenarbeit"
+>>     - site:edu "Bedeutung Forschungszusammenarbeit"
 
 >[!tip]- Reflexion der Recherche
->**Reflektieren Sie Ihre persönlichen Erkenntnisse aus der Recherche und halten Sie diese auf einer Pinnwand fest**.
+>**Halten Sie Ihre persönlichen Erkenntnisse der Recherche auf einer Pinnwand fest.**
 >#### Teilnahme
->>![[pinboard.jpeg|200]]
+>>![[pinboard.jpeg]]
 >
 >[Link](https://pinboard.streamlit.app)
 >>[!example]- Ergebnisse
 >>
 >><iframe width="100%" height="600" src="https://pinerge.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-# 4. Vertiefung mit KI
+---
 
 >[!question] Vertiefung mit KI
->**Die Schüler sollen **KI-Tools** nutzen, um ihre **Forschung zu vertiefen**, kreative Ideen zu entwickeln und ihre **kritischen Denkfähigkeiten** zu verbessern.**
-
+>In diesem Abschnitt geht es darum, wie KI-Tools zur Unterstützung bei der Recherche, Argumentation und Ideenfindung genutzt werden können.
+>
 >>[!example] Tools
 >>⛏ [Fobizz](https://tools.fobizz.com/go)
 >>⛏ [LLama3](https://www.llama2.ai/)
 >>⛏ [ChatGPT](https://chatgpt.com/)
-
+>#
 >## Aufgabe 1: **KI als Forschungsassistent**
-> **Ziel**: Vertiefung über die geplanten Bildungsinvestitionen des Bundes.
+> **Ziel**: Vertiefung über die Förderung der Grundkompetenzen.
 >>[!summary]- Auftrag
->>Verwenden Sie eine KI, um zusätzliche Informationen und Daten über die geplanten Bildungsinvestitionen des Bundes zu recherchieren. Erstellen Sie eine Mindmap, um die Erkenntnisse aus der Dialog mit der KI übersichtlich zu erfassen.
->> - **Forschungsfrage**: Wie werden die geplanten Bildungsinvestitionen des Bundes die Zukunft der Bildung in der Schweiz beeinflussen?
+>>Verwenden Sie eine KI, um zusätzliche Informationen und Daten über die Förderung der Grundkompetenzen zu recherchieren.
+>>Erstellen Sie eine Mindmap, um die Erkenntnisse aus dem Dialog mit der KI übersichtlich zu erfassen.
+>> - **Forschungsfrage**: Welche Auswirkungen hat die Förderung der Grundkompetenzen auf den Arbeitsmarkt?
 >> - **KI-Prompt-Beispiele**:
->>     - `Erkläre mir die geplanten Bildungsinvestitionen des Bundes`
->>     - `Welche Auswirkungen haben die Bildungsinvestitionen auf die Hochschulen?`
->>     - `Wie fördern die Bildungsinvestitionen die Weiterbildung in der Schweiz?`
-
+>>     - Erkläre mir die Bedeutung der Förderung von Grundkompetenzen.
+>>     - Welche Herausforderungen gibt es bei der Förderung von Grundkompetenzen?
+>>     - Nenne Beispiele für erfolgreiche Programme zur Förderung von Grundkompetenzen.
+>#
 >## Aufgabe 2: **KI als Argumenten-Entwickler**
-> **Ziel**: Entwicklung von Argumenten für die Bedeutung der Weiterbildung.
+> **Ziel**: Entwicklung von Argumenten für die Wichtigkeit der internationalen Forschungszusammenarbeit.
 >>[!summary]- Auftrag
->> Nutzen Sie KI, um Argumente für die Bedeutung der Weiterbildung zu entwickeln. Erstellen Sie eine Mindmap, die sowohl die positiven Aspekte als auch mögliche Herausforderungen darstellt.
->> - **Forschungsfrage**: Warum ist die Weiterbildung für die berufliche Entwicklung wichtig?
+>> Nutzen Sie KI, um Argumente für die Bedeutung der internationalen Forschungszusammenarbeit für die Schweiz zu entwickeln.
+>> - **Forschungsfrage**: Warum ist die internationale Forschungszusammenarbeit für die Schweiz wichtig?
 >> - **KI-Prompt-Beispiele**:
->>     - `Erkläre mir die Bedeutung der Weiterbildung`
->>     - `Welche Vorteile bietet die Weiterbildung für die berufliche Entwicklung?`
->>     - `Welche Herausforderungen gibt es bei der Weiterbildung?`
-
+>>     - Erkläre mir die Vorteile der internationalen Forschungszusammenarbeit.
+>>     - Welche Herausforderungen gibt es bei der internationalen Forschungszusammenarbeit?
+>>     - Nenne Beispiele für erfolgreiche internationale Forschungsprojekte.
+>#
 >## Aufgabe 3: **KI als Brainstorming-Instrument**
-> **Ziel**: Entwicklung kreativer Ideen zur Verbesserung des Weiterbildungssystems.
+> **Ziel**: Entwicklung von Ideen zur Verbesserung der Weiterbildungsangebote für weniger qualifizierte Personen.
 >>[!summary]- Auftrag
->> Nutzen Sie KI, um kreative Ideen zur Verbesserung des Weiterbildungssystems in der Schweiz zu entwickeln. Erstellen Sie eine Mindmap mit den besten Vorschlägen und Ansätzen.
->> - **Forschungsfrage**: Wie kann das Weiterbildungssystem in der Schweiz verbessert werden?
+>> Nutzen Sie KI, um Ideen zur Verbesserung der Weiterbildungsangebote für weniger qualifizierte Personen zu entwickeln.
+>> - **Forschungsfrage**: Wie können Weiterbildungsangebote für weniger qualifizierte Personen verbessert werden?
 >> - **KI-Prompt-Beispiele**:
->>     - `Generiere 10 Ideen zur Verbesserung des Weiterbildungssystems`
->>     - `Kombiniere mehrere Ideen zu neuen Ansätzen`
->>     - `Erkläre mir, wie man die Weiterbildung zugänglicher machen kann`
+>>     - Erkläre mir die aktuellen Herausforderungen bei Weiterbildungsangeboten für weniger qualifizierte Personen.
+>>     - Generiere 10 Ideen zur Verbesserung der Weiterbildungsangebote.
+>>     - Kombiniere mehrere Ideen zu neuen, innovativen Vorschlägen.
 
 >[!tip]- Reflexion KI-Nutzung
->**Reflektieren Sie Ihre persönlichen Erkenntnisse aus der KI Nutzung und halten Sie diese auf einer Pinnwand fest**.
+>**Halten Sie Ihre persönlichen Erkenntnisse aus der KI-Nutzung auf einer Pinnwand fest.**
 >#### Teilnahme
->>![[pinboard.jpeg|200]]
+>>![[pinboard.jpeg]]
 >
 >[Link](https://pinboard.streamlit.app)
 >>[!example]- Ergebnisse
 >>
 >><iframe width="100%" height="600" src="https://pinerge.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-# 5. Textaufgaben
+---
+
+# Sprachaufgaben
+
+>[!hint] **Radiobeitrag**
+>><audio controls><source src="https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3"></audio>
+>>Quelle: [Quelle](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
 
 >[!tip] **Auftrag**
 >Wählen Sie **eine der folgenden Textsorten** und verfassen Sie einen Text, der die Kriterien erfüllt.
 >
->👉 Sie können die **Kriterien** der Textsorte mit dem **Schwebefensterfunktion** einblenden
+>👉 Sie können die **Kriterien** der Textsorte mit der **Schwebefensterfunktion** einblenden
 
->[!info]- **[[Stellungnahme]]**
->Ziel: Eine persönliche oder wissenschaftliche Haltung zu den geplanten Bildungsinvestitionen des Bundes darlegen und argumentativ untermauern.
+>[!info]- **[[Stellungnahme]]**  
+>Ziel: Präsentieren und rechtfertigen Sie eine persönliche oder wissenschaftliche Haltung zur geplanten Erhöhung der Bildungsausgaben des Bundes. 
 >Anleitung:
-> - **Einleitung**: Stellen Sie das Thema der Bildungsinvestitionen des Bundes vor.
-> - **Position**: Formulieren Sie Ihre Haltung klar und präzise.
-> - **Argumentation**: Entwickeln Sie Ihre Argumente in logischer Reihenfolge und stützen Sie sie mit Beweisen oder logischen Überlegungen.
-> - **Schlussfolgerung**: Fassen Sie Ihre Hauptpunkte zusammen und bekräftigen Sie Ihre Position.
+>  - Definieren Sie das Thema: "Erhöhung der Bildungsausgaben des Bundes".
+>  - Stellen Sie klar Ihre Position dar.
+>  - Entwickeln Sie Ihre Argumente in einer logischen Reihenfolge, unterstützt durch Belege oder logische Überlegungen.
+>  - Fassen Sie Ihre Hauptpunkte zusammen und bekräftigen Sie Ihre Position im Schlussabschnitt.
+>
+>[[Stellungnahme#✔ Bewertung]]
 
->[!info]- **[[Kommentar]]**
->Ziel: Eine persönliche oder fachliche Meinung zu den Bildungsinvestitionen des Bundes äußern, überzeugend und prägnant.
+>[!info]- **[[Kommentar]]**  
+>Ziel: Äußern Sie Ihre persönliche Meinung zu den geplanten Bildungsausgaben und ihrer Verteilung. 
 >Anleitung:
-> - **Einleitung**: Setzen Sie den Kontext der Bildungsinvestitionen und ihre Relevanz.
-> - **Meinung**: Formulieren Sie Ihre Meinung deutlich.
-> - **Begründung**: Unterstützen Sie Ihre Meinung mit stichhaltigen Argumenten und Beispielen.
-> - **Schluss**: Schließen Sie mit einer starken Aussage, die Ihre Meinung unterstreicht.
+>  - Beginnen Sie mit einer kurzen Einführung zum Thema.
+>  - Stellen Sie Ihre Meinung klar dar.
+>  - Unterstützen Sie Ihre Meinung mit gut begründeten Argumenten, Beispielen oder Statistiken.
+>  - Schreiben Sie ansprechend und direkt, um Ihre Leser zu überzeugen.
+>
+>[[Kommentar#✔ Bewertung]]
 
->[!info]- **[[Beschreibung]]**
->Ziel: Eine detaillierte und lebendige Schilderung der Bildungsinvestitionen des Bundes und deren Auswirkungen geben.
+>[!info]- **[[Beschreibung]]**  
+>Ziel: Schildern Sie die geplanten Maßnahmen zur Förderung der Grundkompetenzen detailliert und anschaulich. 
 >Anleitung:
-> - **Einführung**: Stellen Sie das Thema der Bildungsinvestitionen vor.
-> - **Details**: Beschreiben Sie die verschiedenen Aspekte der Bildungsinvestitionen (z.B. Verteilung der Mittel, Schwerpunkte).
-> - **Sinneseindrücke**: Nutzen Sie anschauliche Sprache, um ein lebendiges Bild zu vermitteln.
-> - **Schluss**: Reflektieren Sie die Bedeutung oder den Einfluss der Bildungsinvestitionen.
-
-# 6. Bewertungskriterien
-
->[!info] **Bewertungskriterien für jede Textsorte**
->### Stellungnahme
-> - **Klarheit der Position**: Wie deutlich und präzise ist die Haltung formuliert?
-> - **Struktur und Logik der Argumentation**: Wie gut sind die Argumente organisiert und logisch aufgebaut?
-> - **Belege und Begründungen**: Wie überzeugend und fundiert sind die Beweise und Argumente?
-> - **Schlussfolgerung**: Wie gut fasst der Schluss die Hauptpunkte zusammen und stärkt die Position?
-
->### Kommentar
-> - **Relevanz der Meinung**: Wie gut wird die Relevanz des Themas dargestellt?
-> - **Klarheit der Meinung**: Wie deutlich und präzise ist die Meinung formuliert?
-> - **Stichhaltigkeit der Argumente**: Wie gut sind die Argumente und Beispiele gewählt und dargestellt?
-> - **Überzeugungskraft des Schlusses**: Wie stark ist die abschließende Aussage?
-
->### Beschreibung
-> - **Detailliertheit**: Wie detailliert und genau sind die verschiedenen Aspekte beschrieben?
-> - **Anschaulichkeit der Sprache**: Wie lebendig und anschaulich ist die Sprache?
-> - **Struktur der Beschreibung**: Wie gut ist die Beschreibung organisiert?
-> - **Reflexion der Bedeutung**: Wie gut wird die Bedeutung oder der Einfluss der Bildungsinvestitionen reflektiert?
-
-# 7. Abschlussdiskussion
-
->[!quote]- Diskussionsfragen
->1. **Wie könnten die Bildungsinvestitionen die Zukunft der Schweiz beeinflussen?**
->2. **Welche Bereiche der Bildung sollten Ihrer Meinung nach mehr Unterstützung erhalten und warum?**
->3. **Was sind die größten Herausforderungen bei der Umsetzung der neuen Bildungsinvestitionen?**
-
->[!summary]- Ergebnisse der Diskussion
->## Ergebnisse
-><iframe width="100%" height="600" src="https://diskussion.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>  - Einleiten mit einer Vorstellung des Themas.
+>  - Verwenden Sie anschauliche Sprache, um die Maßnahmen lebendig zu beschreiben.
+>  - Fokussieren Sie sich auf spezifische Details und deren Einzigartigkeit.
+>  - Schließen Sie mit einer persönlichen Reflexion zur Bedeutung dieser Maßnahmen.
+>
+>[[Beschreibung#✔ Bewertung]]
