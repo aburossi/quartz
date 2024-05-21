@@ -16,8 +16,8 @@
 >2. Nennen Sie ein Wort, das Ihre Einstellung zur Weiterbildung beschreibt.
 >3. Was fällt Ihnen ein, wenn Sie an die Bedeutung von Bildung im Arbeitsmarkt denken?
 
->[!abstract]- Ergebnisse Wortwolke
->###
+>[!abstract]- Ergebnisse 
+>#### Wortwolke
 ><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 >[!quote]- Weiterführende Fragen
