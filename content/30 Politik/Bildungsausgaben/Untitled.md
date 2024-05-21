@@ -1,19 +1,18 @@
 # 1. Ausgangspunkt
 >[!info] **Worum geht es?**
-> In dieser Lerneinheit geht es um die geplanten Ausgaben des Bundes für **Bildung, Forschung und Innovation** in den nächsten vier Jahren. Zudem wird der Fokus auf die Förderung der **Weiterbildung** und der Grundkompetenzen gelegt.
-> Die Ziele der Lerneinheit sind: 
-> 1. Verstehen, wie die Bildungsausgaben des Bundes verteilt werden.
-> 2. Erkennen, welche Bedeutung lebenslanges Lernen hat und welche Herausforderungen damit verbunden sind.
+> In dieser Lerneinheit geht es um die geplanten Investitionen des Bundes in die Bereiche Bildung, Forschung und Innovation. Ein besonderer Schwerpunkt liegt auf den steigenden Ausgaben für die Weiterbildung und deren Bedeutung für den Arbeitsmarkt.
+> - Verstehen der Verteilung der Bildungsfinanzierung in der Schweiz.
+> - Erkennen der Bedeutung der Weiterbildung und der Grundkompetenzen für den Arbeitsmarkt.
 
->[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
->1. **Warum ist lebenslanges Lernen wichtig?**
->2. **Wie könnte die Schere zwischen gut und weniger gut Qualifizierten geschlossen werden?**
->3. **Welche Vorteile bringt die Förderung der Grundkompetenzen?**
+>[!question] Wählen Sie eine Frage und begründen Sie Ihre Antwort
+>1. **Wie wichtig ist lebenslanges Lernen für Ihre berufliche Zukunft?**
+>2. **Warum könnte der Bund mehr in Weiterbildung investieren wollen?**
+>3. **Welche Rolle spielen Grundkompetenzen im Arbeitsmarkt von heute?**
 
 >[!tip]- Wortwolke
->1. Welche Begriffe fallen Ihnen ein, wenn Sie an Bildungsausgaben denken?
->2. Was verbinden Sie mit dem Begriff "lebenslanges Lernen"?
->3. Welche Kompetenzen sind Ihrer Meinung nach im Arbeitsmarkt besonders wichtig?
+>1. Was kommt Ihnen in den Sinn, wenn Sie an Bildungsausgaben denken?
+>2. Welche Wörter fallen Ihnen zu lebenslangem Lernen ein?
+>3. Wie würden Sie die Bedeutung von Forschung beschreiben?
 >Teilnahme 👇
 >![[nuvola.jpeg|200]]
 >
@@ -23,91 +22,98 @@
 >
 ><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-### Weiterführende Fragen
->*Warum ist lebenslanges Lernen Ihrer Meinung nach wichtig, auch wenn man bereits gut qualifiziert ist?*
->*Welche Maßnahmen könnten Ihrer Meinung nach ergriffen werden, um die Bildungsschere zu schließen?*
->*Welche Grundkompetenzen halten Sie für besonders wichtig und warum?*
+>[!quote]- Weiterführende Fragen
+>*Was sind die wichtigsten Gründe für lebenslanges Lernen in Ihrem Berufsfeld?*
+>*In welchen Bereichen könnte mehr Weiterbildung besonders nützlich sein?*
+>*Welche Herausforderungen könnten bei der Förderung von Grundkompetenzen auftreten?*
 
-# Bund investiert in Bildung, Forschung und Innovation
+# 2. Bildung, Forschung und Innovation
 >[!info] **Warum es wichtig ist?**
->- **Erhöhung der Bildungsausgaben**: Der Bund erhöht die Bildungsausgaben um 2 Milliarden Franken.
->- **Fokus auf Hochschulen**: Der Großteil der Mittel geht an Hochschulen, insbesondere die ETHs.
->- **Förderung der Weiterbildung**: Die Ausgaben für Weiterbildung steigen um mehr als 20 Prozent.
->- **Lebenslanges Lernen**: Die Bedeutung von lebenslangem Lernen wird hervorgehoben.
->- **Internationale Forschungszusammenarbeit**: Die Zusammenarbeit mit der EU in der Forschung steht auf dem Prüfstand.
+>- **Bildungsfinanzierung**: Verteilung der Bundesmittel auf verschiedene Bildungsbereiche.
+>- **Weiterbildung**: Wachsende Bedeutung und steigende Investitionen.
+>- **Grundkompetenzen**: Fokus auf Sprachkompetenz und Alltagsmathematik.
+>- **Forschung**: Einfluss von EU-Programmen und internationale Zusammenarbeit.
+>- **Arbeitsmarkt**: Bedeutung von Weiterbildung für die berufliche Qualifikation.
 
 >[!hint] **Radiobeitrag**
 >><audio controls><source src="https://download-media.srf.ch/world/audio/Echo-der-Zeit-radio/2020/02/Echo-der-Zeit_26-02-2020-1808.mp3"></audio>
->>Quelle: [SRF](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
+>>Quelle: [Quelle](https://www.srf.ch/play/radio/redirect/detail/4c607f2f-e21c-49da-aa79-ff878085555f)
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
->1. **Wie viel plant der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation auszugeben?**
->2. **Wohin fließt der Löwenanteil des Bildungsgeldes?**
->3. **In welchem Bereich steigen die Ausgaben um mehr als 20 Prozent?**
+>1. **Wie viel will der Bund in den nächsten vier Jahren für Bildung, Forschung und Innovation ausgeben?**
+>2. **Welcher Bereich erhält den größten Anteil des Bildungsgeldes?**
+>3. **Warum werden die Ausgaben für Weiterbildung um mehr als 20 Prozent steigen?**
 >4. **Welche Kompetenzen sollen durch die Förderung der Grundbildung verbessert werden?**
->5. **Welches Gesetz beeinflusst die neuen Maßnahmen in der Weiterbildung?**
->6. **Was wird mit den gesperrten Forschungsmitteln des Bundes geschehen?**
->7. **Von welchen Bedingungen hängt die zukünftige Forschungszusammenarbeit mit der EU ab?**
+>5. **Wie viel investiert der Bund in die Berufsbildung?**
+>6. **Wie viel Geld soll in die Forschung fließen?**
+>7. **Was ist ein entscheidender Faktor für die Teilnahme der Schweiz an EU-Forschungsprogrammen?**
 >>[!tip]- Reflexion
->>*Wie fühlt es sich an zu wissen, dass ein großer Teil der Bildungsausgaben in Hochschulen fließt?*
->>*Denken Sie an eine Zeit, in der Sie eine neue Fähigkeit erlernt haben. Wie hat diese Erfahrung Ihr Leben beeinflusst?*
+>>*Wie fühlen Sie sich bei der Vorstellung, dass der Bund mehr in Weiterbildung investiert?*
+>>*Denken Sie an eine Zeit, in der Sie durch Weiterbildung neue Fähigkeiten erworben haben. Wie hat das Ihre beruflichen Chancen verbessert?*
 
-# Correct Answers
-1. Fast 28 Milliarden Franken
-2. An die Hochschulen
-3. Weiterbildung
-4. Sprachkompetenz und Alltagsmathematik
-5. Weiterbildungsgesetz
-6. Sie werden gesperrt, bis klar ist, ob Schweizer Forscherinnen und Forscher weiter bei den EU-Programmen mitmachen können.
-7. Ob die Schweiz bereit ist, gleich viel in den EU-Forschungstopf einzuzahlen, wie sie daraus bekommt.
+>[!success]- Antworten
+>1. Fast 28 Milliarden Franken.
+>2. Die Hochschulen.
+>3. Aufgrund der Förderung der Grundkompetenzen.
+>4. Sprachkompetenz und Alltagsmathematik.
+>5. Knapp 4 Milliarden Franken.
+>6. Etwa 7 Milliarden Franken.
+>7. Ob die Schweiz bereit ist, gleich viel in den EU-Forschungstopf einzuzahlen, wie sie daraus bekommt.
 
->[!tip]- Umfrage
->1. Was ist Ihrer Meinung nach der wichtigste Bereich für Bildungsausgaben?
->- A. Hochschulen
->- B. Berufsbildung
->- C. Weiterbildung
->- D. Forschung
->2. Welche Rolle spielt lebenslanges Lernen in Ihrer Karriereplanung?
->- A. Sehr wichtig
->- B. Wichtig
->- C. Weniger wichtig
->- D. Unwichtig
->3. Welche Grundkompetenzen sind für den Arbeitsmarkt am wichtigsten?
->- A. Sprachkompetenz
->- B. Alltagsmathematik
->- C. Digitale Kompetenz
->- D. Soziale Kompetenz
+>[!tip]- Umfrage ![[umfrage 1.jpeg|200]]
+>1. Warum ist lebenslanges Lernen wichtig?
+>- A. Um neue Fähigkeiten zu erlernen.
+>- B. Um beruflich wettbewerbsfähig zu bleiben.
+>- C. Um persönliche Interessen zu verfolgen.
+>- D. Alle oben genannten Gründe.
+>2. Was sollte der Bund Ihrer Meinung nach stärker finanzieren?
+>- A. Hochschulen.
+>- B. Berufsbildung.
+>- C. Weiterbildung.
+>- D. Forschung.
+>3. Welche Kompetenz halten Sie für am wichtigsten im modernen Arbeitsmarkt?
+>- A. Sprachkompetenz.
+>- B. Mathematik.
+>- C. Computerkenntnisse.
+>- D. Soziale Fähigkeiten.
 >Teilnahme 👇
->![[umfrage 1.jpeg|200]]
 >
 >[Link](https://umfrage.streamlit.app)
->
->>[!example]- Ergebnisse
->>
->><iframe width="100%" height="600" src="https://ergebnisse.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
 >[!tip]- Rangliste(n)
 >Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
->1. Welche Bereiche sollten Ihrer Meinung nach mehr finanzielle Unterstützung erhalten?
->- A. Hochschulen
->- B. Berufsbildung
->- C. Weiterbildung
->- D. Forschung
->2. Wie sollten die Bildungsressourcen verteilt werden, um die Bildungsschere zu schließen?
->- A. Mehr Unterstützung für schwächer qualifizierte Personen
->- B. Förderung von Spitzenforschung
->- C. Stärkere Investitionen in die Grundbildung
->- D. Unterstützung lebenslangen Lernens
->3. Welche Maßnahmen würden Sie priorisieren, um die Bildung in der Schweiz zu verbessern?
->- A. Erhöhung der Mittel für Hochschulen
->- B. Ausbau der Weiterbildungsmöglichkeiten
->- C. Verbesserung der Grundkompetenzen
->- D. Stärkung der internationalen Forschungszusammenarbeit
->Teilnahme 👇
+>1. Welche Bildungsinvestitionen sind Ihrer Meinung nach am wichtigsten?
+>- A. Hochschulen.
+>- B. Berufsbildung.
+>- C. Weiterbildung.
+>- D. Forschung.
+>2. Welche Kompetenzen sollten vorrangig gefördert werden?
+>- A. Sprachkompetenz.
+>- B. Alltagsmathematik.
+>- C. Computerkenntnisse.
+>- D. Soziale Fähigkeiten.
+>3. Welche Rolle spielt die internationale Zusammenarbeit in der Forschung?
+>- A. Sehr wichtig.
+>- B. Wichtig.
+>- C. Weniger wichtig.
+>- D. Unwichtig.
+>👇
 >![[rangliste.jpeg|200]]
 >
 >[Link](https://rangliste.streamlit.app)
->
->>[!info]- Ergebnisse
->>
->><iframe width="100%" height="600" src="https://ranglisten.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+
+>[!question] Offene Fragen
+>1. Wie könnte eine stärkere Finanzierung der Weiterbildung Ihre beruflichen Chancen verbessern?
+>2. Welche weiteren Bereiche sollten Ihrer Meinung nach in die Bildungsfinanzierung einbezogen werden?
+>3. Wie sehen Sie die Zukunft der Bildungsfinanzierung in der Schweiz?
+>👇
+>![[pin2.jpeg|200]]
+>[Link](https://pinboard2.streamlit.app)
+
+>[!info]- Ergebnisse
+>## Umfrage
+><iframe width="100%" height="600" src="https://ergebnisse.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>## Ranglisten
+><iframe width="100%" height="600" src="https://ranglisten.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+>## Offene Fragen
+><iframe width="100%" height="600" src="https://pin2erge.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>

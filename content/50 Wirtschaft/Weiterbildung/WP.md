@@ -5,7 +5,7 @@
 > - Verstehen, wie sich die Pandemie auf Weiterbildung und Wirtschaft ausgewirkt hat.
 > - Erkennen der Bedeutung von kontinuierlicher Weiterbildung für die Wettbewerbsfähigkeit.
 
->[!quote] Wählen Sie eine Frage und begründen Sie Ihre Antwort
+>[!question] Wählen Sie eine Frage und begründen Sie Ihre Antwort
 >1. **Wie hat sich Ihr Arbeitsalltag seit der Pandemie verändert?**
 >2. **Welche Bedeutung hat Weiterbildung für Ihre berufliche Zukunft?**
 >3. **Kennen Sie jemanden, der sich beruflich weitergebildet hat? Erzählen Sie darüber.**
@@ -21,8 +21,8 @@
 >
 ><iframe width="100%" height="600" src="https://nuvole.streamlit.app/?embed=true" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
 
-### Weiterführende Fragen
->*Was sind die größten Herausforderungen, die Sie seit der Pandemie in Ihrem Arbeitsalltag erlebt haben?*
+ Weiterführende Fragen
+>*Was sind die grössten Herausforderungen, die Sie seit der Pandemie in Ihrem Arbeitsalltag erlebt haben?*
 >*Warum glauben Sie, dass Weiterbildung in Krisenzeiten wichtig ist?*
 >*Welche Vorteile könnte eine berufliche Weiterbildung für Sie oder jemanden, den Sie kennen, bringen?*
 
