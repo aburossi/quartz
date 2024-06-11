@@ -2,20 +2,30 @@
 tags:
   - Ethik
 ---
-# Was ist es?
+# 🔍Was ist es?
+- **Ethik** ist der **Zweig der Philosophie**, der sich mit **Moral**, **Werten** und dem **richtigen Verhalten** beschäftigt.
+- **Normative Ethik** untersucht, wie Menschen sich **verhalten sollten**, und entwickelt **Regeln** und **Prinzipien** für das **moralische Handeln**.
+- **Metaethik** befasst sich mit den **Grundlagen** und der **Natur** der **moralischen Begriffe**, - **Urteile** und **Argumente**.
+- **Angewandte Ethik** wendet ethische Theorien auf **spezifische Bereiche** wie **Medizin**, **Umwelt** und **Geschäftspraktiken** an.
+- **Deontologie** und **Utilitarismus** sind zwei Haupttheorien der normativen Ethik: **Deontologie** betont die **Pflicht** und **Regeln**, während der **Utilitarismus** den **Nutzen** und die **Konsequenzen** bewertet.
 
-**Ethik** ist ein Zweig der Philosophie, der sich mit den Prinzipien des richtigen und falschen Verhaltens und der moralischen Grundlagen menschlicher Werte und Normen beschäftigt. Sie untersucht, wie Menschen moralische Entscheidungen treffen und nach welchen Kriterien Handlungen als gut oder schlecht beurteilt werden können. Ethik befasst sich mit Fragen der Gerechtigkeit, der Rechte von Individuen und der Verantwortung gegenüber anderen Lebewesen und der Umwelt.
+# ❗Warum es wichtig ist?
+- **Moralische Orientierung**: Ethik bietet **Richtlinien** und **Prinzipien** für **richtiges** und **falsches** Verhalten, die im täglichen Leben angewendet werden können.
+- **Gesellschaftliche Werte**: Sie hilft dabei, **gemeinsame Werte** und **Normen** zu entwickeln, die den **sozialen Zusammenhalt** stärken.
+- **Konfliktlösung**: Ethische Prinzipien bieten **Werkzeuge** zur **Lösung moralischer Konflikte** und zur **Entscheidungsfindung** in schwierigen Situationen.
+- **Verantwortungsbewusstsein**: Fördert ein **Bewusstsein** für die **Verantwortung**, die Menschen gegenüber sich selbst, anderen und der Umwelt haben.
+- **Berufsethik**: In vielen Berufen, wie **Medizin**, **Recht** und **Wirtschaft**, sind ethische Standards entscheidend für **Integrität** und **Vertrauen**.
 
-# Warum es wichtig ist?
+# ⛏Wie es funktioniert?
+- **Ethikkommissionen**: Viele Institutionen haben **Ethikkommissionen**, die **Richtlinien** und **Entscheidungen** basierend auf ethischen Prinzipien prüfen und genehmigen.
+- **Ethische Kodizes**: Berufsgruppen entwickeln **ethische Kodizes**, die als **Leitfäden** für **professionelles Verhalten** dienen.
+- **Bildung und Training**: Ethik wird in **Bildungsprogrammen** und **Berufstrainings** unterrichtet, um das **Bewusstsein** und die **Kompetenz** in moralischen Fragen zu stärken.
+- **Philosophische Argumentation**: Ethiker verwenden **philosophische Methoden**, wie **logische Analyse** und **kritisches Denken**, um ethische Fragen zu bewerten.
+- **Fallstudien**: Angewandte Ethik nutzt **Fallstudien**, um reale Probleme zu untersuchen und **praktische Lösungen** zu entwickeln.
 
-- **Moralische Orientierung:** Ethik bietet einen Leitfaden für moralisches Handeln in persönlichen und sozialen Kontexten.
-- **Entscheidungsfindung:** Sie hilft bei der Bewertung und Auswahl von Handlungen, die ethische Dilemmata lösen können.
-- **Gesellschaftliche Normen:** Ethik beeinflusst die Bildung von gesellschaftlichen Normen und Rechtssystemen.
-- **Konfliktlösung:** Sie bietet Ansätze zur Lösung von Konflikten, die auf unterschiedlichen Wertvorstellungen basieren.
-
-# Wie es funktioniert?
-
-- **Theoretische Ethik:** Entwicklung und Diskussion von ethischen Theorien und Prinzipien.
-- **Angewandte Ethik:** Anwendung ethischer Prinzipien auf spezifische praktische Fragen wie in der Medizinethik, Wirtschaftsethik oder Umweltethik.
-- **Moralische Erziehung:** Vermittlung ethischer Werte und Normen in der Erziehung und Bildung.
-- **Ethikkommissionen:** Bewertung von Forschung und Praxis in verschiedenen Bereichen, um ethische Standards zu gewährleisten.
+# ➕Weitere Quellen
+- [📄 Nachrichten über Ethik](https://www.google.ch/search?q=Ethik&tbm=nws)
+- [🎞 Videos über Ethik](https://www.google.ch/search?q=Ethik&tbm=vid)
+- [⏬ Normative Ethik](https://www.google.ch/search?q=Normative+Ethik)
+- [⏬ Metaethik](https://www.google.ch/search?q=Metaethik)
+- [⏬ Angewandte Ethik](https://www.google.ch/search?q=Angewandte+Ethik)
