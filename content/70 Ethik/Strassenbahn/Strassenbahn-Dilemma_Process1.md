@@ -14,7 +14,7 @@
 >[!tip]- Wortwolke
 >![[answergarden.jpeg|200]]
 >👉[Link](https://answergarden.ch/4128136)
->Welche Emotionen löst der Gedanke an eine lebensverändernde Entscheidung bei Ihnen aus?
+>### Welche Emotionen löst der Gedanke an eine lebensverändernde Entscheidung bei Ihnen aus?
 
 >[!abstract]- Ergebnisse 
 >#### Wortwolke
@@ -37,7 +37,8 @@
 >- Es **hinterfragt** die Rolle von Emotionen und Rationalität in moralischen Entscheidungen
 
 >[!hint] **Video**
-><iframe width="560" height="315" src="https://www.youtube.com/embed/MhOJp1DcabM?si=3tRA6XmHyfN866uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+><iframe width="100%" height="315" src="https://www.youtube.com/embed/MhOJp1DcabM?si=3tRA6XmHyfN866uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>
 >Quelle: [SRF](https://www.youtube.com/watch?v=MhOJp1DcabM&ab_channel=SRFKulturSternstunden)
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
@@ -48,7 +49,6 @@
 >5. **Wie** würden Sie sich entscheiden, wenn der Einzelne ein Ihnen nahestehender Mensch wäre?
 >6. **Warum** könnte jemand die Entscheidung treffen, den Zug nicht umzulenken?
 >7. **Welche** Faktoren könnten Ihre Entscheidung beeinflussen?
-
 >>[!tip]- Reflexion
 >>*Wie würden Sie sich fühlen, wenn Sie in einer solchen Situation eine Entscheidung treffen müssten?*
 >>*Denken Sie an einen Moment zurück, in dem Sie eine schwierige Entscheidung treffen mussten. Wie haben Sie sich dabei gefühlt und was hat Ihnen bei der Entscheidungsfindung geholfen?*
@@ -61,47 +61,14 @@
 >5. Es wird gefragt, ob sich **Menschenleben gegeneinander abwägen** lassen.
 
 >[!question]- Umfrage
->![[umfrage2.jpeg|200]]
->👉[Link](placeholder)
->1. Welche Faktoren würden Ihre Entscheidung im Trolley-Problem am meisten beeinflussen?
->- Emotionale Reaktion
->- Rationale Überlegung
->- Moralische Prinzipien
->- Gesellschaftliche Erwartungen
->2. Wie würden Sie die Verantwortung des Entscheidungsträgers im Trolley-Problem einschätzen?
->- Vollständig verantwortlich
->- Teilweise verantwortlich
->- Nicht verantwortlich
->- Unsicher
->3. Welche Konsequenz des Trolley-Problems halten Sie für am schwerwiegendsten?
->- Psychische Belastung des Entscheidungsträgers
->- Verlust von Menschenleben
->- Ethische Dilemmata in der Gesellschaft
->- Auswirkungen auf zukünftige Entscheidungen
->Ordnen Sie die folgenden Optionen nach Ihrer Präferenz
->1. Rangieren Sie die folgenden Faktoren nach ihrer Wichtigkeit bei ethischen Entscheidungen:
->- Schutz des Einzelnen
->- Grösstmöglicher Nutzen für die Mehrheit
->- Einhaltung moralischer Regeln
->- Persönliche Integrität
->2. Ordnen Sie die folgenden Ansätze zur Lösung ethischer Dilemmata nach ihrer Effektivität:
->- Intuitive Entscheidung
->- Rationale Analyse
->- Konsultation von Experten
->- Befolgen etablierter Richtlinien
->3. Priorisieren Sie die folgenden Aspekte bei der Bewertung einer ethischen Entscheidung:
->- Unmittelbare Konsequenzen
->- Langfristige Auswirkungen
->- Intention des Handelnden
->- Gesellschaftliche Akzeptanz
+>![[QRCode für EDUnews Strassenbahn-Dilemma.png]]
+>👉[Link](https://forms.microsoft.com/e/LWx5cgg2vH)
 
 >[!question]- Offene Fragen
 >- Wie würden Sie das Trolley-Problem lösen, wenn Sie in dieser Situation wären, und warum?
 >- Welche ethischen Prinzipien sollten Ihrer Meinung nach bei der Entwicklung autonomer Fahrzeuge berücksichtigt werden?
 >- Inwiefern glauben Sie, dass kulturelle Unterschiede die Entscheidungsfindung in solchen ethischen Dilemmata beeinflussen könnten?
->![[pin2.jpeg|200]]
->👉[Link](https://pinboard2.streamlit.app)
 
 >[!abstract]- Ergebnisse
 >
-><iframe width="100%" height="600" src="placeholder" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
+><iframe width="100%" height="600" src="https://forms.microsoft.com/Pages/AnalysisPage.aspx?AnalyzerToken=6kHXvrIn0Qx9w0zuccXLNiACQNmb5RTu&id=3JD3sB8inkC07KJqJT_b3gzhkYlYD0VIpERRWTmitHRUNjQ4Q1NJOE5HUkpFTlhDUElXSEVSMDJKWSQlQCNjPTEu" allowfullscreen allow="geolocation *; autoplay; encrypted-media"></iframe>
