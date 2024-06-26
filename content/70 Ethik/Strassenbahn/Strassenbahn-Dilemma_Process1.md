@@ -12,11 +12,9 @@
 >3. **Wie würden Sie reagieren, wenn Sie plötzlich über Leben und Tod entscheiden müssten?**
 
 >[!tip]- Wortwolke
->![[answergarden|200]]
+>![[answergarden.jpeg|200]]
 >👉[Link](https://answergarden.ch/4128136)
->1. Welche Wörter kommen Ihnen in den Sinn, wenn Sie an "moralische Dilemmata" denken?
->2. Nennen Sie Begriffe, die Sie mit "ethischer Entscheidungsfindung" verbinden.
->3. Welche Emotionen löst der Gedanke an eine lebensverändernde Entscheidung bei Ihnen aus?
+>Welche Emotionen löst der Gedanke an eine lebensverändernde Entscheidung bei Ihnen aus?
 
 >[!abstract]- Ergebnisse 
 >#### Wortwolke
@@ -40,14 +38,16 @@
 
 >[!hint] **Video**
 ><iframe width="560" height="315" src="https://www.youtube.com/embed/MhOJp1DcabM?si=3tRA6XmHyfN866uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
->Quelle: [Quelle](https://www.youtube.com/watch?v=MhOJp1DcabM&ab_channel=SRFKulturSternstunden)
+>Quelle: [SRF](https://www.youtube.com/watch?v=MhOJp1DcabM&ab_channel=SRFKulturSternstunden)
 
 >[!quote] Beantworten Sie folgende Verständnisfragen:
->1. **Was** ist die Ausgangssituation des beschriebenen Dilemmas?
->2. **Welches** Problem hat der Wagenführer in der ersten Situation?
->3. **Was** ist der Unterschied in der zweiten Situation auf der Brücke?
->4. **Wie** könnte in der zweiten Situation der Zug gestoppt werden?
->5. **Welche** ethische Frage wird am Ende des Beitrags aufgeworfen?
+>1. **Was** würden Sie tun, wenn Sie nichts unternehmen und die fünf Arbeiter sterben?
+>2. **Wie** würden Sie entscheiden, ob Sie die Weiche umstellen?
+>3. **Warum** ist es schwierig, ein Menschenleben gegen fünf abzuwägen?
+>4. **Was** würden Sie fühlen, wenn Sie den Einzelnen opfern müssten?
+>5. **Wie** würden Sie sich entscheiden, wenn der Einzelne ein Ihnen nahestehender Mensch wäre?
+>6. **Warum** könnte jemand die Entscheidung treffen, den Zug nicht umzulenken?
+>7. **Welche** Faktoren könnten Ihre Entscheidung beeinflussen?
 
 >>[!tip]- Reflexion
 >>*Wie würden Sie sich fühlen, wenn Sie in einer solchen Situation eine Entscheidung treffen müssten?*
