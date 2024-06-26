@@ -54,11 +54,13 @@
 >>*Denken Sie an einen Moment zurück, in dem Sie eine schwierige Entscheidung treffen mussten. Wie haben Sie sich dabei gefühlt und was hat Ihnen bei der Entscheidungsfindung geholfen?*
 
 >[!success]- Antworten
->1. Ein Wagenführer einer **Strassenbahn** kann nicht bremsen und rollt auf **Arbeiter** zu.
->2. Der Wagenführer kann **nicht bremsen**, die Bahn rollt unkontrolliert.
->3. In der zweiten Situation steht man auf einer **Brücke** und kann keine Weiche stellen.
->4. Der Zug könnte gestoppt werden, indem man eine **Person von der Brücke** stösst.
->5. Es wird gefragt, ob sich **Menschenleben gegeneinander abwägen** lassen.
+>1. **Fünf Arbeiter sterben**
+>2. **Abwägung der Konsequenzen**
+>3. **Moralische Schwierigkeit**
+>4. **Schuld und Trauer**
+>5. **Persönliche Bindung**
+>6. **Vermeidung von Schuld**
+>7. **Persönliche Werte und Ethik**
 
 >[!question]- Umfrage
 >![[QRCode für EDUnews Strassenbahn-Dilemma.png]]
