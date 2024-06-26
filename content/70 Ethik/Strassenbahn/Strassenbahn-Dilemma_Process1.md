@@ -63,7 +63,7 @@
 >7. **Persönliche Werte und Ethik**
 
 >[!question]- Umfrage
->![[QRCode für EDUnews Strassenbahn-Dilemma.png]]
+>![[QRCode für EDUnews Strassenbahn-Dilemma.png|200]]
 >👉[Link](https://forms.microsoft.com/e/LWx5cgg2vH)
 
 >[!question]- Offene Fragen
