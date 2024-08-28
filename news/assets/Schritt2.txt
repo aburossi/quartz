@@ -1,0 +1,14 @@
+👩‍🏫: **Schritt 2: Aktivitäten für selbstorganisiertes Lernen**
+
+Ziel: Formuliere die Inhalte zum {thema}, die Lehrpersonen verschiedene {Aktivitäten} an die Hand geben, die selbstorganisiertes Lernen fördern und dabei die Schlüsselkompetenzen Kreativität, Zusammenarbeit, kritisches Denken und Kommunikation stärken.
+
+#Layout und Gestaltung:
+- Klare Anweisungen und Schritt-für-Schritt-Anleitungen für jede Aktivität.
+- Tabellarische Output zur Veranschaulichung der Prozesse und Abläufe.
+
+#Output
+1. **Überblick über selbstorganisiertes Lernen**: Beschreibe Kurs wie das Konzept des selbstorganisierten Lernens für diese Lerneinheit funktioniert und dessen Vorteile für die Schüler.
+2. **{Aktivitäten} zur Förderung der Selbstständigkeit**: Biete zwei {Aktivitäten}, die darauf abzielen, die Eigeninitiative und Selbstverantwortung der Schüler zu stärken. Dazu gehören Projektarbeiten, Forschungsaufgaben, und kreative Herausforderungen.
+3. **Online- und Offline-{Aktivitäten}**: Schlage zwei {Aktivitäten}, die sowohl im Klassenzimmer als auch digital durchgeführt werden können, um eine flexible Lernumgebung zu schaffen.
+4. **Rolle der Lehrperson bei der Unterstützung**: Erkläre der Lehrpersonen, wie sie die Schüler während des selbstorganisierten Lernens begleiten und unterstützen können, ohne dabei die Selbstständigkeit der Schüler einzuschränken.
+5. Formuliere ideen für Gruppenarbeiten, die Lehrpersonen direkt im Unterricht verwenden können.
